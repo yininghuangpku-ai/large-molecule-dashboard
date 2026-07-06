@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Large Molecule Analytical Development Dashboard</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            min-height: 100vh;
+            color: #e0e0e0;
+            padding: 20px;
+        }
+        .header {
+            text-align: center;
+            padding: 30px 20px;
+            margin-bottom: 30px;
+            background: rgba(255,255,255,0.05);
+            border-radius: 15px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        .header h1 {
+            font-size: 2.2em;
+            background: linear-gradient(90deg, #00d2ff, #3a7bd5);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 10px;
+        }
+        .header p {
+            color: #aaa;
+            font-size: 1.1em;
+        }
+        .update-info {
+            text-align: center;
+            color: #888;
+            margin-bottom: 20px;
+            font-size: 0.9em;
+        }
+        .category-tabs {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 30px;
+        }
+        .tab-btn {
+            padding: 10px 20px;
+            border: 1px solid rgba(255,255,255,0.2);
+            background: rgba(255,255,255,0.05);
+            color: #e0e0e0;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-size: 0.95em;
+        }
+        .tab-btn:hover, .tab-btn.active {
+            background: linear-gradient(90deg, #00d2ff, #3a7bd5);
+            color: white;
+            border-color: transparent;
+        }
+        .papers-container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .paper-card {
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 12px;
+            padding: 25px;
+            margin-bottom: 20px;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        .paper-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            border-color: rgba(0,210,255,0.3);
+        }
+        .paper-title {
+            font-size: 1.2em;
+            color: #00d2ff;
+            margin-bottom: 10px;
+            line-height: 1.4;
+        }
+        .paper-title a {
+            color: #00d2ff;
+            text-decoration: none;
+        }
+        .paper-title a:hover {
+            text-decoration: underline;
+        }
+        .paper-authors {
+            color: #aaa;
+            font-size: 0.9em;
+            margin-bottom: 8px;
+        }
+        .paper-journal {
+            color: #888;
+            font-size: 0.85em;
+            margin-bottom: 10px;
+            font-style: italic;
+        }
+        .paper-abstract {
+            color: #ccc;
+            font-size: 0.95em;
+            line-height: 1.6;
+            margin-bottom: 12px;
+        }
+        .paper-category {
+            display: inline-block;
+            padding: 4px 12px;
+            background: rgba(58, 123, 213, 0.2);
+            border: 1px solid rgba(58, 123, 213, 0.4);
+            border-radius: 15px;
+            font-size: 0.8em;
+            color: #7bb3ff;
+        }
+        .paper-date {
+            display: inline-block;
+            margin-left: 10px;
+            font-size: 0.8em;
+            color: #888;
+        }
+        .loading {
+            text-align: center;
+            padding: 50px;
+            color: #aaa;
+        }
+        .stats-bar {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+        .stat-item {
+            text-align: center;
+            padding: 15px 25px;
+            background: rgba(255,255,255,0.05);
+            border-radius: 10px;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        .stat-number {
+            font-size: 1.8em;
+            font-weight: bold;
+            color: #00d2ff;
+        }
+        .stat-label {
+            font-size: 0.85em;
+            color: #aaa;
+            margin-top: 5px;
+        }
+        .no-results {
+            text-align: center;
+            padding: 40px;
+            color: #888;
+            font-size: 1.1em;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🔬 Large Molecule Analytical Development & Characterization</h1>
+        <p>Weekly Research Dashboard — Latest Publications & Trends</p>
+    </div>
+    
+    <div class="update-info" id="updateInfo">
+        Loading latest papers...
+    </div>
+
+    <div class="stats-bar" id="statsBar">
+        <div class="stat-item">
+            <div class="stat-number" id="totalPapers">-</div>
+            <div class="stat-label">Papers This Week</div>
+        </div>
+        <div class="stat-item">
+            <div class="stat-number" id="totalCategories">-</div>
+            <div class="stat-label">Categories</div>
+        </div>
+        <div class="stat-item">
+            <div class="stat-number" id="totalJournals">-</div>
+            <div class="stat-label">Journals</div>
+        </div>
+    </div>
+
+    <div class="category-tabs" id="categoryTabs">
+        <button class="tab-btn active" onclick="filterPapers('all')">All</button>
+        <button class="tab-btn" onclick="filterPapers('mAb Characterization')">mAb Characterization</button>
+        <button class="tab-btn" onclick="filterPapers('Mass Spectrometry')">Mass Spectrometry</button>
+        <button class="tab-btn" onclick="filterPapers('Chromatography')">Chromatography</button>
+        <button class="tab-btn" onclick="filterPapers('Bioassays')">Bioassays</button>
+        <button class="tab-btn" onclick="filterPapers('Glycosylation')">Glycosylation</button>
+        <button class="tab-btn" onclick="filterPapers('Stability')">Stability</button>
+        <button class="tab-btn" onclick="filterPapers('Biosimilars')">Biosimilars</button>
+        <button class="tab-btn" onclick="filterPapers('Novel Modalities')">Novel Modalities</button>
+    </div>
+
+    <div class="papers-container" id="papersContainer">
+        <div class="loading">🔄 Fetching latest research papers...</div>
+    </div>
+
+    <script>
+        let allPapers = [];
+        
+        async function loadPapers() {
+            try {
+                const response = await fetch('papers.json');
+                if (!response.ok) throw new Error('Papers not yet generated');
+                allPapers = await response.json();
+                displayPapers(allPapers);
+                updateStats(allPapers);
+                document.getElementById('updateInfo').textContent = 
+                    `Last updated: ${new Date().toLocaleDateString('en-US', {weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'})}`;
+            } catch (error) {
+                document.getElementById('papersContainer').innerHTML = `
+                    <div class="no-results">
+                        <p>📋 Dashboard is being set up. Papers will appear after the first automated fetch.</p>
+                        <p style="margin-top:15px; font-size:0.9em;">The GitHub Action will run automatically to populate this dashboard.</p>
+                    </div>`;
+                document.getElementById('updateInfo').textContent = 'Awaiting first data fetch...';
+            }
+        }
+
+        function displayPapers(papers) {
+            const container = document.getElementById('papersContainer');
+            if (papers.length === 0) {
+                container.innerHTML = '<div class="no-results">No papers found for this category.</div>';
+                return;
+            }
+            container.innerHTML = papers.map(paper => `
+                <div class="paper-card">
+                    <div class="paper-title">
+                        <a href="${paper.url}" target="_blank">${paper.title}</a>
+                    </div>
+                    <div class="paper-authors">${paper.authors}</div>
+                    <div class="paper-journal">${paper.journal} | ${paper.date}</div>
+                    <div class="paper-abstract">${paper.abstract || 'Abstract not available.'}</div>
+                    <span class="paper-category">${paper.category}</span>
+                    <span class="paper-date">📅 ${paper.date}</span>
+                </div>
+            `).join('');
+        }
+
+        function filterPapers(category) {
+            document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+            
+            if (category === 'all') {
+                displayPapers(allPapers);
+            } else {
+                const filtered = allPapers.filter(p => p.category === category);
+                displayPapers(filtered);
+            }
+        }
+
+        function updateStats(papers) {
+            document.getElementById('totalPapers').textContent = papers.length;
+            const categories = [...new Set(papers.map(p => p.category))];
+            document.getElementById('totalCategories').textContent = categories.length;
+            const journals = [...new Set(papers.map(p => p.journal))];
+            document.getElementById('totalJournals').textContent = journals.length;
+        }
+
+        loadPapers();
+    </script>
+</body>
+</html>
