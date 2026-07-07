@@ -1,50 +1,5 @@
 [
   {
-    "title": "Comparison of knockdown approaches for the generation of stable cell populations expressing afucosylated antibodies.",
-    "authors": "Tsachaki M, Samy A, Peltret M, et al.",
-    "journal": "MAbs",
-    "date": "2026-12-01",
-    "abstract": "Targeted silencing of cellular genes in cell lines stably expressing a secreted recombinant protein offers a flexible and convenient strategy for modulating product quality attributes. However, unlike genetic knockout of a cellular gene or the use of potent inhibitors to eliminate cellular enzyme activity, gene knockdown approaches using microRNAs ",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42285912/",
-    "category": "Glycosylation"
-  },
-  {
-    "title": "Structural Elucidation of Fc- and Fab-Associated N-Glycans in Cetuximab Using Protein A-Assisted Domain-Resolved Glycan Profiling Using Mass Spectrometry.",
-    "authors": "Chauhan D, Shivach T, Rathore AS",
-    "journal": "J Am Soc Mass Spectrom",
-    "date": "2026-07-06",
-    "abstract": "Glycosylation of monoclonal antibodies is a key determinant of their efficacy, stability, and safety, requiring analytical methods capable of resolving site-specific heterogeneity with high sensitivity. In this work, we present a Protein A-assisted, domain-resolved glycan profiling approach for the mass spectrometry-based structural elucidation and",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42406533/",
-    "category": "Glycosylation"
-  },
-  {
-    "title": "Rapid assessment of target-binding fractions in molecular imaging agents using size-exclusion HPLC.",
-    "authors": "McAdoo A, Jouad K, Rosenthal EL, et al.",
-    "journal": "EJNMMI Radiopharm Chem",
-    "date": "2026-07-04",
-    "abstract": "The clinical translation of molecularly targeted therapeutics and imaging agents represents a cornerstone of precision oncology, with the global theranostics market projected to exceed $25 billion by 2030. However, the development of theragnostic agents or diagnostic companions remains constrained by analytical bottlenecks in quality control, such ",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42401754/",
-    "category": "Chromatography"
-  },
-  {
-    "title": "Preventing physical and chemical degradation of the LABL-Fc-MOGR5, a bifunctional peptide inhibitor, with formulation development approaches.",
-    "authors": "Xin L, Mahadik R, Prorok M, et al.",
-    "journal": "Antib Ther",
-    "date": "2026-07-01",
-    "abstract": "LABL-Fc-MOGR5 is a bifunctional peptide inhibitor designed to modulate immune responses in multiple sclerosis, including primary progressive multiple sclerosis. Although therapeutically promising, its development has been hindered by poor physical stability, particularly rapid precipitation under standard formulation conditions. A high-throughput, ",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42382974/",
-    "category": "Novel Modalities"
-  },
-  {
-    "title": "Chemical-Assembled Macrophage-Engaging Glypican-3 × Signal Regulatory Protein-α (SIRP-α) Bispecific Antibody for Immunotherapy Against Liver Cancer.",
-    "authors": "Tang B, Leung WH, Shao C, et al.",
-    "journal": "MedComm (2020)",
-    "date": "2026-07-01",
-    "abstract": "Bispecific antibodies (BsAbs) represent a growing class of cancer immunotherapeutics, yet their wider adoption remains limited by complex recombinant production and limited manufacturing efficiency. Here, we report a chemically assembled macrophage-engaging glypican-3 × signal regulatory protein-α (SIRP-α) bispecific antibody for the treatment of l",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42318525/",
-    "category": "Novel Modalities"
-  },
-  {
     "title": "Development and Integrated Application of the Multi-Attribute Method (MAM) in Quality Control of Biotechnological Drugs.",
     "authors": "Zhu Y, Lou D, Yang C, et al.",
     "journal": "Biotechnol Bioeng",
@@ -63,15 +18,6 @@
     "category": "mAb Characterization"
   },
   {
-    "title": "Prolonged autophagy induction correlates with host cell protein reduction in CHO cell culture.",
-    "authors": "Sahoo A, Tsukidate T, Pendyala G, et al.",
-    "journal": "Biotechnol Prog",
-    "date": "2026-06-20",
-    "abstract": "Autophagy, a cellular recycling process regulated by the CLEAR signaling pathway, plays a pivotal role in maintaining cellular homeostasis. We hypothesize that this process may regulate and reduce high-risk host cell proteins (HCPs) levels by targeting intracellular proteins and organelles for degradation. This study investigates the relationship b",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42322119/",
-    "category": "Glycosylation"
-  },
-  {
     "title": "A Case Study on the Impact of Thermal Hydrolysis and Lactone Ring Opening of Linker-Payload on Drug-to-Antibody Ratio Determination in a Topoisomerase I Inhibitor-Based ADC.",
     "authors": "Liang K, Zhou X, Li H, et al.",
     "journal": "Bioconjug Chem",
@@ -81,42 +27,6 @@
     "category": "mAb Characterization"
   },
   {
-    "title": "Comparative analysis of charge heterogeneity in anti-sclerostin monoclonal antibodies produced via continuous perfusion and fed-batch processes.",
-    "authors": "Yi Y, Xie D, Zhang X, et al.",
-    "journal": "Protein Expr Purif",
-    "date": "2026-06-11",
-    "abstract": "As critical quality attributes, post-translational modifications (PTMs) of therapeutic monoclonal antibodies in production impact their structural stability, charge heterogeneity, and clinical efficacy. This study elucidated PTM-driven charge isomer disparities in anti-sclerostin monoclonal antibodies from continuous perfusion versus fed-batch bior",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42276533/",
-    "category": "Chromatography"
-  },
-  {
-    "title": "Stabilization of spray-dried monoclonal antibody formulations with polymeric excipients.",
-    "authors": "Patil CD, Arte KS, Sapkota R, et al.",
-    "journal": "J Pharm Sci",
-    "date": "2026-06-11",
-    "abstract": "Spray drying is an emerging continuous manufacturing approach with significant potential for producing stable solid formulations of biologic drug products such as peptides, proteins and oligonucleotides. However, these sensitive molecules on exposure to thermal, shear, and interfacial stresses during spray drying may experience structural perturbat",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42276211/",
-    "category": "Chromatography"
-  },
-  {
-    "title": "Multivariate analysis of the effects of high seeding density on therapeutic protein production and sialylation in an intensified CHO cell culture process.",
-    "authors": "Lee HM, Kim HS, Kim YG",
-    "journal": "Bioprocess Biosyst Eng",
-    "date": "2026-06-11",
-    "abstract": "Intensified processes in Chinese hamster ovary (CHO) cell culture are increasingly implemented to enhance therapeutic protein production in biopharmaceutical manufacturing; however, their impact on glycan-related product quality attributes, particularly terminal sialylation, remains insufficiently characterized. In this study, a design of experimen",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42274797/",
-    "category": "Glycosylation"
-  },
-  {
-    "title": "Site-specific enrichment of highly sialylated N-glycans in an erythropoietin-hybrid Fc fusion protein.",
-    "authors": "Park J, Eom D, Park CS, et al.",
-    "journal": "Eur J Pharm Biopharm",
-    "date": "2026-06-09",
-    "abstract": "Erythropoietin-hybrid Fc fusion protein (EPO-hyFc), comprising an EPO domain fused to a hybrid IgD-IgG4 Fc, is a next-generation erythropoiesis-stimulating agent with an approximately two-fold longer serum half-life than darbepoetin alfa, a clinically established long-acting EPO formulation. Although sialylation at Asn-38 and Asn-83 is known to mod",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42264005/",
-    "category": "Glycosylation"
-  },
-  {
     "title": "In-depth glycosylation and aspartic acid isomerization characterization of therapeutic fusion protein using electron transfer/higher-energy collision dissociation on the new hybrid high-resolution mass spectrometer.",
     "authors": "Wu G, Zhang X, Du J, et al.",
     "journal": "J Pharm Biomed Anal",
@@ -124,15 +34,6 @@
     "abstract": "Glycosylation is a critical post-translational modification (PTM) in biotherapeutics that influences protein structure, stability, pharmacokinetics, biological activity, and immunogenicity. Comprehensive characterization of glycosylation and other PTMs is therefore important for biopharmaceutical development and quality assessment. Aflibercept is a",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42250337/",
     "category": "mAb Characterization"
-  },
-  {
-    "title": "Investigation of Fill-Finish Tubing Compatibility in the Absence of Protein Stabilizers.",
-    "authors": "Vargas SK, Moshashaee S, Siahaan T",
-    "journal": "PDA J Pharm Sci Technol",
-    "date": "2026-06-01",
-    "abstract": "Optimization of the fill-finish process for a biotherapeutic is imperative for the highest quality drug product. Fill-finish is the last step in manufacturing and the last opportunity for intervention prior to entry into the supply chain. Typically, stabilizing excipients are utilized to mitigate chemical or structural weaknesses of a protein thera",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42225406/",
-    "category": "Chromatography"
   },
   {
     "title": "Optimized iCIEF Fractionation Enables Deep Profiling of Antibody Drug Conjugate Charge Heterogeneity.",
@@ -153,15 +54,6 @@
     "category": "mAb Characterization"
   },
   {
-    "title": "Development and preliminary physicochemical characterization of a Ramucirumab biosimilar candidate in CHO cells using shake-flask fed-batch culture.",
-    "authors": "Cagatay E, Gungor Y, Ozturk SS, et al.",
-    "journal": "Bioprocess Biosyst Eng",
-    "date": "2026-05-27",
-    "abstract": "The development of biosimilar monoclonal antibodies requires strict control of critical quality attributes and a detailed understanding of cell culture performance. This study describes the development and preliminary physicochemical characterization of a candidate biosimilar monoclonal antibody targeting VEGFR-2 produced in CHO cells. Seventy-five",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42192004/",
-    "category": "Chromatography"
-  },
-  {
     "title": "Understanding the Aggregation Mechanism of and Developing Stabilization Strategies for Recombinant Fibroblast Growth Factor 2.",
     "authors": "Cheng R, Oganesyan N, Lees A, et al.",
     "journal": "Biomolecules",
@@ -178,32 +70,5 @@
     "abstract": "Tauopathies, including Alzheimer's disease (AD), progressive supranuclear palsy (PSP), corticobasal degeneration (CBD), and frontotemporal lobar degeneration with tau pathology, are unified by pathogenic tau misfolding, post-translational modification, aggregation, and network-level spread. Yet decades of drug development that predominantly pursued",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42198466/",
     "category": "mAb Characterization"
-  },
-  {
-    "title": "Advances in Biosimilars: A Systematic Review of Machine Learning Applications.",
-    "authors": "Duarte V, Bas TG",
-    "journal": "Pharmaceuticals (Basel)",
-    "date": "2026-05-08",
-    "abstract": "Background/Objectives: Biosimilars are medicinal products derived from reference biologics and designed to demonstrate a high degree of similarity in quality, efficacy, safety, and immunogenicity. Machine learning (ML) and other artificial intelligence (AI) methodologies have emerged as important tools in this field in biosimilar research and devel",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42198419/",
-    "category": "Glycosylation"
-  },
-  {
-    "title": "Application of a novel LC-MS-based proteomic workflow for host cell protein monitoring and risk control in biotherapeutics.",
-    "authors": "Yu X, Cheng J, Lv Q, et al.",
-    "journal": "Antib Ther",
-    "date": "2026-04-01",
-    "abstract": "Comprehensive monitoring of host cell proteins (HCPs) is essential for ensuring the quality, safety, and consistency of antibody therapeutics. Conventional enzyme-linked immunosorbent assay-based assays provide only total HCP burden and lack the resolution to identify individual, functionally active impurities that may affect product stability or e",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42145658/",
-    "category": "Chromatography"
-  },
-  {
-    "title": "NbBayesLM: bayesian prediction of nanobody thermostability using protein language model.",
-    "authors": "Shishir FS, Rudro R, Sarker B, et al.",
-    "journal": "Front Bioinform",
-    "date": "2026-01-01",
-    "abstract": "Nanobodies, single-domain antibodies derived from camelids, are promising biologics due to their small size and high stability. Accurate prediction of their thermostability is critical for therapeutic and diagnostic applications. Due to their ability to bind conformationally constrained epitopes that are typically inaccessible to conventional antib",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42317504/",
-    "category": "Novel Modalities"
   }
 ]
