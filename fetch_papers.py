@@ -2,25 +2,69 @@ import urllib.request
 import urllib.parse
 import xml.etree.ElementTree as ET
 import json
-import html
-from datetime import datetime, timedelta
+import re
+from datetime import datetime
 
-def fetch_arxiv_papers(query, max_results=5):
+# Category names MUST match the tab buttons in index.html exactly.
+# Each category maps to one or more (source, query) pairs.
+CATEGORIES = {
+    "mAb Characterization": [
+        ("arxiv", "monoclonal antibody characterization higher order structure"),
+        ("pubmed", "monoclonal antibody characterization analytical"),
+    ],
+    "Mass Spectrometry": [
+        ("arxiv", "mass spectrometry protein therapeutics biologics"),
+        ("pubmed", "mass spectrometry monoclonal antibody characterization"),
+    ],
+    "Chromatography": [
+        ("arxiv", "liquid chromatography protein separation biopharmaceutical"),
+        ("pubmed", "chromatography biopharmaceutical protein analytical"),
+    ],
+    "Bioassays": [
+        ("pubmed", "bioassay potency biologics monoclonal antibody"),
+    ],
+    "Glycosylation": [
+        ("pubmed", "glycosylation therapeutic antibody analytical"),
+    ],
+    "Stability": [
+        ("pubmed", "stability aggregation therapeutic protein formulation"),
+    ],
+    "Biosimilars": [
+        ("pubmed", "biosimilar analytical similarity comparability"),
+    ],
+    "Novel Modalities": [
+        ("pubmed", "antibody drug conjugate bispecific characterization analytical"),
+    ],
+}
+
+USER_AGENT = "LargeMoleculeDashboard/1.0 (https://github.com/yininghuangpku-ai/large-molecule-dashboard)"
+
+
+def _get(url, timeout=30):
+    req = urllib.request.Request(url)
+    req.add_header("User-Agent", USER_AGENT)
+    with urllib.request.urlopen(req, timeout=timeout) as response:
+        return response.read().decode("utf-8")
+
+
+def _clean(text):
+    """Collapse whitespace/newlines into single spaces."""
+    return re.sub(r"\s+", " ", (text or "").strip())
+
+
+def fetch_arxiv(query, category, max_results=5):
     base_url = "http://export.arxiv.org/api/query?"
     params = {
-        "search_query": query,
+        "search_query": "all:" + query,
         "start": 0,
         "max_results": max_results,
         "sortBy": "submittedDate",
-        "sortOrder": "descending"
+        "sortOrder": "descending",
     }
     url = base_url + urllib.parse.urlencode(params)
     papers = []
     try:
-        req = urllib.request.Request(url)
-        req.add_header("User-Agent", "LargeMoleculeDashboard/1.0")
-        with urllib.request.urlopen(req, timeout=30) as response:
-            data = response.read().decode("utf-8")
+        data = _get(url)
         root = ET.fromstring(data)
         ns = {"atom": "http://www.w3.org/2005/Atom"}
         for entry in root.findall("atom:entry", ns):
@@ -29,213 +73,155 @@ def fetch_arxiv_papers(query, max_results=5):
             published_el = entry.find("atom:published", ns)
             link_el = entry.find("atom:id", ns)
             authors = entry.findall("atom:author/atom:name", ns)
-            title = title_el.text.strip().replace("
-", " ") if title_el is not None else "No title"
-            summary = summary_el.text.strip().replace("
-", " ")[:200] if summary_el is not None else ""
-            published = published_el.text[:10] if published_el is not None else ""
-            link = link_el.text if link_el is not None else ""
-            author_list = [a.text for a in authors[:3]]
+
+            title = _clean(title_el.text) if title_el is not None else "No title"
+            abstract = _clean(summary_el.text)[:350] if summary_el is not None else ""
+            date = published_el.text[:10] if published_el is not None else ""
+            url_link = link_el.text.strip() if link_el is not None else ""
+
+            author_names = [_clean(a.text) for a in authors[:3]]
             if len(authors) > 3:
-                author_list.append("et al.")
+                author_names.append("et al.")
+
             papers.append({
                 "title": title,
-                "authors": ", ".join(author_list),
-                "date": published,
-                "summary": summary,
-                "link": link,
-                "source": "arXiv"
+                "authors": ", ".join(author_names),
+                "journal": "arXiv",
+                "date": date,
+                "abstract": abstract,
+                "url": url_link,
+                "category": category,
             })
     except Exception as e:
-        print(f"Error fetching from arXiv: {e}")
+        print(f"  [arXiv] error for '{query}': {e}")
     return papers
 
 
-def fetch_pubmed_papers(query, max_results=5):
+def fetch_pubmed(query, category, max_results=5):
     papers = []
     try:
-        search_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?"
-        search_params = {
+        # Step 1: search for PubMed IDs, most recent first.
+        search_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?" + urllib.parse.urlencode({
             "db": "pubmed",
             "term": query,
             "retmax": max_results,
             "sort": "date",
-            "retmode": "json"
-        }
-        search_full_url = search_url + urllib.parse.urlencode(search_params)
-        req = urllib.request.Request(search_full_url)
-        req.add_header("User-Agent", "LargeMoleculeDashboard/1.0")
-        with urllib.request.urlopen(req, timeout=30) as response:
-            search_data = json.loads(response.read().decode("utf-8"))
+            "retmode": "json",
+        })
+        search_data = json.loads(_get(search_url))
         id_list = search_data.get("esearchresult", {}).get("idlist", [])
         if not id_list:
             return papers
-        fetch_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?"
-        fetch_params = {
+
+        # Step 2: fetch full records (title, abstract, authors, journal, date).
+        fetch_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?" + urllib.parse.urlencode({
             "db": "pubmed",
             "id": ",".join(id_list),
-            "retmode": "json"
-        }
-        fetch_full_url = fetch_url + urllib.parse.urlencode(fetch_params)
-        req2 = urllib.request.Request(fetch_full_url)
-        req2.add_header("User-Agent", "LargeMoleculeDashboard/1.0")
-        with urllib.request.urlopen(req2, timeout=30) as response:
-            fetch_data = json.loads(response.read().decode("utf-8"))
-        results = fetch_data.get("result", {})
-        for pmid in id_list:
-            article = results.get(pmid, {})
-            if not isinstance(article, dict):
-                continue
-            title = article.get("title", "No title")
-            authors_raw = article.get("authors", [])
-            author_names = [a.get("name", "") for a in authors_raw[:3]]
-            if len(authors_raw) > 3:
-                author_names.append("et al.")
-            pub_date = article.get("pubdate", "")
-            link = "https://pubmed.ncbi.nlm.nih.gov/" + pmid + "/"
+            "retmode": "xml",
+        })
+        xml_data = _get(fetch_url)
+        root = ET.fromstring(xml_data)
+
+        for article in root.findall(".//PubmedArticle"):
+            pmid_el = article.find(".//MedlineCitation/PMID")
+            pmid = pmid_el.text if pmid_el is not None else ""
+
+            title_el = article.find(".//ArticleTitle")
+            title = _clean("".join(title_el.itertext())) if title_el is not None else "No title"
+
+            abstract_parts = [_clean("".join(a.itertext())) for a in article.findall(".//Abstract/AbstractText")]
+            abstract = _clean(" ".join(abstract_parts))[:350]
+
+            author_names = []
+            for author in article.findall(".//AuthorList/Author"):
+                last = author.find("LastName")
+                initials = author.find("Initials")
+                if last is not None:
+                    name = last.text or ""
+                    if initials is not None and initials.text:
+                        name += " " + initials.text
+                    author_names.append(_clean(name))
+            display_authors = author_names[:3]
+            if len(author_names) > 3:
+                display_authors.append("et al.")
+
+            journal_el = article.find(".//Journal/ISOAbbreviation")
+            if journal_el is None:
+                journal_el = article.find(".//Journal/Title")
+            journal = _clean(journal_el.text) if journal_el is not None else "PubMed"
+
+            date = _parse_pubmed_date(article)
+
             papers.append({
                 "title": title,
-                "authors": ", ".join(author_names),
-                "date": pub_date,
-                "summary": "",
-                "link": link,
-                "source": "PubMed"
+                "authors": ", ".join(display_authors),
+                "journal": journal,
+                "date": date,
+                "abstract": abstract,
+                "url": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
+                "category": category,
             })
     except Exception as e:
-        print(f"Error fetching from PubMed: {e}")
+        print(f"  [PubMed] error for '{query}': {e}")
     return papers
 
 
-def generate_html(all_papers):
-    now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
-    html = """<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Large Molecule Analytical Development Dashboard</title>
-    <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f0f2f5; color: #333; line-height: 1.6; }
-        .header { background: linear-gradient(135deg, #1a237e 0%, #4a148c 100%); color: white; padding: 2rem; text-align: center; }
-        .header h1 { font-size: 1.8rem; margin-bottom: 0.5rem; }
-        .header p { opacity: 0.9; font-size: 0.95rem; }
-        .container { max-width: 1200px; margin: 0 auto; padding: 2rem; }
-        .category-section { margin-bottom: 2rem; }
-        .category-title { font-size: 1.3rem; color: #1a237e; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid #1a237e; }
-        .paper-card { background: white; border-radius: 8px; padding: 1.5rem; margin-bottom: 1rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.2s; }
-        .paper-card:hover { transform: translateY(-2px); box-shadow: 0 4px 8px rgba(0,0,0,0.15); }
-        .paper-title { font-size: 1.05rem; font-weight: 600; color: #1a237e; margin-bottom: 0.5rem; }
-        .paper-title a { color: inherit; text-decoration: none; }
-        .paper-title a:hover { text-decoration: underline; }
-        .paper-meta { font-size: 0.85rem; color: #666; margin-bottom: 0.5rem; }
-        .paper-summary { font-size: 0.9rem; color: #555; }
-        .source-badge { display: inline-block; padding: 2px 8px; border-radius: 12px; font-size: 0.75rem; font-weight: 600; margin-right: 8px; }
-        .source-arxiv { background: #fff3e0; color: #e65100; }
-        .source-pubmed { background: #e8f5e9; color: #2e7d32; }
-        .footer { text-align: center; padding: 2rem; color: #666; font-size: 0.85rem; }
-        .no-papers { text-align: center; padding: 2rem; color: #999; }
-    </style>
-</head>
-<body>
-    <div class="header">
-        <h1>Large Molecule Analytical Development & Characterization</h1>
-        <p>Latest Research Papers Dashboard</p>
-        <p style="margin-top: 0.5rem; font-size: 0.85rem;">Last updated: """
-    html += now
-    html += """</p>
-    </div>
-    <div class="container">
-"""
-
-    for category, papers in all_papers.items():
-        html += '        <div class="category-section">
-'
-        html += '            <h2 class="category-title">' + html_escape(category) + '</h2>
-'
-        if not papers:
-            html += '            <p class="no-papers">No recent papers found.</p>
-'
-        else:
-            for paper in papers:
-                source_class = "source-arxiv" if paper["source"] == "arXiv" else "source-pubmed"
-                html += '            <div class="paper-card">
-'
-                html += '                <div class="paper-title"><a href="' + html_escape(paper["link"]) + '" target="_blank">' + html_escape(paper["title"]) + '</a></div>
-'
-                html += '                <div class="paper-meta">
-'
-                html += '                    <span class="source-badge ' + source_class + '">' + html_escape(paper["source"]) + '</span>
-'
-                html += '                    ' + html_escape(paper["authors"]) + ' | ' + html_escape(paper["date"]) + '
-'
-                html += '                </div>
-'
-                if paper["summary"]:
-                    html += '                <div class="paper-summary">' + html_escape(paper["summary"]) + '...</div>
-'
-                html += '            </div>
-'
-        html += '        </div>
-'
-
-    html += """    </div>
-    <div class="footer">
-        <p>Auto-updated weekly via GitHub Actions | Data from arXiv and PubMed</p>
-    </div>
-</body>
-</html>"""
-    return html
+MONTHS = {
+    "jan": "01", "feb": "02", "mar": "03", "apr": "04", "may": "05", "jun": "06",
+    "jul": "07", "aug": "08", "sep": "09", "oct": "10", "nov": "11", "dec": "12",
+}
 
 
-def html_escape(text):
-    return html.escape(str(text))
+def _parse_pubmed_date(article):
+    """Return an ISO-ish YYYY-MM-DD date string (best effort) for sorting/display."""
+    pubdate = article.find(".//Journal/JournalIssue/PubDate")
+    if pubdate is None:
+        pubdate = article.find(".//ArticleDate")
+    if pubdate is None:
+        return ""
+    year = pubdate.findtext("Year", "")
+    month = pubdate.findtext("Month", "")
+    day = pubdate.findtext("Day", "")
+    if month:
+        month = MONTHS.get(month.strip().lower()[:3], month.zfill(2) if month.isdigit() else "01")
+    else:
+        month = "01"
+    day = day.zfill(2) if day.isdigit() else "01"
+    if not year:
+        # Sometimes only a MedlineDate free-text string is present.
+        medline = pubdate.findtext("MedlineDate", "")
+        m = re.search(r"(\d{4})", medline)
+        year = m.group(1) if m else ""
+    if not year:
+        return ""
+    return f"{year}-{month}-{day}"
 
 
 def main():
-    categories = {
-        "Antibody Characterization & Higher-Order Structure": [
-            ("arXiv", "antibody characterization higher order structure"),
-            ("pubmed", "antibody characterization higher order structure analytical")
-        ],
-        "Mass Spectrometry for Biologics": [
-            ("arXiv", "mass spectrometry biologics protein therapeutics"),
-            ("pubmed", "mass spectrometry monoclonal antibody characterization")
-        ],
-        "Chromatography & Separation Science": [
-            ("arXiv", "liquid chromatography protein separation biopharmaceutical"),
-            ("pubmed", "chromatography biopharmaceutical protein analytical")
-        ],
-        "Biosimilar Analytical Assessment": [
-            ("arXiv", "biosimilar analytical similarity assessment"),
-            ("pubmed", "biosimilar analytical characterization comparability")
-        ],
-        "Post-Translational Modifications": [
-            ("arXiv", "post translational modification therapeutic protein"),
-            ("pubmed", "post-translational modifications biotherapeutics analytical")
-        ]
-    }
+    all_papers = []
+    seen = set()
 
-    all_papers = {}
-    for category, queries in categories.items():
-        papers = []
-        for source, query in queries:
-            if source == "arXiv":
-                papers.extend(fetch_arxiv_papers(query, max_results=3))
+    for category, sources in CATEGORIES.items():
+        count_before = len(all_papers)
+        for source, query in sources:
+            if source == "arxiv":
+                results = fetch_arxiv(query, category, max_results=4)
             else:
-                papers.extend(fetch_pubmed_papers(query, max_results=3))
-        papers.sort(key=lambda x: x.get("date", ""), reverse=True)
-        all_papers[category] = papers[:6]
-        print(f"Fetched {len(papers)} papers for: {category}")
+                results = fetch_pubmed(query, category, max_results=4)
+            for paper in results:
+                key = paper["title"].lower()[:80]
+                if not paper["title"] or key in seen:
+                    continue
+                seen.add(key)
+                all_papers.append(paper)
+        print(f"{category}: +{len(all_papers) - count_before} papers")
 
-    html_content = generate_html(all_papers)
-    with open("index.html", "w", encoding="utf-8") as f:
-        f.write(html_content)
-    print("Dashboard updated successfully!")
+    # Newest first. Empty dates sort to the bottom.
+    all_papers.sort(key=lambda p: p.get("date") or "", reverse=True)
 
     with open("papers.json", "w", encoding="utf-8") as f:
         json.dump(all_papers, f, indent=2, ensure_ascii=False)
-    print("Papers data saved to papers.json")
+    print(f"\nWrote {len(all_papers)} papers to papers.json")
 
 
 if __name__ == "__main__":
