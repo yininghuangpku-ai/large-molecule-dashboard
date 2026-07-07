@@ -1,23 +1,5 @@
 [
   {
-    "title": "Establishment of a reporter gene-based assay to determine ADCC activity of anti-tetanus toxin monoclonal antibody.",
-    "authors": "Jin X, Liu B, Hu M, et al.",
-    "journal": "Toxicon",
-    "date": "2026-09-15",
-    "abstract": "Tetanus remains a serious health concern, and therapeutic monoclonal antibodies targeting the tetanus toxin C-fragment (TT-C) require reliable methods to assess antibody-dependent cell-mediated cytotoxicity (ADCC) activity. In this study, we describe the development of a validated luciferase reporter ADCC assay using a stable Flp-In CHO cell line s",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42144201/",
-    "category": "Bioassays"
-  },
-  {
-    "title": "Identification of anticancer and cardioprotective quality markers in Chuanxiong Rhizoma using a bioassay driven effect-constituent index approach.",
-    "authors": "Yang J, Liu X, Fan L, et al.",
-    "journal": "J Pharm Biomed Anal",
-    "date": "2026-09-01",
-    "abstract": "Ligusticum Chuanxiong (Chuanxiong Rhizoma) is used in Traditional Chinese medicine (TCM) and has cardioprotective effects. Trastuzumab improves outcomes in HER2-positive breast cancer, but acquired resistance and cardiotoxicity limit its utility. Current quality-control methods rarely integrate composition with functional efficacy, hindering ration",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42013688/",
-    "category": "Bioassays"
-  },
-  {
     "title": "Ultrasensitive Immunoassay Using a Novel Galactose-Deficient IgA1 Antibody and Its Clinical Application in the Diagnosis of IgAN.",
     "authors": "Kao S, Zhang Y, Dang S, et al.",
     "journal": "Kidney Int Rep",
@@ -144,15 +126,6 @@
     "category": "Mass Spectrometry"
   },
   {
-    "title": "Ustekinumab Biosimilars versus Reference Ustekinumab for Moderate-to-Severe Plaque Psoriasis: A Pre-switch Systematic Review and Meta-analysis.",
-    "authors": "Montes-de-Oca-Saucedo CR, Ghanem L, Kirmani N, et al.",
-    "journal": "BioDrugs",
-    "date": "2026-07-02",
-    "abstract": "Ustekinumab biosimilars have expanded treatment options for moderate-to-severe plaque psoriasis, but pooled evidence is needed to determine whether they achieve therapeutic equivalence to reference ustekinumab during the initial randomized comparative period before protocol-defined switching. The aim of this systematic review was to assess the ther",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42393486/",
-    "category": "Biosimilars"
-  },
-  {
     "title": "Bioprocess Development of a Human Monoclonal Antibody against MERS-CoV: Analytical and Preclinical Studies.",
     "authors": "Lim J, Lee H, Lee JY, et al.",
     "journal": "Biomol Ther (Seoul)",
@@ -189,33 +162,6 @@
     "category": "Glycosylation"
   },
   {
-    "title": "Preventing physical and chemical degradation of the LABL-Fc-MOGR5, a bifunctional peptide inhibitor, with formulation development approaches.",
-    "authors": "Xin L, Mahadik R, Prorok M, et al.",
-    "journal": "Antib Ther",
-    "date": "2026-07-01",
-    "abstract": "LABL-Fc-MOGR5 is a bifunctional peptide inhibitor designed to modulate immune responses in multiple sclerosis, including primary progressive multiple sclerosis. Although therapeutically promising, its development has been hindered by poor physical stability, particularly rapid precipitation under standard formulation conditions. A high-throughput, ",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42382974/",
-    "category": "Stability"
-  },
-  {
-    "title": "Review of Quality Attributes and Analytical Methods Used for Comparative Analytical Assessment of Monoclonal Antibodies as Part of Successful Biosimilar Approvals in the United States and European Union.",
-    "authors": "Aithal R, Majedi OM, McCarthy D, et al.",
-    "journal": "BioDrugs",
-    "date": "2026-07-01",
-    "abstract": "Monoclonal antibodies (mAbs) have revolutionized therapeutic treatments by their ability to target specific antigens, leading to enhanced clinical outcomes over other drugs. They are one of the largest modalities within the growing biotherapeutics space and are indicated for a range of diseases. Though transformative, mAbs are still not readily acc",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42310272/",
-    "category": "Biosimilars"
-  },
-  {
-    "title": "Bridging solubility, stability, and translation: advances in carbon nanotube-based drug delivery systems.",
-    "authors": "R P, Gowda J, A M D, et al.",
-    "journal": "Daru",
-    "date": "2026-06-29",
-    "abstract": "Poor aqueous solubility and physicochemical instability remain major barriers in pharmaceutical development, limiting the bioavailability, therapeutic efficacy, and translational success of numerous drug candidates. Carbon nanotubes (CNTs), owing to their high surface area, tunable surface chemistry, and unique π-conjugated structure, have emerged ",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42366286/",
-    "category": "Stability"
-  },
-  {
     "title": "Development and Integrated Application of the Multi-Attribute Method (MAM) in Quality Control of Biotechnological Drugs.",
     "authors": "Zhu Y, Lou D, Yang C, et al.",
     "journal": "Biotechnol Bioeng",
@@ -243,15 +189,6 @@
     "category": "Mass Spectrometry"
   },
   {
-    "title": "Insulin complexation with curcumin derivative mitigates the protein amyloidosis and efficiently manages diabetes in Drosophila melanogaster.",
-    "authors": "Ojha M, Yadav A, Behera P, et al.",
-    "journal": "Int J Biol Macromol",
-    "date": "2026-06-22",
-    "abstract": "Insulin, a peptide hormone commonly used in the therapeutic management of diabetes mellitus, is anticipated to aggregate at sites of recurrent injections in diabetic patients. These aggregates are comprised of insoluble insulin fibrils, which can lead to localized inflammatory reactions and impaired insulin uptake. Therefore, it is essential to for",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42331169/",
-    "category": "Stability"
-  },
-  {
     "title": "Prolonged autophagy induction correlates with host cell protein reduction in CHO cell culture.",
     "authors": "Sahoo A, Tsukidate T, Pendyala G, et al.",
     "journal": "Biotechnol Prog",
@@ -259,15 +196,6 @@
     "abstract": "Autophagy, a cellular recycling process regulated by the CLEAR signaling pathway, plays a pivotal role in maintaining cellular homeostasis. We hypothesize that this process may regulate and reduce high-risk host cell proteins (HCPs) levels by targeting intracellular proteins and organelles for degradation. This study investigates the relationship b",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42322119/",
     "category": "Glycosylation"
-  },
-  {
-    "title": "Comparative overview of biosimilar regulatory frameworks and international harmonization trends.",
-    "authors": "Khan MS, Khan SM, Saini AK, et al.",
-    "journal": "Expert Opin Biol Ther",
-    "date": "2026-06-17",
-    "abstract": "Biosimilar development is undergoing regulatory change, with growing emphasis on analytical comparability and targeted clinical pharmacology rather than routine comparative efficacy studies. A focused review is therefore needed to understand how global regulatory expectations are evolving, where they are converging, and what this means for future d",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42284082/",
-    "category": "Biosimilars"
   },
   {
     "title": "Pseudotargeted peptidomics approach for identifying species-specific biomarkers in fermented Cordyceps products: A case study on Bailing Capsule.",
@@ -288,24 +216,6 @@
     "category": "Glycosylation"
   },
   {
-    "title": "Understanding the Aggregation Mechanism of and Developing Stabilization Strategies for Recombinant Fibroblast Growth Factor 2.",
-    "authors": "Cheng R, Oganesyan N, Lees A, et al.",
-    "journal": "Biomolecules",
-    "date": "2026-05-23",
-    "abstract": "Fibroblast Growth Factor 2 (FGF2) is a highly effective regulator of cell proliferation, differentiation, migration, and adhesion, suggesting a significant therapeutic potential as a tissue regeneration promoter both in acute and chronic tissue damage settings. Despite an extensive list of pathologies that lend themselves as viable targets for FGF2",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42352237/",
-    "category": "Stability"
-  },
-  {
-    "title": "Advances in Biosimilars: A Systematic Review of Machine Learning Applications.",
-    "authors": "Duarte V, Bas TG",
-    "journal": "Pharmaceuticals (Basel)",
-    "date": "2026-05-08",
-    "abstract": "Background/Objectives: Biosimilars are medicinal products derived from reference biologics and designed to demonstrate a high degree of similarity in quality, efficacy, safety, and immunogenicity. Machine learning (ML) and other artificial intelligence (AI) methodologies have emerged as important tools in this field in biosimilar research and devel",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42198419/",
-    "category": "Biosimilars"
-  },
-  {
     "title": "Online Deglycosylation of Monomeric Intact Proteins Using the PNGase Rc Immobilized-Enzyme Reactor.",
     "authors": "Molnárová K, Novák P, Nováková J, et al.",
     "journal": "ACS Omega",
@@ -313,24 +223,6 @@
     "abstract": "Protein glycosylation is essential, as variations in glycan structures can influence the structural stability, biological activity, and therapeutic performance of proteins. The complexity of glycoproteins typically requires advanced analytical approaches for structural determination. Removal of glycans from glycoproteins simplifies the analysis of ",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42110743/",
     "category": "Glycosylation"
-  },
-  {
-    "title": "Analytical Physicochemical and Functional Studies to Compare AryoTrust, a Follow-On Biologics, with the Originator Trastuzumab (Herceptin).",
-    "authors": "Al-Kinani KK, Alkufi HK, Taher SS",
-    "journal": "Pharmaceutics",
-    "date": "2026-03-20",
-    "abstract": "Background: Trastuzumab is a blockbuster monoclonal antibody that has revolutionized the treatment of HER2-positive breast and gastric cancers. With the increasing availability of biosimilar monoclonal antibodies in clinical practice, independent verification of biosimilarity using products sampled from a real-world supply chain is important to ass",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41900869/",
-    "category": "Bioassays"
-  },
-  {
-    "title": "Advances in LC-MS strategies for comprehensive characterization and quantification of antibody-drug conjugates in preclinical and clinical settings.",
-    "authors": "Kumar D, Trivedi N",
-    "journal": "J Chromatogr A",
-    "date": "2026-01-11",
-    "abstract": "Antibody-Drug Conjugates (ADCs) represent a rapidly growing class of targeted therapeutics, combining the specificity of monoclonal antibodies with the potency of cytotoxic payloads. The structural complexity and heterogeneity of ADCs arising from variations in drug to antibody ratio (DAR), conjugation sites, and post translational modifications de",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41371079/",
-    "category": "Bioassays"
   },
   {
     "title": "Recent advances and applications of capillary electrophoresis-sodium dodecyl sulfate for characterization and fragment identification of monoclonal antibodies and their derivatives.",
