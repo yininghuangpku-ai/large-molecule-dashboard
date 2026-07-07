@@ -1,8 +1,10 @@
 import urllib.request
 import urllib.parse
+import urllib.error
 import xml.etree.ElementTree as ET
 import json
 import re
+import time
 from datetime import datetime
 
 # Category names MUST match the tab buttons in index.html exactly.
@@ -70,11 +72,34 @@ CATEGORIES = {name: build_query(topic) for name, topic in CATEGORY_TOPICS.items(
 USER_AGENT = "LargeMoleculeDashboard/1.0 (https://github.com/yininghuangpku-ai/large-molecule-dashboard)"
 
 
-def _get(url, timeout=30):
-    req = urllib.request.Request(url)
-    req.add_header("User-Agent", USER_AGENT)
-    with urllib.request.urlopen(req, timeout=timeout) as response:
-        return response.read().decode("utf-8")
+def _get(url, timeout=30, retries=4):
+    """Fetch a URL, throttled and retried.
+
+    NCBI E-utilities allow ~3 requests/second per IP without an API key and
+    return HTTP 429 when exceeded. We space requests out and retry with backoff
+    so a shared CI IP doesn't silently drop whole categories.
+    """
+    last_error = None
+    for attempt in range(retries):
+        time.sleep(0.5)  # stay comfortably under NCBI's rate limit
+        try:
+            req = urllib.request.Request(url)
+            req.add_header("User-Agent", USER_AGENT)
+            with urllib.request.urlopen(req, timeout=timeout) as response:
+                return response.read().decode("utf-8")
+        except urllib.error.HTTPError as e:
+            last_error = e
+            if e.code in (429, 500, 502, 503, 504) and attempt < retries - 1:
+                time.sleep(3 * (attempt + 1))
+                continue
+            raise
+        except Exception as e:
+            last_error = e
+            if attempt < retries - 1:
+                time.sleep(2 * (attempt + 1))
+                continue
+            raise
+    raise last_error
 
 
 def _clean(text):
