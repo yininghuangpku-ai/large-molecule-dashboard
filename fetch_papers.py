@@ -7,33 +7,68 @@ from datetime import datetime
 
 # Category names MUST match the tab buttons in index.html exactly.
 # Each category maps to one or more (source, query) pairs.
+#
+# NOTE: We use PubMed only. arXiv is a physics/math/CS preprint server with
+# essentially no biopharmaceutical analytical content, so it returned unrelated
+# papers. Queries use PubMed [tiab] (Title/Abstract) field tags and require BOTH
+# a technique term AND a biologics-context term, so results stay on-topic.
+# Strict biologics context: a paper must be about a large-molecule drug, not a
+# research antibody raised against a pathogen. Required (AND) in most categories.
+BIOLOGICS = ('"monoclonal antibody"[tiab] OR "therapeutic antibody"[tiab] OR '
+             '"therapeutic protein"[tiab] OR biotherapeutic[tiab] OR biopharmaceutical[tiab] OR '
+             '"protein therapeutic"[tiab] OR "antibody-drug conjugate"[tiab] OR "fusion protein"[tiab]')
+
+# Strip out clinical/efficacy papers that share vocabulary with analytical work.
+# Appended to the noisiest, clinically-dominated categories.
+CLINICAL_EXCLUDE = (' NOT (patients[ti] OR "real-world"[tiab] OR efficacy[ti] OR '
+                    '"case reports"[pt] OR "clinical trial"[pt] OR "randomized"[ti])')
+
 CATEGORIES = {
+    # Anchor on analytical/CMC terms, not the generic word "characterization",
+    # which matches thousands of immunology/discovery papers.
     "mAb Characterization": [
-        ("arxiv", "monoclonal antibody characterization higher order structure"),
-        ("pubmed", "monoclonal antibody characterization analytical"),
+        ("pubmed", '("monoclonal antibody"[tiab] OR "therapeutic antibody"[tiab] OR mAb[tiab]) AND '
+                   '("higher order structure"[tiab] OR "critical quality attribute"[tiab] OR '
+                   '"charge variant"[tiab] OR "post-translational modification"[tiab] OR '
+                   '"multi-attribute method"[tiab] OR "physicochemical characterization"[tiab] OR '
+                   '"primary structure"[tiab] OR "disulfide"[tiab])'),
     ],
     "Mass Spectrometry": [
-        ("arxiv", "mass spectrometry protein therapeutics biologics"),
-        ("pubmed", "mass spectrometry monoclonal antibody characterization"),
+        ("pubmed", '("mass spectrometry"[tiab] OR "LC-MS"[tiab] OR "native mass spectrometry"[tiab] OR '
+                   '"peptide mapping"[tiab] OR "intact mass"[tiab] OR "hydrogen-deuterium exchange"[tiab]) '
+                   'AND (' + BIOLOGICS + ')'),
     ],
     "Chromatography": [
-        ("arxiv", "liquid chromatography protein separation biopharmaceutical"),
-        ("pubmed", "chromatography biopharmaceutical protein analytical"),
+        ("pubmed", '("size exclusion chromatography"[tiab] OR "ion exchange chromatography"[tiab] OR '
+                   '"reversed phase"[tiab] OR "hydrophobic interaction"[tiab] OR HPLC[tiab] OR '
+                   'UHPLC[tiab] OR "capillary electrophoresis"[tiab]) AND (' + BIOLOGICS + ')'),
     ],
     "Bioassays": [
-        ("pubmed", "bioassay potency biologics monoclonal antibody"),
+        ("pubmed", '("cell-based assay"[tiab] OR "reporter gene assay"[tiab] OR "potency assay"[tiab] OR '
+                   '"relative potency"[tiab] OR "binding assay"[tiab] OR bioassay[tiab]) AND (' + BIOLOGICS + ')'),
     ],
     "Glycosylation": [
-        ("pubmed", "glycosylation therapeutic antibody analytical"),
+        ("pubmed", '(glycosylation[tiab] OR glycan[tiab] OR glycoform[tiab] OR "N-glycan"[tiab] OR '
+                   'sialylation[tiab] OR fucosylation[tiab]) AND (' + BIOLOGICS + ')'),
     ],
     "Stability": [
-        ("pubmed", "stability aggregation therapeutic protein formulation"),
+        ("pubmed", '(aggregation[tiab] OR "forced degradation"[tiab] OR "subvisible particle"[tiab] OR '
+                   'fragmentation[tiab] OR "stability-indicating"[tiab] OR "colloidal stability"[tiab] OR '
+                   '"thermal stability"[tiab]) AND (' + BIOLOGICS + ')'),
     ],
     "Biosimilars": [
-        ("pubmed", "biosimilar analytical similarity comparability"),
+        ("pubmed", '(biosimilar[tiab] OR "analytical similarity"[tiab] OR "analytical comparability"[tiab]) AND '
+                   '("analytical similarity"[tiab] OR physicochemical[tiab] OR "mass spectrometry"[tiab] OR '
+                   'characterization[tiab] OR "quality attribute"[tiab] OR "structural"[tiab] OR '
+                   '"peptide mapping"[tiab])' + CLINICAL_EXCLUDE),
     ],
     "Novel Modalities": [
-        ("pubmed", "antibody drug conjugate bispecific characterization analytical"),
+        ("pubmed", '("antibody-drug conjugate"[tiab] OR ADC[tiab] OR "bispecific antibody"[tiab] OR '
+                   '"fusion protein"[tiab] OR nanobody[tiab] OR multispecific[tiab]) AND '
+                   '("drug-antibody ratio"[tiab] OR "drug antibody ratio"[tiab] OR "critical quality attribute"[tiab] OR '
+                   '"mass spectrometry"[tiab] OR physicochemical[tiab] OR "peptide mapping"[tiab] OR '
+                   '"analytical characterization"[tiab])' + CLINICAL_EXCLUDE +
+                   ' NOT (vaccine[tiab] OR virus[ti])'),
     ],
 }
 
@@ -205,9 +240,9 @@ def main():
         count_before = len(all_papers)
         for source, query in sources:
             if source == "arxiv":
-                results = fetch_arxiv(query, category, max_results=4)
+                results = fetch_arxiv(query, category, max_results=6)
             else:
-                results = fetch_pubmed(query, category, max_results=4)
+                results = fetch_pubmed(query, category, max_results=6)
             for paper in results:
                 key = paper["title"].lower()[:80]
                 if not paper["title"] or key in seen:

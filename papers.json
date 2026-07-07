@@ -1,66 +1,39 @@
 [
   {
-    "title": "Establishment of a reporter gene-based assay to determine ADCC activity of anti-tetanus toxin monoclonal antibody.",
-    "authors": "Jin X, Liu B, Hu M, et al.",
-    "journal": "Toxicon",
-    "date": "2026-09-15",
-    "abstract": "Tetanus remains a serious health concern, and therapeutic monoclonal antibodies targeting the tetanus toxin C-fragment (TT-C) require reliable methods to assess antibody-dependent cell-mediated cytotoxicity (ADCC) activity. In this study, we describe the development of a validated luciferase reporter ADCC assay using a stable Flp-In CHO cell line s",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42144201/",
-    "category": "Bioassays"
+    "title": "Comparison of knockdown approaches for the generation of stable cell populations expressing afucosylated antibodies.",
+    "authors": "Tsachaki M, Samy A, Peltret M, et al.",
+    "journal": "MAbs",
+    "date": "2026-12-01",
+    "abstract": "Targeted silencing of cellular genes in cell lines stably expressing a secreted recombinant protein offers a flexible and convenient strategy for modulating product quality attributes. However, unlike genetic knockout of a cellular gene or the use of potent inhibitors to eliminate cellular enzyme activity, gene knockdown approaches using microRNAs ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42285912/",
+    "category": "Glycosylation"
   },
   {
-    "title": "Identification of anticancer and cardioprotective quality markers in Chuanxiong Rhizoma using a bioassay driven effect-constituent index approach.",
-    "authors": "Yang J, Liu X, Fan L, et al.",
-    "journal": "J Pharm Biomed Anal",
-    "date": "2026-09-01",
-    "abstract": "Ligusticum Chuanxiong (Chuanxiong Rhizoma) is used in Traditional Chinese medicine (TCM) and has cardioprotective effects. Trastuzumab improves outcomes in HER2-positive breast cancer, but acquired resistance and cardiotoxicity limit its utility. Current quality-control methods rarely integrate composition with functional efficacy, hindering ration",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42013688/",
-    "category": "Bioassays"
+    "title": "Biparatopic targeting of IL-23 enables dual-epitope engagement and enhanced neutralization potency.",
+    "authors": "Gauntlett R, Lodge J, Watson J, et al.",
+    "journal": "MAbs",
+    "date": "2026-12-01",
+    "abstract": "Biparatopic antibodies (bpAbs) have two non-overlapping epitopes on a single antigen, offering a distinct therapeutic potential, yet their application to soluble cytokines remains underexplored. Herewithin, we engineered and characterized biparatopic antibodies targeting human interleukin-23 (IL-23) by combining the clinically validated variable re",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42304980/",
+    "category": "Novel Modalities"
   },
   {
-    "title": "Ultrasensitive Immunoassay Using a Novel Galactose-Deficient IgA1 Antibody and Its Clinical Application in the Diagnosis of IgAN.",
-    "authors": "Kao S, Zhang Y, Dang S, et al.",
-    "journal": "Kidney Int Rep",
-    "date": "2026-08-01",
-    "abstract": "IgA nephropathy (IgAN) diagnosis remains dependent on invasive renal biopsy because currently available serologic biomarkers, including galactose-deficient IgA1 (Gd-IgA1), have limited diagnostic performance. This study aimed to develop and evaluate a high-sensitivity time-resolved fluorescence immunoassay (TRFIA) based on a novel anti-Gd-IgA1 mono",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42394720/",
-    "category": "mAb Characterization"
+    "title": "Two-dimensional liquid chromatography (2D-LC) isolation and purification of immunoglobulin G (IgG) and extracellular vesicles (EVs) from cell-culture supernatant using capillary-channeled polymer (C-CP) fiber columns.",
+    "authors": "Topper CD, Marcus RK",
+    "journal": "J Chromatogr A",
+    "date": "2026-08-30",
+    "abstract": "There is a diversity of therapeutic agents which are manufactured through cellular processes. Prominent among these are the monoclonal antibodies (mAbs) with immunoglobulin G (IgG) being the most common variant. Newer entries to the biotherapeutic palette are the extracellular vesicles (EVs), nanosized membrane-bound particles that are released by ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42341507/",
+    "category": "Chromatography"
   },
   {
-    "title": "Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models",
-    "authors": "Hongyu Li, Wanjia Fu, Xiaoyan Cong, et al.",
-    "journal": "arXiv",
-    "date": "2026-07-06",
-    "abstract": "Predicting object dynamics (i.e., world modeling) is a fundamental challenge for robotic manipulation, and modeling deformable objects presents a particularly difficult case due to their high-dimensional state spaces and complex material properties. While current world models approach this through two distinct paradigms: learning the dynamics over ",
-    "url": "http://arxiv.org/abs/2607.05390v1",
-    "category": "mAb Characterization"
-  },
-  {
-    "title": "InFlux++: Real and Synthetic Data for Estimating Dynamic Camera Intrinsics",
-    "authors": "Erich Liang, Caleb Kha-Uong, Chinmaya Saran, et al.",
-    "journal": "arXiv",
-    "date": "2026-07-06",
-    "abstract": "Camera intrinsics are vital for recovering 3D structure from 2D video. However, most 3D algorithms assume fixed intrinsics throughout a video, an assumption that often fails for real-world in-the-wild videos. Consequently, estimating per-frame intrinsics from RGB images is critical for making 3D methods robust to videos with dynamic intrinsics. InF",
-    "url": "http://arxiv.org/abs/2607.05389v1",
-    "category": "mAb Characterization"
-  },
-  {
-    "title": "CATs: Secure Blockchain Interoperability with Cross-chain Atomic Transactions",
-    "authors": "Andreas Penzkofer, Franck Cassez",
-    "journal": "arXiv",
-    "date": "2026-07-06",
-    "abstract": "We propose a protocol for cross-chain atomic transactions (CATs), enabling composable atomic execution across different blockchains. The protocol addresses the key interoperability challenge of providing atomicity guarantees in the presence of asynchronous communication and Byzantine actors. It preserves chain autonomy by allowing each blockchain t",
-    "url": "http://arxiv.org/abs/2607.05387v1",
-    "category": "mAb Characterization"
-  },
-  {
-    "title": "Logical Spectroscopy: Lifted-Product Codes with Addressable Bases",
-    "authors": "Jong Yeon Lee",
-    "journal": "arXiv",
-    "date": "2026-07-06",
-    "abstract": "Quantum LDPC memories can encode many logical qubits, but dimension alone does not make them usable: applications need explicit conjugate logical operators with structured labels and physical representatives. For hypergraph-product (HGP) codes this structure is transparent, since the input matrices are binary and can be row-reduced over $\\mathbb{F}",
-    "url": "http://arxiv.org/abs/2607.05386v1",
-    "category": "mAb Characterization"
+    "title": "The Colonic-PVPA: a new application of the Phospholipid Vesicle-based Permeation Assay (PVPA) as a mucus-comprising cell-free in vitro model for mucosal colonic drug delivery.",
+    "authors": "Mantegna M, Škalko-Basnet N, Flaten GE",
+    "journal": "Int J Pharm",
+    "date": "2026-07-10",
+    "abstract": "Colonic drug delivery has gained increasing attention as a treatment approach for both local and systemic therapy. However, the colonic mucus layer can greatly influence a drug's fate by acting as a selective barrier, facilitating the filtration or trapping of drug molecules and carriers based on size and molecular interactions. Therefore, a simple",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42208826/",
+    "category": "Biosimilars"
   },
   {
     "title": "Structural Elucidation of Fc- and Fab-Associated N-Glycans in Cetuximab Using Protein A-Assisted Domain-Resolved Glycan Profiling Using Mass Spectrometry.",
@@ -69,124 +42,43 @@
     "date": "2026-07-06",
     "abstract": "Glycosylation of monoclonal antibodies is a key determinant of their efficacy, stability, and safety, requiring analytical methods capable of resolving site-specific heterogeneity with high sensitivity. In this work, we present a Protein A-assisted, domain-resolved glycan profiling approach for the mass spectrometry-based structural elucidation and",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42406533/",
-    "category": "mAb Characterization"
-  },
-  {
-    "title": "Investigating a Possible Variation of the Gravitational Constant Through Gas Mass Fraction Measurements and Type Ia Supernovae Observations",
-    "authors": "L. R. Colaço, R. F. L. Holanda, Marcelo Ferreira",
-    "journal": "arXiv",
-    "date": "2026-07-06",
-    "abstract": "In this paper, we investigate a possible time variation of the gravitational constant (G) using a non-parametric approach. Our main cosmological probe is the gas mass fraction of galaxy clusters measured from X-ray observations. We also account for the effect of a varying $G$ on the intrinsic luminosity of type Ia supernovae (SNe Ia) through the Ch",
-    "url": "http://arxiv.org/abs/2607.05367v1",
     "category": "Mass Spectrometry"
   },
   {
-    "title": "The microscopic weighting on a metric space",
-    "authors": "Emily Roff, Simon Willerton",
-    "journal": "arXiv",
-    "date": "2026-07-06",
-    "abstract": "We introduce the microscopic weighting, a canonical signed measure of mass one that can be associated to almost any finite metric space. The microscopic weighting is obtained as the small-scale limit of the weightings used to define the magnitude function. We give general criteria for its existence, proving in particular that every finite space of ",
-    "url": "http://arxiv.org/abs/2607.05349v1",
+    "title": "Administration Study of Bedinvetmab, an Antinerve Growth Factor Monoclonal Antibody, in Horses for Doping Control Purposes.",
+    "authors": "Cheung HW, Wong KS, Choi YC, et al.",
+    "journal": "Drug Test Anal",
+    "date": "2026-07-05",
+    "abstract": "Monoclonal antibodies (mAbs) targeting nerve growth factor (NGF) represent a novel therapeutic approach for managing acute and chronic pain in humans and animals. However, their potential misuse as pain-masking agents in competitive equine sports raises significant welfare and integrity concerns. To enhance understanding of the elimination profile ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42402251/",
     "category": "Mass Spectrometry"
   },
   {
-    "title": "Galactic Center Neutrinos from Cosmic Ray-Dark Matter Interactions",
-    "authors": "Jorge Terol Calvo, Pedro de la Torre Luque, Mainak Mukhopadhyay, et al.",
-    "journal": "arXiv",
-    "date": "2026-07-06",
-    "abstract": "The IceCube and ANTARES collaborations have recently reported evidence for high-energy neutrinos associated with the Galactic plane and the Galactic Ridge, offering a new pathway to search for dark matter (DM). Deep inelastic scattering of cosmic rays with sub-GeV DM in the Galactic halo produces a distinctive neutrino signature from meson decays. ",
-    "url": "http://arxiv.org/abs/2607.05335v1",
-    "category": "Mass Spectrometry"
-  },
-  {
-    "title": "Structure of Anisotropic Magnetized Neutron Stars in f(R,T) Gravity with Realistic Equation of State",
-    "authors": "M. Savari, G. H. Bordbar, J. Sedaghat, et al.",
-    "journal": "arXiv",
-    "date": "2026-07-06",
-    "abstract": "In this study, within the framework of f(R,T) modified gravity, we investigate the influence of coupling parameter, magnetic field and anisotropy parameter on the neutron star structure. This work employs an accurate equation of state (EoS), derived from realistic microscopic calculations based on the AV18 nucleon-nucleon potential, to compute the ",
-    "url": "http://arxiv.org/abs/2607.05333v1",
-    "category": "Mass Spectrometry"
-  },
-  {
-    "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
-    "authors": "Jacky Kwok, Shulu Li, Pranav Atreya, et al.",
-    "journal": "arXiv",
-    "date": "2026-07-06",
-    "abstract": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine the correctness of a solution, as a new scaling axis. To unlock this and demonstrate its effectiveness, we introduce LLM-as-a-Verifier, a general-purpos",
-    "url": "http://arxiv.org/abs/2607.05391v1",
-    "category": "Chromatography"
-  },
-  {
-    "title": "Focused Width in Adversarial Fake Detection: A Separation",
-    "authors": "Gao Huang",
-    "journal": "arXiv",
-    "date": "2026-07-06",
-    "abstract": "We study the adversarial fake detection model introduced by Mendelson, Paouris and Vershynin. In this model, a genuine sample is $\\pmb{X}\\sim N(0,\\pmb{I}_n)$, while a fake sample is produced as $\\pmb{X}+r\\pmb{t}({\\pmb{X}})$, where the adversary first observes $\\pmb{X}$ and then chooses an admissible perturbation $\\pmb{t}({\\pmb{X}})$ from a prescrib",
-    "url": "http://arxiv.org/abs/2607.05379v1",
-    "category": "Chromatography"
-  },
-  {
-    "title": "PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space",
-    "authors": "Sensen Gao, Zhaoqing Wang, Qihang Cao, et al.",
-    "journal": "arXiv",
-    "date": "2026-07-06",
-    "abstract": "3D reconstruction and generation are commonly tackled by separate paradigms: pixel-based regression for reconstruction, and latent diffusion for generation. Recent works attempt to unify them in latent space, but with notable drawbacks: the diffusion objective is defined on latent features rather than the underlying 3D representation, and both bran",
-    "url": "http://arxiv.org/abs/2607.05373v1",
-    "category": "Chromatography"
-  },
-  {
-    "title": "Interlaboratory Comparison of a Glucagon and Oxyntomodulin Immuno-LC-MS/MS Assay: Implications for Diabetes Research.",
-    "authors": "Moradian A, Becker JO, Nierves LA, et al.",
-    "journal": "Clin Chem",
-    "date": "2026-07-04",
-    "abstract": "The quantification of plasma glucagon and oxyntomodulin is important in the assessment of α-cell function, which is impaired in patients with diabetes. We aimed to transfer between laboratories a novel assay that uses liquid chromatography-tandem mass spectrometry (LC-MS/MS) for the sensitive and specific measurement of these highly homologous horm",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42400596/",
-    "category": "Mass Spectrometry"
-  },
-  {
-    "title": "Ustekinumab Biosimilars versus Reference Ustekinumab for Moderate-to-Severe Plaque Psoriasis: A Pre-switch Systematic Review and Meta-analysis.",
-    "authors": "Montes-de-Oca-Saucedo CR, Ghanem L, Kirmani N, et al.",
-    "journal": "BioDrugs",
-    "date": "2026-07-02",
-    "abstract": "Ustekinumab biosimilars have expanded treatment options for moderate-to-severe plaque psoriasis, but pooled evidence is needed to determine whether they achieve therapeutic equivalence to reference ustekinumab during the initial randomized comparative period before protocol-defined switching. The aim of this systematic review was to assess the ther",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42393486/",
-    "category": "Biosimilars"
-  },
-  {
-    "title": "Bioprocess Development of a Human Monoclonal Antibody against MERS-CoV: Analytical and Preclinical Studies.",
-    "authors": "Lim J, Lee H, Lee JY, et al.",
-    "journal": "Biomol Ther (Seoul)",
+    "title": "Updated Recommendations for the Bioanalysis of Antibody-Drug Conjugates (ADC) from the ADC working group of the AAPS Bioanalytical Community.",
+    "authors": "Shen JX, Dodge R, Oberstein S, et al.",
+    "journal": "AAPS J",
     "date": "2026-07-01",
-    "abstract": "Middle East Respiratory Syndrome coronavirus (MERS-CoV) is a zoonotic virus first identified in 2012, responsible for severe respiratory illness and a high case fatality rate of approximately 35%. MERS-CoV is primarily transmitted from dromedary camels to humans, but human-to-human transmission, particularly in healthcare settings, has led to outbr",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42375091/",
-    "category": "mAb Characterization"
+    "abstract": "Antibody-drug conjugates (ADCs) represent a rapidly evolving therapeutic modality, combining the selective targeting of monoclonal antibodies with highly potent small molecule payloads. Their inherent structural complexity demands a sophisticated and multi-faceted bioanalytical approach spanning preclinical discovery through late-stage clinical dev",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42387157/",
+    "category": "Mass Spectrometry"
   },
   {
-    "title": "UHPLC-HR-IDX-Orbitrap-MS Profiling of Eryngium triquetrum Vahl: Chemical Characterization and Associated Biological Activities.",
-    "authors": "Mouffouk C, Mouffouk S, Mulla RA, et al.",
-    "journal": "J Mass Spectrom",
+    "title": "Glycoengineered Recombinant Alpha1-Antitrypsin Results in Comparable In Vitro and In Vivo Activities to Human Plasma-Derived Protein.",
+    "authors": "Rocamora F, Hsieh CL, Schoffelen S, et al.",
+    "journal": "Biotechnol Bioeng",
     "date": "2026-07-01",
-    "abstract": "High-resolution mass spectrometry is a powerful tool for the comprehensive characterization of complex natural matrices. In this study, ultrahigh-performance liquid chromatography coupled with high-resolution Orbitrap mass spectrometry (UHPLC-HR-IDX-Orbitrap-MS) was employed to profile the chemical composition of the methanolic extract of Eryngium ",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42402394/",
-    "category": "Chromatography"
-  },
-  {
-    "title": "Evaluation of CSF and plasma tau species as fluid surrogate candidates for tau PET in prodromal to moderate Alzheimer's disease.",
-    "authors": "Lee J, Olafson E, Toth B, et al.",
-    "journal": "Alzheimers Dement",
-    "date": "2026-07-01",
-    "abstract": "Positron emission tomography (PET) is a valuable tool for assessing tau pathology in Alzheimer's disease (AD), but it is not widely accessible. Clarifying the relationship between fluid tau species and tau PET in AD may allow for the identification of fluid biomarkers that could serve as more accessible surrogates for tau PET. Cerebrospinal fluid (",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42373580/",
-    "category": "Chromatography"
-  },
-  {
-    "title": "Immobilized recombinant FcγRIIIa and FcRn receptors as a tool for characterization of human IgG antibodies.",
-    "authors": "Dončević L, Friganović T, Grbčić P, et al.",
-    "journal": "J Chromatogr B Analyt Technol Biomed Life Sci",
-    "date": "2026-07-01",
-    "abstract": "Intravenous immunoglobulin (IVIg) therapeutics are complex biological mixtures of immunoglobulin G (IgG) requiring robust analytical methods to resolve their functional and structural heterogeneity. In this study, we evaluated the chromatographic performance of receptor affinity columns utilizing low-affinity immunoglobulin gamma Fc region receptor",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42127432/",
+    "abstract": "Alpha-1-antitrypsin (A1AT) is a multifunctional, clinically important, high-value therapeutic glycoprotein that can be used for the treatment of many diseases, such as A1AT deficiency, diabetes, graft-versus-host disease, cystic fibrosis, and various viral infections. Currently, the only U.S. food and drug administration-approved treatment for A1AT",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42381480/",
     "category": "Glycosylation"
+  },
+  {
+    "title": "Molecular interactions and viscosity regulation mechanism of IgG4 antibody in high-concentration solutions.",
+    "authors": "Gao Y, Wu H, Wang L, et al.",
+    "journal": "Int J Biol Macromol",
+    "date": "2026-07-01",
+    "abstract": "A major bottleneck in developing high-concentration (≥ 100 mg/mL) monoclonal antibody (mAb) formulations for subcutaneous injection is the exponential increase in viscosity, often exceeding the 20 mPa·s clinical threshold value. Using an IgG4 antibody (pI ≈ 6.9) as the model in a pH 5.5 sodium citrate buffer, we innovatively used amino acids and sa",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42385804/",
+    "category": "Stability"
   },
   {
     "title": "Preventing physical and chemical degradation of the LABL-Fc-MOGR5, a bifunctional peptide inhibitor, with formulation development approaches.",
@@ -207,22 +99,76 @@
     "category": "Biosimilars"
   },
   {
-    "title": "Bridging solubility, stability, and translation: advances in carbon nanotube-based drug delivery systems.",
-    "authors": "R P, Gowda J, A M D, et al.",
-    "journal": "Daru",
-    "date": "2026-06-29",
-    "abstract": "Poor aqueous solubility and physicochemical instability remain major barriers in pharmaceutical development, limiting the bioavailability, therapeutic efficacy, and translational success of numerous drug candidates. Carbon nanotubes (CNTs), owing to their high surface area, tunable surface chemistry, and unique π-conjugated structure, have emerged ",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42366286/",
+    "title": "Computer-Aided Rational Hapten Design for Broad-Spectrum Monoclonal Antibody Development against Anthraquinones and Its Application in Lateral Flow Immunoassay.",
+    "authors": "Li J, Guo L, Wu X, et al.",
+    "journal": "Anal Chem",
+    "date": "2026-06-30",
+    "abstract": "Plant-derived foods are a vital component of the human diet, but they pose health risks due to the potential presence of anthraquinones (AQs) and their derivatives, and long-term intake of these substances can lead to health issues. Therefore, there is an urgent need for a method to rapidly and simultaneously detect seven AQs, including AQ, emodin,",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42376876/",
+    "category": "Mass Spectrometry"
+  },
+  {
+    "title": "Thermoresponsive hydrogel for long-acting delivery of structurally intact and biologically active Fab fragment and monoclonal antibody.",
+    "authors": "Pilipenko I, Stenberg K, Puranen J, et al.",
+    "journal": "Acta Biomater",
+    "date": "2026-06-30",
+    "abstract": "Therapeutic antibodies are a cornerstone of modern medicine, providing targeted and effective treatments for a wide range of diseases. Antibody delivery, however, has long been recognized as a major bottleneck for safety and efficacy. We developed a hyaluronic acid-poloxamer 407-calcium (HAP-Ca2+) thermoresponsive hydrogel for the controlled, long-",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42379548/",
     "category": "Stability"
   },
   {
-    "title": "Development and Integrated Application of the Multi-Attribute Method (MAM) in Quality Control of Biotechnological Drugs.",
-    "authors": "Zhu Y, Lou D, Yang C, et al.",
-    "journal": "Biotechnol Bioeng",
-    "date": "2026-06-28",
-    "abstract": "The multi-attribute method (MAM) is an integrated peptide mapping strategy based on liquid chromatography-mass spectrometry (LC-MS) technology. It enables precise quantification and dynamic tracking of multiple site-specific modifications in a single analysis, significantly enhancing the efficiency and depth of biopharmaceutical quality control. No",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42366697/",
+    "title": "Gas-phase unfolding assay rapidly predicts structure-function relationships in engineered antibodies with tuned flexibilities.",
+    "authors": "Villafuerte-Vega RC, Armbruster MR, Fisher H, et al.",
+    "journal": "Nat Commun",
+    "date": "2026-06-29",
+    "abstract": "Human (h)IgG2 monoclonal antibodies (mAbs) are potent agonists due, in part, to their ability to undergo disulfide shuffling within their hinge regions. Herein, we describe a rapid, sensitive, collision-induced unfolding (CIU) assay that possesses a predictive relationship between gas-phase protein unfolding and agonism in hIgG2 variants. Furthermo",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42373639/",
+    "category": "mAb Characterization"
+  },
+  {
+    "title": "Whole-Body Pharmacokinetics of Ionizable Lipid, mRNA, and the Expressed Antibody following Intravenous Administration of mRNA-Loaded Lipid Nanoparticles.",
+    "authors": "Tiwari S, Kumar M, Wu S, et al.",
+    "journal": "AAPS J",
+    "date": "2026-06-29",
+    "abstract": "Lipid nanoparticles (LNPs) containing mRNA that encodes therapeutic proteins have emerged as a promising therapeutic modality for a myriad of diseases. However, the pharmacokinetic (PK) relationships between the nanoparticle carrier, its mRNA payload, and the expressed protein remain poorly understood. Here we have investigated whole-body PK of the",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42373925/",
+    "category": "Mass Spectrometry"
+  },
+  {
+    "title": "Soluble expression, two-step purification and tagmentation-compatible activity assessment of hyperactive Tn5 transposase using a GB1 fusion tag strategy.",
+    "authors": "Xie Y, Shi Y, Zhang H, et al.",
+    "journal": "Protein Expr Purif",
+    "date": "2026-06-25",
+    "abstract": "Hyperactive Tn5 transposase is an essential reagent for tagmentation-based next-generation sequencing (NGS) library construction that includes assays for transposase-accessible chromatin using sequencing and cleavage under targets and tagmentation. However, recombinant expression of Tn5 in Escherichia coli frequently results in inclusion body forma",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42349805/",
     "category": "Chromatography"
+  },
+  {
+    "title": "The Gyrolab platform for immunogenicity assessment and biotherapeutic and biomarker analysis: technical advances and bioanalytical applications.",
+    "authors": "Mano Y, Nabeshima K, Kojima T",
+    "journal": "Bioanalysis",
+    "date": "2026-06-25",
+    "abstract": "Gyrolab is an automated ligand‑binding assay platform designed for the quantification of proteins with high sensitivity and broad dynamic range. Its low minimum required dilution and microfluidic disc format enable efficient sample processing while maintaining assay robustness, making it a valuable tool across drug‑development stages. This review s",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42350354/",
+    "category": "Bioassays"
+  },
+  {
+    "title": "Mechanistic deconvolution of BSA size variants by constrained Raman pseudo-Voigt hard modeling during anion-exchange chromatography.",
+    "authors": "Heyer-Müller J, Schiemer R, Robbel L, et al.",
+    "journal": "Biotechnol Prog",
+    "date": "2026-06-25",
+    "abstract": "In biopharmaceutical manufacturing, protein aggregation is a critical quality attribute, necessitating rapid and reliable analytical strategies during downstream processes like anion-exchange chromatography (AEX). While Raman spectroscopy enables continuous monitoring of protein secondary structure, standard data-driven regression models struggle t",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42357842/",
+    "category": "Stability"
+  },
+  {
+    "title": "Nanoantibodies: A Review of Diagnostic and Therapeutic Applications in Respiratory Diseases.",
+    "authors": "Zhang N, Lü H, Shi K, et al.",
+    "journal": "Immunol Invest",
+    "date": "2026-06-24",
+    "abstract": "Conventional monoclonal antibodies generated by hybridoma technology have long been applied in disease diagnosis and treatment, yet they are constrained by inherent limitations, including epitope loss caused by chemical antigen processing and insufficient tissue penetration. Nanobodies, as single-domain antibody fragments derived from camelids and ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42342443/",
+    "category": "Novel Modalities"
   },
   {
     "title": "Characterization of the Anti-Alzheimer Drug Lecanemab by Mass Spectrometry.",
@@ -234,31 +180,31 @@
     "category": "Mass Spectrometry"
   },
   {
-    "title": "Epitope mirroring between the malaria surface proteins PfGARP and PIESP2 identifies a knob-associated complex in infected erythrocytes.",
-    "authors": "Schwake CJ, Krueger RM, Chen F, et al.",
-    "journal": "J Biol Chem",
+    "title": "QC friendly polysorbate quantification in high concentration protein samples.",
+    "authors": "Dillard KE, Witmer C, Tran HV, et al.",
+    "journal": "J Pharm Biomed Anal",
     "date": "2026-06-23",
-    "abstract": "Malaria is a life-threatening infectious disease responsible for an estimated 610,000 deaths each year, with the greatest burden falling on children in sub-Saharan Africa. A defining feature of infection by the most lethal human malaria parasite, Plasmodium falciparum, is the adhesion of infected red blood cells (iRBCs) to vascular endothelial cell",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42336280/",
-    "category": "Mass Spectrometry"
+    "abstract": "Polysorbate is a surfactant that serves an important role in stabilizing and solubilizing biologic drug products to prevent aggregation and generation of subvisible particles. Monitoring this low concentration excipient in complex formulations with high protein concentrations is required to ensure that the quality of the product is maintained, but ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42361487/",
+    "category": "Chromatography"
   },
   {
-    "title": "Insulin complexation with curcumin derivative mitigates the protein amyloidosis and efficiently manages diabetes in Drosophila melanogaster.",
-    "authors": "Ojha M, Yadav A, Behera P, et al.",
-    "journal": "Int J Biol Macromol",
-    "date": "2026-06-22",
-    "abstract": "Insulin, a peptide hormone commonly used in the therapeutic management of diabetes mellitus, is anticipated to aggregate at sites of recurrent injections in diabetic patients. These aggregates are comprised of insoluble insulin fibrils, which can lead to localized inflammatory reactions and impaired insulin uptake. Therefore, it is essential to for",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42331169/",
-    "category": "Stability"
+    "title": "Fluorescence Polarization Immunoassay with Modulated Selectivity for Effective Detection of the Agrochemical 4-Chlorophenoxyacetic Acid.",
+    "authors": "Kolokolova MK, Mukhametova LI, Tupertsev BS, et al.",
+    "journal": "Biosensors (Basel)",
+    "date": "2026-06-18",
+    "abstract": "4-Chlorophenoxyacetic acid (4-CPA), a synthetic auxin analog, is employed in agriculture both as a plant growth regulator and as a constituent of herbicide formulations. Consequently, the establishment of simple and rapid detection methods is essential for effective environmental monitoring. This study reports the first development of a homogeneous",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42345899/",
+    "category": "Chromatography"
   },
   {
-    "title": "Prolonged autophagy induction correlates with host cell protein reduction in CHO cell culture.",
-    "authors": "Sahoo A, Tsukidate T, Pendyala G, et al.",
-    "journal": "Biotechnol Prog",
-    "date": "2026-06-20",
-    "abstract": "Autophagy, a cellular recycling process regulated by the CLEAR signaling pathway, plays a pivotal role in maintaining cellular homeostasis. We hypothesize that this process may regulate and reduce high-risk host cell proteins (HCPs) levels by targeting intracellular proteins and organelles for degradation. This study investigates the relationship b",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42322119/",
-    "category": "Glycosylation"
+    "title": "Development of a High-Throughput Size-Exclusion Chromatography-Mass Spectrometry Workflow for Real-Time Monitoring of Bioconjugation of Cysteine-Based Antibody-Drug Conjugates.",
+    "authors": "Zhang Z, Jin PR, Lin W, et al.",
+    "journal": "Bioconjug Chem",
+    "date": "2026-06-18",
+    "abstract": "The manufacturing of cysteine-based antibody-drug conjugates (ADCs) requires precise control of the drug-to-antibody ratio (DAR), a critical quality attribute influencing product safety and efficacy. Conventional analytical techniques used for DAR determination, such as hydrophobic interaction chromatography (HIC) and reversed-phase high-performanc",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42312960/",
+    "category": "Novel Modalities"
   },
   {
     "title": "Comparative overview of biosimilar regulatory frameworks and international harmonization trends.",
@@ -270,13 +216,67 @@
     "category": "Biosimilars"
   },
   {
-    "title": "Pseudotargeted peptidomics approach for identifying species-specific biomarkers in fermented Cordyceps products: A case study on Bailing Capsule.",
-    "authors": "Chen M, Wang R, Zhou Y, et al.",
-    "journal": "Talanta",
+    "title": "Identification of Potential Proteins Interacting with α-Galactosidase A to Analyze the Pathogenesis of Fabry Disease.",
+    "authors": "Menke ER, Eirich J, Finkemeier I, et al.",
+    "journal": "Int J Mol Sci",
     "date": "2026-06-16",
-    "abstract": "Bailing Capsule, a fermented Cordyceps product used as an adjunctive treatment for chronic kidney disease and chronic bronchitis, is a crucial substitute for wild Ophiocordyceps. However, its current quality control relies on non-specific small-molecule markers, making it hard to distinguish from other analogous products. In this study, a pseudotar",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42361469/",
+    "abstract": "The lysosomal enzyme α-galactosidase A (AGAL) degrades globotriaosylceramide (Gb3). While this enzymatic function in lysosomal metabolism is well characterized, interaction partners and alternative functions are unknown. This study aims to identify new potential AGAL-interacting proteins. AGAL was fused to the mutated biotin ligase BirA from E. col",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42353154/",
+    "category": "Novel Modalities"
+  },
+  {
+    "title": "Dilution displacement enabled measurement of total ligand levels in the presence of an anti-ligand antibody using LBA.",
+    "authors": "Zhang C, Sheridan JP, Boehm N, et al.",
+    "journal": "Bioanalysis",
+    "date": "2026-06-15",
+    "abstract": "Measurement of soluble ligand targets of biotherapeutics can be challenging, especially when non-competing reagents are unavailable. This study aimed to develop a simple assay to quantify total soluble B-cell Maturation Antigen (sBCMA), including antibody-bound sBCMA, in serum when anti-BCMA antibody is present. A sample predilution strategy was co",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42290408/",
+    "category": "Bioassays"
+  },
+  {
+    "title": "Multi-omics body-fluid biomarkers in immunoglobulin a nephropathy: Analytical Validation, standardization, and clinical chemistry translation of diagnostic and prognostic Analytes.",
+    "authors": "Rathore V, Asad M, Saxena S, et al.",
+    "journal": "Clin Chim Acta",
+    "date": "2026-06-15",
+    "abstract": "IgA nephropathy (IgAN) is the most prevalent primary glomerulonephritis worldwide. Although optimized supportive therapy is administered to these patients, a substantial proportion still progresses to end-stage kidney disease. The advancement of these noninvasive laboratory tools will complement renal biopsies. This review focuses on evaluating the",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42297320/",
+    "category": "Glycosylation"
+  },
+  {
+    "title": "Advances in the use of DNA aptamers for bioanalysis of antibody-based therapeutics.",
+    "authors": "Todoroki K",
+    "journal": "Bioanalysis",
+    "date": "2026-06-11",
+    "abstract": "Nucleic acid aptamers are single-stranded oligonucleotides that fold into defined three-dimensional structures and bind molecular targets with high affinity and specificity. Because aptamers are sequence-defined, chemically synthesized reagents, they offer high purity, minimal lot-to-lot variability, and flexible functionalization, positioning them",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42272446/",
+    "category": "Bioassays"
+  },
+  {
+    "title": "Separation of Monoclonal Antibody Aggregates Using an Analytical Ultrafiltration Technique.",
+    "authors": "Ghosh R, Ingawale M, Durocher Y",
+    "journal": "Membranes (Basel)",
+    "date": "2026-06-10",
+    "abstract": "Size exclusion chromatography is the industry-standard method for measuring aggregate content in monoclonal antibody samples. In this paper, we present an orthogonal analytical technique based on ultrafiltration for detecting and quantifying monoclonal antibody aggregates. The sample to be analyzed was injected into the system in the ultrafiltratio",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42346963/",
     "category": "Chromatography"
+  },
+  {
+    "title": "α-Synuclein-Targeted Immunotherapies in Parkinson's Disease: In Silico, In Vitro and Clinical Perspectives.",
+    "authors": "Santos TB, Machado TOX, Rodrigues PHS, et al.",
+    "journal": "Molecules",
+    "date": "2026-06-10",
+    "abstract": "α-synuclein (α-syn) aggregation in dopaminergic neurons is a central event in Parkinson's disease (PD) pathogenesis. Immunotherapeutic strategies targeting α-syn, including passive and active approaches, aim to inhibit aggregation, propagation, and toxicity of pathological species while promoting their clearance via immune mechanisms. This review s",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42357435/",
+    "category": "Stability"
+  },
+  {
+    "title": "In-depth glycosylation and aspartic acid isomerization characterization of therapeutic fusion protein using electron transfer/higher-energy collision dissociation on the new hybrid high-resolution mass spectrometer.",
+    "authors": "Wu G, Zhang X, Du J, et al.",
+    "journal": "J Pharm Biomed Anal",
+    "date": "2026-06-04",
+    "abstract": "Glycosylation is a critical post-translational modification (PTM) in biotherapeutics that influences protein structure, stability, pharmacokinetics, biological activity, and immunogenicity. Comprehensive characterization of glycosylation and other PTMs is therefore important for biopharmaceutical development and quality assessment. Aflibercept is a",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42250337/",
+    "category": "Biosimilars"
   },
   {
     "title": "Osmolality-Independent Impact of Sodium on Glycosylation of an Fc-Fusion Protein and the Hexosamine Biosynthesis Pathway in a Chinese Hamster Ovary Cell Line.",
@@ -288,93 +288,84 @@
     "category": "Glycosylation"
   },
   {
-    "title": "Understanding the Aggregation Mechanism of and Developing Stabilization Strategies for Recombinant Fibroblast Growth Factor 2.",
-    "authors": "Cheng R, Oganesyan N, Lees A, et al.",
-    "journal": "Biomolecules",
-    "date": "2026-05-23",
-    "abstract": "Fibroblast Growth Factor 2 (FGF2) is a highly effective regulator of cell proliferation, differentiation, migration, and adhesion, suggesting a significant therapeutic potential as a tissue regeneration promoter both in acute and chronic tissue damage settings. Despite an extensive list of pathologies that lend themselves as viable targets for FGF2",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42352237/",
-    "category": "Stability"
-  },
-  {
-    "title": "Advances in Biosimilars: A Systematic Review of Machine Learning Applications.",
-    "authors": "Duarte V, Bas TG",
-    "journal": "Pharmaceuticals (Basel)",
-    "date": "2026-05-08",
-    "abstract": "Background/Objectives: Biosimilars are medicinal products derived from reference biologics and designed to demonstrate a high degree of similarity in quality, efficacy, safety, and immunogenicity. Machine learning (ML) and other artificial intelligence (AI) methodologies have emerged as important tools in this field in biosimilar research and devel",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42198419/",
+    "title": "Establishment of an N-Glycan Profiling Method for Three ERT Enzymes Used in Gaucher Disease Therapy.",
+    "authors": "Chen J, Hu X, Wang L, et al.",
+    "journal": "Molecules",
+    "date": "2026-06-01",
+    "abstract": "N-glycosylation, particularly terminal mannose exposure, is a critical quality attribute affecting macrophage targeting and the clinical efficacy of enzyme replacement therapy for Gaucher disease. This study developed a universal, sensitive, and quantitative method to compare the N-glycan profiles of three recombinant human glucocerebrosidase produ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42280207/",
     "category": "Biosimilars"
   },
   {
-    "title": "Online Deglycosylation of Monomeric Intact Proteins Using the PNGase Rc Immobilized-Enzyme Reactor.",
-    "authors": "Molnárová K, Novák P, Nováková J, et al.",
-    "journal": "ACS Omega",
-    "date": "2026-05-05",
-    "abstract": "Protein glycosylation is essential, as variations in glycan structures can influence the structural stability, biological activity, and therapeutic performance of proteins. The complexity of glycoproteins typically requires advanced analytical approaches for structural determination. Removal of glycans from glycoproteins simplifies the analysis of ",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42110743/",
-    "category": "Glycosylation"
-  },
-  {
-    "title": "Analytical Physicochemical and Functional Studies to Compare AryoTrust, a Follow-On Biologics, with the Originator Trastuzumab (Herceptin).",
-    "authors": "Al-Kinani KK, Alkufi HK, Taher SS",
-    "journal": "Pharmaceutics",
-    "date": "2026-03-20",
-    "abstract": "Background: Trastuzumab is a blockbuster monoclonal antibody that has revolutionized the treatment of HER2-positive breast and gastric cancers. With the increasing availability of biosimilar monoclonal antibodies in clinical practice, independent verification of biosimilarity using products sampled from a real-world supply chain is important to ass",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41900869/",
-    "category": "Bioassays"
-  },
-  {
-    "title": "Advances in LC-MS strategies for comprehensive characterization and quantification of antibody-drug conjugates in preclinical and clinical settings.",
-    "authors": "Kumar D, Trivedi N",
-    "journal": "J Chromatogr A",
-    "date": "2026-01-11",
-    "abstract": "Antibody-Drug Conjugates (ADCs) represent a rapidly growing class of targeted therapeutics, combining the specificity of monoclonal antibodies with the potency of cytotoxic payloads. The structural complexity and heterogeneity of ADCs arising from variations in drug to antibody ratio (DAR), conjugation sites, and post translational modifications de",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41371079/",
-    "category": "Bioassays"
-  },
-  {
-    "title": "Recent advances and applications of capillary electrophoresis-sodium dodecyl sulfate for characterization and fragment identification of monoclonal antibodies and their derivatives.",
-    "authors": "Yang Y, Li M, Xu G, et al.",
-    "journal": "Analyst",
-    "date": "2026-01-05",
-    "abstract": "Capillary electrophoresis-sodium dodecyl sulfate (CE-SDS), a high-resolution and high-sensitivity analytical technique, is an essential tool for analyzing the critical quality attributes (CQAs) of monoclonal antibodies (mAbs) and their derivatives, including antibody-drug conjugates (ADCs) and bispecific antibodies (bsAbs). This study systematicall",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41416511/",
-    "category": "Novel Modalities"
-  },
-  {
-    "title": "Application of Phage-Displayed Peptide Library for Epitope Mapping.",
-    "authors": "Ling BL, Ch'ng ACW, Choong YS, et al.",
-    "journal": "Methods Mol Biol",
-    "date": "2026-01-01",
-    "abstract": "Antibodies, central components of the adaptive immune system, possess the remarkable ability to specifically recognize and bind to foreign substances known as antigens. This recognition occurs through the interaction of the antibody's antigen-binding site, or paratope, with a specific region on the antigen called the epitope. Understanding the prec",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42400840/",
+    "title": "A Multitechnique Spectroscopy Platform for Monitoring Heterogeneities in the Higher-Order Structure of mAb Therapeutics.",
+    "authors": "Agrawal D, Joshi S, Nikita S, et al.",
+    "journal": "Mol Pharm",
+    "date": "2026-05-30",
+    "abstract": "Comprehensive characterization of higher-order structure (HOS) is a regulatory prerequisite for monoclonal antibody (mAb) therapeutics, particularly in establishing biosimilarity. A significant analytical challenge lies in detecting the early onset of structural heterogeneity within bulk drug substances, where signal dilution often masks precursor ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42216916/",
     "category": "mAb Characterization"
   },
   {
-    "title": "Top-Down and Middle-Down Mass Spectrometry of Antibodies.",
-    "authors": "Khristenko NA, Nagornov KO, Garcia C, et al.",
-    "journal": "Mol Cell Proteomics",
-    "date": "2025-07-01",
-    "abstract": "Therapeutic antibodies, primarily immunoglobulin G-based monoclonal antibodies, are developed to treat cancer, autoimmune disorders, and infectious diseases. Their large size, structural complexity, and heterogeneity pose significant analytical challenges, requiring advanced characterization techniques. This review traces the 30-year evolution of t",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/40368137/",
+    "title": "Development and Validation of Cell-Based Bioassay for the Detection of Neutralizing Antibodies to Ocrelizumab in Human Serum Using Antibody-Dependent Cell-Mediated Cytotoxicity Test in a Reporter Cell Line Expressing FcγRIIIa.",
+    "authors": "Strizhakova O, Poroshin G, Pershin A, et al.",
+    "journal": "Antibodies (Basel)",
+    "date": "2026-05-29",
+    "abstract": "Ocrelizumab is a humanized monoclonal antibody targeting CD20, approved for the treatment of adult patients with relapsing multiple sclerosis (RMS) and primary progressive multiple sclerosis (PPMS). The neutralizing activity of anti-drug antibodies (ADAs), especially neutralizing ADAs (nADAs) activity, should be examined considering that it can alt",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42345850/",
+    "category": "Bioassays"
+  },
+  {
+    "title": "Advancements in Dual-Load Antibody-Drug Conjugates and Challenges with Quality Analysis.",
+    "authors": "Yu X, Ke X, Tang Y, et al.",
+    "journal": "Pharmaceuticals (Basel)",
+    "date": "2026-05-29",
+    "abstract": "Antibody-drug conjugates (ADCs) are a pivotal technology for precision cancer therapy, harnessing the synergistic effects of antibody targeting and toxin delivery. However, traditional ADCs encounter limitations in efficacy that stem from tumor resistance, heterogeneity, and intense target competition. Dual-payload ADCs (DP-ADCs) represent a promis",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42356477/",
     "category": "Novel Modalities"
   },
   {
-    "title": "Simultaneous Analysis of the Drug-to-Antibody Ratio, Free-Drug-Related Impurities, and Purity of Antibody-Drug Conjugates Based on Size Exclusion Chromatography.",
-    "authors": "Song W, Yin L, Ren J, et al.",
-    "journal": "Anal Chem",
-    "date": "2025-05-13",
-    "abstract": "Drug-to-antibody ratio (DAR), free-drug-related impurities (FDRI) content, and purity are critical quality attributes of antibody-drug conjugates (ADCs), which substantially impact product safety and efficacy. However, growing efforts in developing ADCs with higher complexity in a faster timeline impose a great challenge to their analytical support",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/40299313/",
-    "category": "Novel Modalities"
+    "title": "Freeze-dried kit formulation and physicochemical assessment of a daratumumab-based radiopharmaceutical.",
+    "authors": "Apostolova P, Lazareva MA, Davalieva K, et al.",
+    "journal": "Acta Pharm",
+    "date": "2026-05-27",
+    "abstract": "Daratumumab is a fully human anti-CD38 monoclonal antibody with strong potential as a targeting vector for therapeutic radionuclides. This study aimed to develop a freeze-dried daratumumab immunoconjugate kit by selecting a suitable chelator (DOTA-NHS, p-SCN-Bn-DOTA, or p-SCN-Bn-1B4M-DTPA) for the 177Lu-labelling, optimising the freeze-drying formu",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42202083/",
+    "category": "mAb Characterization"
   },
   {
-    "title": "Identification and characterization of an octameric PEG-protein conjugate system for intravitreal long-acting delivery to the back of the eye.",
-    "authors": "Shatz W, Hass PE, Peer N, et al.",
-    "journal": "PLoS One",
-    "date": "2019-01-01",
-    "abstract": "Innovative protein engineering and chemical conjugation technologies have yielded an impressive number of drug candidates in clinical development including >80 antibody drug conjugates, >60 bispecific antibodies, >35 Fc-fusion proteins and >10 immuno-cytokines. Despite these innovations, technological advances are needed to address unmet medical ne",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/31251757/",
+    "title": "Rhizomes as Multi-Target Pharmacological Platforms Against Tauopathy: Neuro-Metabolic Crosstalk, Drug-Likeness, and Translational Challenges.",
+    "authors": "Setiawan AW, Choi J, Park S, et al.",
+    "journal": "Pharmaceuticals (Basel)",
+    "date": "2026-05-19",
+    "abstract": "Tauopathies, including Alzheimer's disease (AD), progressive supranuclear palsy (PSP), corticobasal degeneration (CBD), and frontotemporal lobar degeneration with tau pathology, are unified by pathogenic tau misfolding, post-translational modification, aggregation, and network-level spread. Yet decades of drug development that predominantly pursued",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42198466/",
+    "category": "mAb Characterization"
+  },
+  {
+    "title": "Validation approach of an LC-MS/MS assay for ADA detection, applied to a Von Willebrand factor-targeted biotherapeutic.",
+    "authors": "Schalk FB, Shumate K, Nagilla P, et al.",
+    "journal": "Bioanalysis",
+    "date": "2026-01-01",
+    "abstract": "The efficiency of ligand binding assay (LBA)-based immunogenicity assessment can be compromised by the presence of high concentrations of soluble pharmacological target. This is particularly challenging for therapies targeting highly abundant multimeric plasma proteins, such as Von Willebrand Factor (VWF). We developed and validated a hybrid LBA-LC",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42206838/",
+    "category": "Bioassays"
+  },
+  {
+    "title": "Site-specific antibody labeling via endo-S2 mediated Fc glycan remodeling.",
+    "authors": "Owitipana DN, Wang X, Zhang X, et al.",
+    "journal": "Methods Enzymol",
+    "date": "2026-01-01",
+    "abstract": "Site-specific labeling of antibodies is highly valuable for diagnostic and therapeutic applications. The chemoenzymatic Fc glycan remodeling method provides a platform for site-specific antibody functionalization without perturbing antigen recognition. In this chapter, we describe a one-pot enzymatic method to produce fluorophore- and biotin-labele",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42349968/",
+    "category": "Glycosylation"
+  },
+  {
+    "title": "NbBayesLM: bayesian prediction of nanobody thermostability using protein language model.",
+    "authors": "Shishir FS, Rudro R, Sarker B, et al.",
+    "journal": "Front Bioinform",
+    "date": "2026-01-01",
+    "abstract": "Nanobodies, single-domain antibodies derived from camelids, are promising biologics due to their small size and high stability. Accurate prediction of their thermostability is critical for therapeutic and diagnostic applications. Due to their ability to bind conformationally constrained epitopes that are typically inaccessible to conventional antib",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42317504/",
     "category": "Novel Modalities"
   }
 ]
