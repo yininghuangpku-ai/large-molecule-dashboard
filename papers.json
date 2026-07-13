@@ -1,12 +1,93 @@
 [
   {
+    "title": "Predicting antibody self-association with sequence-structure fusion models: the central role of CSI-BLI in early developability screening.",
+    "authors": "Ahmed S, Devalle F, Leisen L, et al.",
+    "journal": "MAbs",
+    "date": "2026-12-31",
+    "abstract": "Antibody-based biologics are expanding rapidly, yet challenges in development from self-association, high viscosity, aggregation, and unfavorable clearance underscore the need for accurate in silico screening. Clone self-interaction biolayer interferometry (CSI-BLI) is a plate-based, low-material assay of weak, reversible self-association that serv",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42420197/",
+    "category": "Stability"
+  },
+  {
     "title": "Comparison of knockdown approaches for the generation of stable cell populations expressing afucosylated antibodies.",
     "authors": "Tsachaki M, Samy A, Peltret M, et al.",
     "journal": "MAbs",
     "date": "2026-12-01",
     "abstract": "Targeted silencing of cellular genes in cell lines stably expressing a secreted recombinant protein offers a flexible and convenient strategy for modulating product quality attributes. However, unlike genetic knockout of a cellular gene or the use of potent inhibitors to eliminate cellular enzyme activity, gene knockdown approaches using microRNAs ",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42285912/",
+    "category": "Glycosylation"
+  },
+  {
+    "title": "Application of FT-IR spectroscopy as a non-invasive multi-attribute monitoring platform for critical quality attributes in monoclonal antibodies.",
+    "authors": "Parkar AN, Dandekar P, Jain R",
+    "journal": "Anal Methods",
+    "date": "2026-07-10",
+    "abstract": "Monoclonal antibodies (mAbs) are a major class of biopharmaceuticals widely used to treat cancers and inflammatory, infectious, and autoimmune diseases. The manufacturing of these therapeutics involves multiple complex and time-consuming steps that may introduce product- and process-related impurities and cause alterations in critical quality attri",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42429162/",
     "category": "Mass Spectrometry"
+  },
+  {
+    "title": "Antibody-drug conjugates and the need for third-modality regulatory science.",
+    "authors": "Jiang N, Mao JJ, Zhou XY, et al.",
+    "journal": "Med",
+    "date": "2026-07-10",
+    "abstract": "ADCs challenge conventional biologic and small-molecule framework regulation because their performance emerges from integrated antibody, linker, payload, and manufacturing attributes. This commentary proposes a risk-based third-modality science combining product-level assessment, component-specific scrutiny, platform evidence, and life cycle compar",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42431184/",
+    "category": "Novel Modalities"
+  },
+  {
+    "title": "On-demand peptide therapeutics for multi-year space exploration: analysis of clinical and operational relevance and recombinant production feasibility.",
+    "authors": "Donovan JJ, Ericson I, Wenthe A, et al.",
+    "journal": "NPJ Microgravity",
+    "date": "2026-07-09",
+    "abstract": "Future crewed expeditions beyond Earth will span multiple years, requiring a transition away from Earth-dependent pharmaceutical supply chains. Medications degrade more rapidly in space due to radiation exposure and storage constraints, while transporting large quantities of temperature-controlled biologics is logistically impractical. These challe",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42420311/",
+    "category": "mAb Characterization"
+  },
+  {
+    "title": "The Role of Contract Manufacturing in Antibody-Drug Conjugate (ADC) Drug Substance Development - Strategies for Successful Engagement.",
+    "authors": "Barry CS",
+    "journal": "AAPS PharmSciTech",
+    "date": "2026-07-09",
+    "abstract": "Antibody-Drug Conjugates (ADCs) represent a rapidly evolving, and increasingly important frontier in targeted therapeutics, demanding specialised approaches to development and manufacturing. With a highly complex supply chain, specialist Contract Development and Manufacturing Organisations (CDMOs) play a critical role in ADC development. Increasing",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42426294/",
+    "category": "Novel Modalities"
+  },
+  {
+    "title": "Targeting Warburg effect in Chinese hamster ovary cell culture with pyruvate dehydrogenase kinase inhibitors.",
+    "authors": "Hubli GB, Katiyar R, Kapoor V, et al.",
+    "journal": "Biotechnol Prog",
+    "date": "2026-07-08",
+    "abstract": "Production of monoclonal antibodies (mAbs) in Chinese hamster ovary (CHO) cells is affected by the \"Warburg effect\" which is characterized by high lactate accumulation. Therefore, the present study explores the use of pyruvate dehydrogenase kinase (PDK) inhibitors dichloroacetate (DCA), metformin (M), (S)-3,3,3-trifluoro-2-hydroxy-2-methyl propioni",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42420770/",
+    "category": "mAb Characterization"
+  },
+  {
+    "title": "An ultrasensitive visual detection platform for forchlorfenuron: from simulation-assisted hapten and antibody production to double-T immunochromatographic assay application.",
+    "authors": "Kou S, Guo L, Kuang H, et al.",
+    "journal": "J Mater Chem B",
+    "date": "2026-07-08",
+    "abstract": "Forchlorfenuron (FCF), a widely utilized cytokinin-type plant growth regulator, poses a considerable threat to human health and ecological stability when overapplied. This issue has consequently driven an escalating demand for real-time, on-site monitoring technologies capable of detecting FCF residues in agricultural products and environmental mat",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42318762/",
+    "category": "Mass Spectrometry"
+  },
+  {
+    "title": "Deep dive into drug substance HCP patterns for comprehensive safety assessment in recombinant mAb formats.",
+    "authors": "Waldera-Lupa DM, Gehrke-Oltmanns A, Dehghani A, et al.",
+    "journal": "Biotechnol Prog",
+    "date": "2026-07-07",
+    "abstract": "The presence of host cell proteins (HCPs) as process-related impurities in monoclonal antibody (mAb) therapeutics presents risks, including immunogenicity, product instability, and reduced therapeutic efficacy. Therefore, HCP levels are seen as a critical quality attribute which requires monitoring. Characterization of residual HCPs is essential du",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42415423/",
+    "category": "mAb Characterization"
+  },
+  {
+    "title": "High-concentration biologic formulations: challenges, strategies, and emerging technologies for subcutaneous delivery.",
+    "authors": "Ma J",
+    "journal": "Eur J Pharm Biopharm",
+    "date": "2026-07-07",
+    "abstract": "The growing demand for subcutaneous (SC) self-administration of biotherapeutics, driven by the rising prevalence of chronic diseases and healthcare cost-containment pressures, has accelerated the development of high-concentration formulations (HCFs). However, protein concentrations exceeding 100 mg/mL introduce significant challenges, including sol",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42413883/",
+    "category": "Stability"
   },
   {
     "title": "Structural Elucidation of Fc- and Fab-Associated N-Glycans in Cetuximab Using Protein A-Assisted Domain-Resolved Glycan Profiling Using Mass Spectrometry.",
@@ -117,15 +198,6 @@
     "category": "Mass Spectrometry"
   },
   {
-    "title": "An ultrasensitive visual detection platform for forchlorfenuron: from simulation-assisted hapten and antibody production to double-T immunochromatographic assay application.",
-    "authors": "Kou S, Guo L, Kuang H, et al.",
-    "journal": "J Mater Chem B",
-    "date": "2026-06-19",
-    "abstract": "Forchlorfenuron (FCF), a widely utilized cytokinin-type plant growth regulator, poses a considerable threat to human health and ecological stability when overapplied. This issue has consequently driven an escalating demand for real-time, on-site monitoring technologies capable of detecting FCF residues in agricultural products and environmental mat",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42318762/",
-    "category": "Mass Spectrometry"
-  },
-  {
     "title": "Real-Time Monitoring of Trastuzumab Monoclonal Antibodies Using Electrochemical Aptamer-Based Sensors.",
     "authors": "Foo W, Zhang X, Vanichakorntanes SM, et al.",
     "journal": "ACS Sens",
@@ -144,22 +216,13 @@
     "category": "mAb Characterization"
   },
   {
-    "title": "Effect of surfactants on agitation-induced submicron and subvisible particles of therapeutic proteins.",
-    "authors": "Shibata K, Gambe-Gilbuena A, Takeda K, et al.",
-    "journal": "J Pharm Sci",
-    "date": "2026-06-17",
-    "abstract": "The formation of submicron and subvisible particles (SMPs and SVPs) is increasingly recognized as an important quality and safety concern for biopharmaceutical products. In this study, we aimed to quantitatively assess the effectiveness of non-ionic surfactants (poloxamer and polysorbate) for suppressing agitation-induced particles of therapeutic p",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42309208/",
-    "category": "Stability"
-  },
-  {
     "title": "Comparative analysis of charge heterogeneity in anti-sclerostin monoclonal antibodies produced via continuous perfusion and fed-batch processes.",
     "authors": "Yi Y, Xie D, Zhang X, et al.",
     "journal": "Protein Expr Purif",
     "date": "2026-06-11",
     "abstract": "As critical quality attributes, post-translational modifications (PTMs) of therapeutic monoclonal antibodies in production impact their structural stability, charge heterogeneity, and clinical efficacy. This study elucidated PTM-driven charge isomer disparities in anti-sclerostin monoclonal antibodies from continuous perfusion versus fed-batch bior",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42276533/",
-    "category": "Mass Spectrometry"
+    "category": "Chromatography"
   },
   {
     "title": "Stabilization of spray-dried monoclonal antibody formulations with polymeric excipients.",
@@ -207,15 +270,6 @@
     "category": "Biosimilars"
   },
   {
-    "title": "Alginate-Coated Collagen Hydrogel Tubes for Scalable Cell and Biotherapeutic Particle Manufacturing.",
-    "authors": "Wu X, Pan Y, Yang Y, et al.",
-    "journal": "bioRxiv",
-    "date": "2026-06-02",
-    "abstract": "Efficient, scalable, and cost-effective production of mammalian cells and biotherapeutic particles remains a major challenge for both research and clinical applications. Conventional 2D and 3D culture systems suffer from low volumetric yields, poor scalability, and high costs. Previously, we developed collagen hydrogel tube microbioreactors (ColTub",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42282804/",
-    "category": "Stability"
-  },
-  {
     "title": "Investigation of Fill-Finish Tubing Compatibility in the Absence of Protein Stabilizers.",
     "authors": "Vargas SK, Moshashaee S, Siahaan T",
     "journal": "PDA J Pharm Sci Technol",
@@ -225,22 +279,13 @@
     "category": "Chromatography"
   },
   {
-    "title": "Optimized iCIEF Fractionation Enables Deep Profiling of Antibody Drug Conjugate Charge Heterogeneity.",
-    "authors": "Jang E, Zhang Q, Thomas PM",
-    "journal": "Electrophoresis",
-    "date": "2026-05-31",
-    "abstract": "Antibody drug conjugates (ADCs) are a novel class of therapeutic drugs that combine selectivity of an antibody moiety with the cell killing potency of cytotoxic agent. ADCs are complex molecules, and their charge variants are one of the important critical quality attributes (CQAs) that need to be monitored throughout the drug development process. I",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42219962/",
-    "category": "mAb Characterization"
-  },
-  {
     "title": "Freeze-dried kit formulation and physicochemical assessment of a daratumumab-based radiopharmaceutical.",
     "authors": "Apostolova P, Lazareva MA, Davalieva K, et al.",
     "journal": "Acta Pharm",
-    "date": "2026-05-27",
+    "date": "2026-06-01",
     "abstract": "Daratumumab is a fully human anti-CD38 monoclonal antibody with strong potential as a targeting vector for therapeutic radionuclides. This study aimed to develop a freeze-dried daratumumab immunoconjugate kit by selecting a suitable chelator (DOTA-NHS, p-SCN-Bn-DOTA, or p-SCN-Bn-1B4M-DTPA) for the 177Lu-labelling, optimising the freeze-drying formu",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42202083/",
-    "category": "mAb Characterization"
+    "category": "Chromatography"
   },
   {
     "title": "Development and preliminary physicochemical characterization of a Ramucirumab biosimilar candidate in CHO cells using shake-flask fed-batch culture.",
@@ -258,15 +303,6 @@
     "date": "2026-05-23",
     "abstract": "Fibroblast Growth Factor 2 (FGF2) is a highly effective regulator of cell proliferation, differentiation, migration, and adhesion, suggesting a significant therapeutic potential as a tissue regeneration promoter both in acute and chronic tissue damage settings. Despite an extensive list of pathologies that lend themselves as viable targets for FGF2",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42352237/",
-    "category": "mAb Characterization"
-  },
-  {
-    "title": "Rhizomes as Multi-Target Pharmacological Platforms Against Tauopathy: Neuro-Metabolic Crosstalk, Drug-Likeness, and Translational Challenges.",
-    "authors": "Setiawan AW, Choi J, Park S, et al.",
-    "journal": "Pharmaceuticals (Basel)",
-    "date": "2026-05-19",
-    "abstract": "Tauopathies, including Alzheimer's disease (AD), progressive supranuclear palsy (PSP), corticobasal degeneration (CBD), and frontotemporal lobar degeneration with tau pathology, are unified by pathogenic tau misfolding, post-translational modification, aggregation, and network-level spread. Yet decades of drug development that predominantly pursued",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42198466/",
     "category": "mAb Characterization"
   },
   {
@@ -295,15 +331,6 @@
     "abstract": "E6011 is a novel monoclonal antibody developed for the treatment of rheumatoid arthritis. Ultra-performance liquid chromatography coupled with tandem mass spectrometry (UPLC-MS/MS) has become increasingly important in the assays of therapeutic antibodies, yet achieving high sensitivity remains a major challenge. For the E6011 assay, an immunoaffini",
     "url": "https://pubmed.ncbi.nlm.nih.gov/41506196/",
     "category": "Bioassays"
-  },
-  {
-    "title": "Application of a novel LC-MS-based proteomic workflow for host cell protein monitoring and risk control in biotherapeutics.",
-    "authors": "Yu X, Cheng J, Lv Q, et al.",
-    "journal": "Antib Ther",
-    "date": "2026-04-01",
-    "abstract": "Comprehensive monitoring of host cell proteins (HCPs) is essential for ensuring the quality, safety, and consistency of antibody therapeutics. Conventional enzyme-linked immunosorbent assay-based assays provide only total HCP burden and lack the resolution to identify individual, functionally active impurities that may affect product stability or e",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42145658/",
-    "category": "Chromatography"
   },
   {
     "title": "Analytical Development and Testing Strategy of Antibody-Drug Conjugates.",
