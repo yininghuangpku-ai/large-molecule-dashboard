@@ -18,6 +18,15 @@
     "category": "Biosimilars"
   },
   {
+    "title": "Comparative analysis of charge heterogeneity in anti-sclerostin monoclonal antibodies produced via continuous perfusion and fed-batch processes.",
+    "authors": "Yi Y, Xie D, Zhang X, et al.",
+    "journal": "Protein Expr Purif",
+    "date": "2026-09-01",
+    "abstract": "As critical quality attributes, post-translational modifications (PTMs) of therapeutic monoclonal antibodies in production impact their structural stability, charge heterogeneity, and clinical efficacy. This study elucidated PTM-driven charge isomer disparities in anti-sclerostin monoclonal antibodies from continuous perfusion versus fed-batch bior",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42276533/",
+    "category": "Chromatography"
+  },
+  {
     "title": "Evaluation of a prototype bioreactor based on slowly rotating drum.",
     "authors": "Ambrico A, Trupo M, Magarelli RA, et al.",
     "journal": "Cytotechnology",
@@ -25,6 +34,42 @@
     "abstract": "In this study, an innovative rotating-drum bioreactor was evaluated and compared with a conventional stirred-tank system for CHO cell fed-batch culture, with particular focus on oxygen transfer, hydrodynamic conditions, and overall bioprocess performance. The novel configuration, based on a slowly rotating perforated drum, enabled efficient oxygena",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42471956/",
     "category": "Glycosylation"
+  },
+  {
+    "title": "Primary Packaging Hydrophilicity/Hydrophobicity: A Critical Factor Governing Visible-Bubbles during Reconstitution Process of Lyophilized High-Concentration Monoclonal Antibody Formulations.",
+    "authors": "Gao H, Ding ZL, Ouyang J, et al.",
+    "journal": "Mol Pharm",
+    "date": "2026-07-27",
+    "abstract": "Driven by the evolving demands of modern pharmaceutical industry, high-concentration monoclonal antibody formulations (HCMFs) have emerged as a central research hotspot in biopharmaceutical development, attributable to their merits such as low administration volume and reduced medical expenditure. For lyophilized HCMFs, reconstitution performance s",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42504728/",
+    "category": "mAb Characterization"
+  },
+  {
+    "title": "AI-enabled lyophilization of advanced biologics: process intelligence, quality assessment, and formulation opportunities.",
+    "authors": "Liu X, Caprio GD, Du Y",
+    "journal": "Int J Pharm",
+    "date": "2026-07-24",
+    "abstract": "Lyophilization is a key stabilization strategy for advanced biologics, including protein therapeutics, nucleic-acid-based products, extracellular vesicles, and other highly labile biopharmaceutical systems. However, the development of lyophilized biologic products remains constrained by the intrinsic complexity of coupled heat and mass transfer, li",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42497936/",
+    "category": "mAb Characterization"
+  },
+  {
+    "title": "Expanding Patient Access to Advanced Therapies.",
+    "authors": "Guillen E, Hidalgo-Simon A",
+    "journal": "BioDrugs",
+    "date": "2026-07-21",
+    "abstract": "Advanced therapy medicinal products (ATMPs) promise transformative clinical potential, but their use remains limited by complex manufacturing, high prices, and fragmented market access. To explore the existing and potential regulatory pathways to increase access to ATMPs, we conducted a product-level analysis of ATMPs and biologic medicines submitt",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42481849/",
+    "category": "Biosimilars"
+  },
+  {
+    "title": "Mitigating pH-induced instability in deruxtecan-based ADCs: an onboard-mixing icIEF approach for robust charge heterogeneity characterization.",
+    "authors": "Wu G, Cui C, Bo A, et al.",
+    "journal": "J Chromatogr B Analyt Technol Biomed Life Sci",
+    "date": "2026-07-17",
+    "abstract": "Accurate charge variant analysis of antibody-drug conjugates (ADCs) is essential for understanding product heterogeneity and ensuring quality control. However, Deruxtecan (DXd)-based ADCs present a unique analytical challenge due to the intrinsic instability of the payload, where the lactone ring readily undergoes hydrolysis under alkaline conditio",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42475784/",
+    "category": "mAb Characterization"
   },
   {
     "title": "Quality by Design to Mitigate Aggregation: Mechanistic Insights and Analytical Strategies for Biopharmaceutical Manufacturing.",
@@ -79,6 +124,15 @@
     "abstract": "Modern biopharmaceutical manufacturing requires purification platforms capable of processing structurally and functionally diverse products while addressing the challenge of removing persistent and high-risk host cell proteins (HCPs). Current purification processes utilize adsorbents that operate in bind-and-elute mode, which limits productivity, a",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42460543/",
     "category": "Novel Modalities"
+  },
+  {
+    "title": "Decoding thermal instability in peptide therapeutics links microheterogeneity to bioactivity loss.",
+    "authors": "Zhu S, Ge Y, Huang H, et al.",
+    "journal": "J Pharm Biomed Anal",
+    "date": "2026-07-15",
+    "abstract": "Peptide therapeutics occupy an intermediate position on the molecular continuum between small-molecule drugs and large biologics. A defining characteristic of these agents is their propensity to form topological isomers during synthesis and processing, which are often overlooked and give rise to cryptic microheterogeneity. Such topological variants",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42475801/",
+    "category": "Mass Spectrometry"
   },
   {
     "title": "Raman Spectroscopy for Characterizing Monoclonal Antibody Reduction: A Process Analytical Technology Approach for Antibody-Drug Conjugation Process Development.",
@@ -159,7 +213,7 @@
     "date": "2026-07-07",
     "abstract": "The presence of host cell proteins (HCPs) as process-related impurities in monoclonal antibody (mAb) therapeutics presents risks, including immunogenicity, product instability, and reduced therapeutic efficacy. Therefore, HCP levels are seen as a critical quality attribute which requires monitoring. Characterization of residual HCPs is essential du",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42415423/",
-    "category": "mAb Characterization"
+    "category": "Mass Spectrometry"
   },
   {
     "title": "Structural Elucidation of Fc- and Fab-Associated N-Glycans in Cetuximab Using Protein A-Assisted Domain-Resolved Glycan Profiling Using Mass Spectrometry.",
@@ -178,15 +232,6 @@
     "abstract": "The clinical translation of molecularly targeted therapeutics and imaging agents represents a cornerstone of precision oncology, with the global theranostics market projected to exceed $25 billion by 2030. However, the development of theragnostic agents or diagnostic companions remains constrained by analytical bottlenecks in quality control, such ",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42401754/",
     "category": "Chromatography"
-  },
-  {
-    "title": "Multivariate analysis of the effects of high seeding density on therapeutic protein production and sialylation in an intensified CHO cell culture process.",
-    "authors": "Lee HM, Kim HS, Kim YG",
-    "journal": "Bioprocess Biosyst Eng",
-    "date": "2026-07-01",
-    "abstract": "Intensified processes in Chinese hamster ovary (CHO) cell culture are increasingly implemented to enhance therapeutic protein production in biopharmaceutical manufacturing; however, their impact on glycan-related product quality attributes, particularly terminal sialylation, remains insufficiently characterized. In this study, a design of experimen",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42274797/",
-    "category": "Glycosylation"
   },
   {
     "title": "Review of Quality Attributes and Analytical Methods Used for Comparative Analytical Assessment of Monoclonal Antibodies as Part of Successful Biosimilar Approvals in the United States and European Union.",
@@ -216,15 +261,6 @@
     "category": "Novel Modalities"
   },
   {
-    "title": "Chemical-Assembled Macrophage-Engaging Glypican-3 × Signal Regulatory Protein-α (SIRP-α) Bispecific Antibody for Immunotherapy Against Liver Cancer.",
-    "authors": "Tang B, Leung WH, Shao C, et al.",
-    "journal": "MedComm (2020)",
-    "date": "2026-07-01",
-    "abstract": "Bispecific antibodies (BsAbs) represent a growing class of cancer immunotherapeutics, yet their wider adoption remains limited by complex recombinant production and limited manufacturing efficiency. Here, we report a chemically assembled macrophage-engaging glypican-3 × signal regulatory protein-α (SIRP-α) bispecific antibody for the treatment of l",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42318525/",
-    "category": "Novel Modalities"
-  },
-  {
     "title": "Tritosomes-Digestion for LC-MS Conjugated Payloads Quantitation: A Universal Approach for Dual-Payloads ADCs.",
     "authors": "Molinaro F, Colangelo GS, Cocco P, et al.",
     "journal": "Int J Mol Sci",
@@ -240,7 +276,7 @@
     "date": "2026-06-28",
     "abstract": "The multi-attribute method (MAM) is an integrated peptide mapping strategy based on liquid chromatography-mass spectrometry (LC-MS) technology. It enables precise quantification and dynamic tracking of multiple site-specific modifications in a single analysis, significantly enhancing the efficiency and depth of biopharmaceutical quality control. No",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42366697/",
-    "category": "mAb Characterization"
+    "category": "Mass Spectrometry"
   },
   {
     "title": "Automated Ultradilute Measurements of Self-Association for the Identification of Antibodies with Favorable High-Concentration Solution Properties.",
@@ -252,15 +288,6 @@
     "category": "Stability"
   },
   {
-    "title": "Mechanistic deconvolution of BSA size variants by constrained Raman pseudo-Voigt hard modeling during anion-exchange chromatography.",
-    "authors": "Heyer-Müller J, Schiemer R, Robbel L, et al.",
-    "journal": "Biotechnol Prog",
-    "date": "2026-06-25",
-    "abstract": "In biopharmaceutical manufacturing, protein aggregation is a critical quality attribute, necessitating rapid and reliable analytical strategies during downstream processes like anion-exchange chromatography (AEX). While Raman spectroscopy enables continuous monitoring of protein secondary structure, standard data-driven regression models struggle t",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42357842/",
-    "category": "mAb Characterization"
-  },
-  {
     "title": "Prolonged autophagy induction correlates with host cell protein reduction in CHO cell culture.",
     "authors": "Sahoo A, Tsukidate T, Pendyala G, et al.",
     "journal": "Biotechnol Prog",
@@ -270,12 +297,12 @@
     "category": "Glycosylation"
   },
   {
-    "title": "Development of an Enzyme-Linked Immunosorbent Assay for Pegmolesatide in Doping Analysis: An Initial Testing Method.",
-    "authors": "Chen J, Niu C, Zhou X",
-    "journal": "Drug Test Anal",
-    "date": "2026-06-19",
-    "abstract": "Pegmolesatide is a novel synthetic erythropoietin-mimetic agent that binds to and activates the erythropoietin receptor (EPOR), thereby stimulating erythropoiesis. Owing to its erythropoiesis-stimulating activity, it has been included in the latest World Anti-Doping Agency (WADA) Prohibited List as an erythropoietin receptor agonist (S2.1.1). The c",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42321008/",
+    "title": "Deciphering super-heterogeneous glycosylated biotherapeutics by combining hydrophilic interaction chromatography-based separation and scan-by-scan deconvolution strategy.",
+    "authors": "Zhang Z, Liu AP, Li X, et al.",
+    "journal": "J Pharm Biomed Anal",
+    "date": "2026-06-18",
+    "abstract": "The structural heterogeneity of glycosylated biotherapeutics, driven by diverse glycan modifications, poses significant challenges for comprehensive characterization and quality assessment of these molecules. Conventional mass spectrometry (MS) approaches often struggle with the complexity of intact glycoprotein analysis due to overlapping glycofor",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42486710/",
     "category": "Mass Spectrometry"
   },
   {
@@ -285,15 +312,6 @@
     "date": "2026-06-17",
     "abstract": "Accurate determination of the drug-antibody ratio (DAR) of an antibody-drug conjugate (ADC) requires multiple orthogonal analytical methods to ensure appropriate control of this critical quality attribute (CQA). This study presents the development considerations of two quality control (QC) methods: reversed-phase liquid chromatography (RP-HPLC) and",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42237689/",
-    "category": "Chromatography"
-  },
-  {
-    "title": "Comparative analysis of charge heterogeneity in anti-sclerostin monoclonal antibodies produced via continuous perfusion and fed-batch processes.",
-    "authors": "Yi Y, Xie D, Zhang X, et al.",
-    "journal": "Protein Expr Purif",
-    "date": "2026-06-11",
-    "abstract": "As critical quality attributes, post-translational modifications (PTMs) of therapeutic monoclonal antibodies in production impact their structural stability, charge heterogeneity, and clinical efficacy. This study elucidated PTM-driven charge isomer disparities in anti-sclerostin monoclonal antibodies from continuous perfusion versus fed-batch bior",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42276533/",
     "category": "Chromatography"
   },
   {
@@ -313,24 +331,6 @@
     "abstract": "Optimization of the fill-finish process for a biotherapeutic is imperative for the highest quality drug product. Fill-finish is the last step in manufacturing and the last opportunity for intervention prior to entry into the supply chain. Typically, stabilizing excipients are utilized to mitigate chemical or structural weaknesses of a protein thera",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42225406/",
     "category": "Chromatography"
-  },
-  {
-    "title": "Development and preliminary physicochemical characterization of a Ramucirumab biosimilar candidate in CHO cells using shake-flask fed-batch culture.",
-    "authors": "Cagatay E, Gungor Y, Ozturk SS, et al.",
-    "journal": "Bioprocess Biosyst Eng",
-    "date": "2026-05-27",
-    "abstract": "The development of biosimilar monoclonal antibodies requires strict control of critical quality attributes and a detailed understanding of cell culture performance. This study describes the development and preliminary physicochemical characterization of a candidate biosimilar monoclonal antibody targeting VEGFR-2 produced in CHO cells. Seventy-five",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42192004/",
-    "category": "Biosimilars"
-  },
-  {
-    "title": "Understanding the Aggregation Mechanism of and Developing Stabilization Strategies for Recombinant Fibroblast Growth Factor 2.",
-    "authors": "Cheng R, Oganesyan N, Lees A, et al.",
-    "journal": "Biomolecules",
-    "date": "2026-05-23",
-    "abstract": "Fibroblast Growth Factor 2 (FGF2) is a highly effective regulator of cell proliferation, differentiation, migration, and adhesion, suggesting a significant therapeutic potential as a tissue regeneration promoter both in acute and chronic tissue damage settings. Despite an extensive list of pathologies that lend themselves as viable targets for FGF2",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42352237/",
-    "category": "Mass Spectrometry"
   },
   {
     "title": "Advances in Biosimilars: A Systematic Review of Machine Learning Applications.",
