@@ -1,14 +1,5 @@
 [
   {
-    "title": "Comparison of knockdown approaches for the generation of stable cell populations expressing afucosylated antibodies.",
-    "authors": "Tsachaki M, Samy A, Peltret M, et al.",
-    "journal": "MAbs",
-    "date": "2026-12-01",
-    "abstract": "Targeted silencing of cellular genes in cell lines stably expressing a secreted recombinant protein offers a flexible and convenient strategy for modulating product quality attributes. However, unlike genetic knockout of a cellular gene or the use of potent inhibitors to eliminate cellular enzyme activity, gene knockdown approaches using microRNAs ",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42285912/",
-    "category": "Glycosylation"
-  },
-  {
     "title": "In-depth glycosylation and aspartic acid isomerization characterization of therapeutic fusion protein using electron transfer/higher-energy collision dissociation on the new hybrid high-resolution mass spectrometer.",
     "authors": "Wu G, Zhang X, Du J, et al.",
     "journal": "J Pharm Biomed Anal",
@@ -27,6 +18,15 @@
     "category": "Chromatography"
   },
   {
+    "title": "13C metabolic flux analysis and gene expression analysis of perfusion culture reveal metabolic bottlenecks for stable glycosylation profiles of biologics.",
+    "authors": "Sacco SA, Tang T, Engels S, et al.",
+    "journal": "Metab Eng",
+    "date": "2026-09-01",
+    "abstract": "Perfusion Chinese hamster ovary (CHO) cell culture offers potential benefits over fed-batch cultures, including higher productivity and a reduced production footprint. However, maintaining a stable profile of product quality attributes (PQAs) over the entirety of a perfusion culture has proven to be a challenge across the biopharmaceutical industry",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42448261/",
+    "category": "Glycosylation"
+  },
+  {
     "title": "Evaluation of a prototype bioreactor based on slowly rotating drum.",
     "authors": "Ambrico A, Trupo M, Magarelli RA, et al.",
     "journal": "Cytotechnology",
@@ -34,6 +34,42 @@
     "abstract": "In this study, an innovative rotating-drum bioreactor was evaluated and compared with a conventional stirred-tank system for CHO cell fed-batch culture, with particular focus on oxygen transfer, hydrodynamic conditions, and overall bioprocess performance. The novel configuration, based on a slowly rotating perforated drum, enabled efficient oxygena",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42471956/",
     "category": "Glycosylation"
+  },
+  {
+    "title": "Operationalizing digital twins in biomanufacturing through interoperable process analytical technology.",
+    "authors": "Satwekar A, Gracieux-Singleton MC, Cummings C, et al.",
+    "journal": "Bioprocess Biosyst Eng",
+    "date": "2026-08-01",
+    "abstract": "The integration of Process Analytical Technologies (PAT) within digital twin architecture represents an important advancement in biopharmaceutical manufacturing. While existing literature has separately addressed digital twin dimensions, interoperability levels, and manufacturing standards, their systematic integration for real-time bioprocess cont",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42461386/",
+    "category": "Glycosylation"
+  },
+  {
+    "title": "Humanization of N-glycan-dependent protein quality-control system in Kluyveromyces marxianus promotes glycoprotein secretion.",
+    "authors": "Ai Y, He Y, Zhao L, et al.",
+    "journal": "Metab Eng",
+    "date": "2026-07-31",
+    "abstract": "Human N-glycoproteins represent a market worth hundreds of billions of dollars, yet their production in yeast is often limited by misfolding and degradation. However, few strategies have addressed this limitation by targeting differences between human and yeast N-glycan-dependent protein quality control (QC), including the absence of the UGGT-media",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42537838/",
+    "category": "Glycosylation"
+  },
+  {
+    "title": "Transdermal delivery of biologics.",
+    "authors": "Vora LK, Gowda BHJ, Strauss J, et al.",
+    "journal": "J Control Release",
+    "date": "2026-07-28",
+    "abstract": "Biologics, including peptides, proteins, antibodies, vaccines and nucleic acid-based therapeutics, have transformed the management of chronic, metabolic, inflammatory, oncological and infectious diseases. Despite their clinical success, their wider use remains constrained by invasive administration routes, poor patient acceptability and formulation",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42521025/",
+    "category": "Stability"
+  },
+  {
+    "title": "A rapid and high-throughput biotechnology quantifies major glycoforms of human IgG1 mAb drugs.",
+    "authors": "Matsumoto Y, Zhou L, Ohno S, et al.",
+    "journal": "Trends Biotechnol",
+    "date": "2026-07-27",
+    "abstract": "Human IgG1 monoclonal antibody (mAb) drugs are widely manufactured using mammalian cells and contain three major glycoforms on asparagine residue at position 297 (Asn297) in their Fc region: fucosylated, afucosylated, and high-mannose glycans. The N-glycans at Asn297 directly impact IgG1 mAb efficacy through effector functions and half-life. Thus, ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42509127/",
+    "category": "mAb Characterization"
   },
   {
     "title": "Primary Packaging Hydrophilicity/Hydrophobicity: A Critical Factor Governing Visible-Bubbles during Reconstitution Process of Lyophilized High-Concentration Monoclonal Antibody Formulations.",
@@ -63,6 +99,15 @@
     "category": "Biosimilars"
   },
   {
+    "title": "From Unmet Medical Need to Drug Candidate: A Translational Therapeutic Development Roadmap Illustrated by Dual-Payload Antibody-Drug Conjugates.",
+    "authors": "Honda T, Zhu GD",
+    "journal": "Biomolecules",
+    "date": "2026-07-18",
+    "abstract": "Transformative therapeutic innovation should not begin with a molecule-or even a molecular target. It should begin with a clearly defined unmet clinical need. Here, we present a seven-step Translational Therapeutic Development Roadmap that systematically connects an unmet medical need to a developable drug candidate through the disciplined sequence",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42509843/",
+    "category": "Novel Modalities"
+  },
+  {
     "title": "Mitigating pH-induced instability in deruxtecan-based ADCs: an onboard-mixing icIEF approach for robust charge heterogeneity characterization.",
     "authors": "Wu G, Cui C, Bo A, et al.",
     "journal": "J Chromatogr B Analyt Technol Biomed Life Sci",
@@ -79,24 +124,6 @@
     "abstract": "This review highlights the problem of protein molecule aggregation, which represents a significant challenge in the field of biopharmaceuticals. Protein aggregation is critical because it can affect the efficacy and safety of biopharmaceuticals, including those used to treat autoimmune diseases and various cancers. From a regulatory perspective, pr",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42467318/",
     "category": "mAb Characterization"
-  },
-  {
-    "title": "Operationalizing digital twins in biomanufacturing through interoperable process analytical technology.",
-    "authors": "Satwekar A, Gracieux-Singleton MC, Cummings C, et al.",
-    "journal": "Bioprocess Biosyst Eng",
-    "date": "2026-07-16",
-    "abstract": "The integration of Process Analytical Technologies (PAT) within digital twin architecture represents an important advancement in biopharmaceutical manufacturing. While existing literature has separately addressed digital twin dimensions, interoperability levels, and manufacturing standards, their systematic integration for real-time bioprocess cont",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42461386/",
-    "category": "Glycosylation"
-  },
-  {
-    "title": "13C metabolic flux analysis and gene expression analysis of perfusion culture reveal metabolic bottlenecks for stable glycosylation profiles of biologics.",
-    "authors": "Sacco SA, Tang T, Engels S, et al.",
-    "journal": "Metab Eng",
-    "date": "2026-07-16",
-    "abstract": "Perfusion Chinese hamster ovary (CHO) cell culture offers potential benefits over fed-batch cultures, including higher productivity and a reduced production footprint. However, maintaining a stable profile of product quality attributes (PQAs) over the entirety of a perfusion culture has proven to be a challenge across the biopharmaceutical industry",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42448261/",
-    "category": "Glycosylation"
   },
   {
     "title": "Lysine as a multifunctional excipient for protein-based biopharmaceutical formulations.",
@@ -126,6 +153,15 @@
     "category": "Novel Modalities"
   },
   {
+    "title": "Enhancing lyophilized cake morphology in biopharmaceutical products through stepped annealing at freezing phase.",
+    "authors": "Birangal P, Lodagekar A, Pulipeta M, et al.",
+    "journal": "J Pharm Sci",
+    "date": "2026-07-15",
+    "abstract": "Lyophilization is widely used to stabilise biopharmaceuticals, yet split‑cake formation remains a challenge. Cake elegance, a critical quality attribute (CQA), is influenced by both formulation and process parameters. As biosimilar manufacturers are constrained from altering formulation composition, optimisation of process parameters becomes the pr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42448178/",
+    "category": "mAb Characterization"
+  },
+  {
     "title": "Decoding thermal instability in peptide therapeutics links microheterogeneity to bioactivity loss.",
     "authors": "Zhu S, Ge Y, Huang H, et al.",
     "journal": "J Pharm Biomed Anal",
@@ -141,15 +177,6 @@
     "date": "2026-07-14",
     "abstract": "Controlled disulfide bond reduction is critical in antibody-drug conjugate (ADC) manufacturing, enabling site-specific conjugation and desired drug-to-antibody ratios. Current characterization relies on time-consuming offline capillary electrophoresis, creating bottlenecks in process development where multiple conditions must be rapidly screened. T",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42449032/",
-    "category": "mAb Characterization"
-  },
-  {
-    "title": "Enhancing lyophilized cake morphology in biopharmaceutical products through stepped annealing at freezing phase.",
-    "authors": "Birangal P, Lodagekar A, Pulipeta M, et al.",
-    "journal": "J Pharm Sci",
-    "date": "2026-07-14",
-    "abstract": "Lyophilization is widely used to stabilise biopharmaceuticals, yet split‑cake formation remains a challenge. Cake elegance, a critical quality attribute (CQA), is influenced by both formulation and process parameters. As biosimilar manufacturers are constrained from altering formulation composition, optimisation of process parameters becomes the pr",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42448178/",
     "category": "mAb Characterization"
   },
   {
@@ -180,31 +207,13 @@
     "category": "Novel Modalities"
   },
   {
-    "title": "On-demand peptide therapeutics for multi-year space exploration: analysis of clinical and operational relevance and recombinant production feasibility.",
-    "authors": "Donovan JJ, Ericson I, Wenthe A, et al.",
-    "journal": "NPJ Microgravity",
-    "date": "2026-07-09",
-    "abstract": "Future crewed expeditions beyond Earth will span multiple years, requiring a transition away from Earth-dependent pharmaceutical supply chains. Medications degrade more rapidly in space due to radiation exposure and storage constraints, while transporting large quantities of temperature-controlled biologics is logistically impractical. These challe",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42420311/",
-    "category": "mAb Characterization"
-  },
-  {
-    "title": "The Role of Contract Manufacturing in Antibody-Drug Conjugate (ADC) Drug Substance Development - Strategies for Successful Engagement.",
-    "authors": "Barry CS",
-    "journal": "AAPS PharmSciTech",
-    "date": "2026-07-09",
-    "abstract": "Antibody-Drug Conjugates (ADCs) represent a rapidly evolving, and increasingly important frontier in targeted therapeutics, demanding specialised approaches to development and manufacturing. With a highly complex supply chain, specialist Contract Development and Manufacturing Organisations (CDMOs) play a critical role in ADC development. Increasing",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42426294/",
-    "category": "Novel Modalities"
-  },
-  {
     "title": "Targeting Warburg effect in Chinese hamster ovary cell culture with pyruvate dehydrogenase kinase inhibitors.",
     "authors": "Hubli GB, Katiyar R, Kapoor V, et al.",
     "journal": "Biotechnol Prog",
     "date": "2026-07-08",
     "abstract": "Production of monoclonal antibodies (mAbs) in Chinese hamster ovary (CHO) cells is affected by the \"Warburg effect\" which is characterized by high lactate accumulation. Therefore, the present study explores the use of pyruvate dehydrogenase kinase (PDK) inhibitors dichloroacetate (DCA), metformin (M), (S)-3,3,3-trifluoro-2-hydroxy-2-methyl propioni",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42420770/",
-    "category": "mAb Characterization"
+    "category": "Glycosylation"
   },
   {
     "title": "Deep dive into drug substance HCP patterns for comprehensive safety assessment in recombinant mAb formats.",
@@ -252,15 +261,6 @@
     "category": "Biosimilars"
   },
   {
-    "title": "Preventing physical and chemical degradation of the LABL-Fc-MOGR5, a bifunctional peptide inhibitor, with formulation development approaches.",
-    "authors": "Xin L, Mahadik R, Prorok M, et al.",
-    "journal": "Antib Ther",
-    "date": "2026-07-01",
-    "abstract": "LABL-Fc-MOGR5 is a bifunctional peptide inhibitor designed to modulate immune responses in multiple sclerosis, including primary progressive multiple sclerosis. Although therapeutically promising, its development has been hindered by poor physical stability, particularly rapid precipitation under standard formulation conditions. A high-throughput, ",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42382974/",
-    "category": "Novel Modalities"
-  },
-  {
     "title": "Tritosomes-Digestion for LC-MS Conjugated Payloads Quantitation: A Universal Approach for Dual-Payloads ADCs.",
     "authors": "Molinaro F, Colangelo GS, Cocco P, et al.",
     "journal": "Int J Mol Sci",
@@ -286,15 +286,6 @@
     "abstract": "One of the key challenges in antibody engineering is the development of analytical screening methods to assess colloidal stability, ensuring that biologics are suitable for high-concentration formulation and administration. Charge-stabilized self-interaction nanoparticle spectroscopy (CS-SINS), a modified version of the conventional affinity-captur",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42441490/",
     "category": "Stability"
-  },
-  {
-    "title": "Prolonged autophagy induction correlates with host cell protein reduction in CHO cell culture.",
-    "authors": "Sahoo A, Tsukidate T, Pendyala G, et al.",
-    "journal": "Biotechnol Prog",
-    "date": "2026-06-20",
-    "abstract": "Autophagy, a cellular recycling process regulated by the CLEAR signaling pathway, plays a pivotal role in maintaining cellular homeostasis. We hypothesize that this process may regulate and reduce high-risk host cell proteins (HCPs) levels by targeting intracellular proteins and organelles for degradation. This study investigates the relationship b",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42322119/",
-    "category": "Glycosylation"
   },
   {
     "title": "Deciphering super-heterogeneous glycosylated biotherapeutics by combining hydrophilic interaction chromatography-based separation and scan-by-scan deconvolution strategy.",
@@ -342,15 +333,6 @@
     "category": "Biosimilars"
   },
   {
-    "title": "A Three-Arm, Tiered Comparability Strategy Bridging Post-Approval Process Changes for an Omalizumab Biosimilar (CMAB007).",
-    "authors": "Wang C, Zhou C, Hou S, et al.",
-    "journal": "Pharmaceuticals (Basel)",
-    "date": "2026-05-02",
-    "abstract": "Background: Post-approval manufacturing changes for biologics require rigorous comparability assessments to ensure uninterrupted quality and clinical performance. CMAB007 (Aomaishu®), a China-approved (2023) omalizumab biosimilar, underwent process enhancements-including media optimization and anion-exchange chromatography substitution-yielding a 5",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42198399/",
-    "category": "Biosimilars"
-  },
-  {
     "title": "Importance in optimization of sample volume in the IgG-immunoaffinity UPLC-MS/MS assay for quantification of a therapeutic antibody in monkey serum.",
     "authors": "Kita K, Mano Y",
     "journal": "J Pharm Biomed Anal",
@@ -387,6 +369,15 @@
     "category": "Bioassays"
   },
   {
+    "title": "Glycoengineering of Monoclonal Antibodies with Homogeneous Glycan Isomers with Asymmetric Antennae.",
+    "authors": "Tam RY, Hatfield G, Tepliakova L",
+    "journal": "Methods Mol Biol",
+    "date": "2026-01-01",
+    "abstract": "Glycosylation is an important post-translational modification that can alter the biological activities of antibodies. In monoclonal antibody biotherapeutic products, glycosylation of the Fc-domain, which is often sensitive to manufacturing conditions, can alter product potency by affecting its interactions with host immune cells. Improving control ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42542537/",
+    "category": "mAb Characterization"
+  },
+  {
     "title": "Validation approach of an LC-MS/MS assay for ADA detection, applied to a Von Willebrand factor-targeted biotherapeutic.",
     "authors": "Schalk FB, Shumate K, Nagilla P, et al.",
     "journal": "Bioanalysis",
@@ -411,15 +402,6 @@
     "date": "2025-12-15",
     "abstract": "The growing demand for monoclonal antibodies (mAbs) in biomedical applications requires efficient biomanufacturing processes with real-time monitoring capabilities to maximize production outputs cost-effectively. Currently, mAb production monitoring relies on end-point assays that fail to capture the real-time dynamics of mAb secretion. This study ",
     "url": "https://pubmed.ncbi.nlm.nih.gov/40966889/",
-    "category": "Bioassays"
-  },
-  {
-    "title": "A Cost-Effective and Robust Cell-Based Bioassay Method for Evaluating the Bioactivity of Trastuzumab-like Antibodies.",
-    "authors": "Bharali P, Chand S, Chander H",
-    "journal": "Biomedicines",
-    "date": "2024-12-26",
-    "abstract": "Background/Objectives: Trastuzumab is an effective therapeutic intervention for treating HER2-positive breast cancers. The cost-effectiveness, global demand, and patent expiration of trastuzumab have led to the inflow of its biosimilars in the global market. With the rise of biosimilars in the biopharmaceutical market, it has become crucial to ensu",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/39857607/",
     "category": "Bioassays"
   }
 ]
