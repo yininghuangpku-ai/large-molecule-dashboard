@@ -1,5 +1,14 @@
 [
   {
+    "title": "Experimental and computational analysis of glycan processing at increased monoclonal antibody productivities.",
+    "authors": "Pranomphon R, Gialamoidou S, Yamabhai M, et al.",
+    "journal": "Metab Eng Commun",
+    "date": "2026-12-01",
+    "abstract": "Optimization of cell culture conditions is critically important for successful commercial production of therapeutic antibodies; however, improvements in productivity may be offset by changes in critical quality attributes. We assessed the impact of two different process conditions (high and low yield) on growth, productivity, and glycan distributio",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42571449/",
+    "category": "Glycosylation"
+  },
+  {
     "title": "In-depth glycosylation and aspartic acid isomerization characterization of therapeutic fusion protein using electron transfer/higher-energy collision dissociation on the new hybrid high-resolution mass spectrometer.",
     "authors": "Wu G, Zhang X, Du J, et al.",
     "journal": "J Pharm Biomed Anal",
@@ -25,6 +34,42 @@
     "abstract": "Perfusion Chinese hamster ovary (CHO) cell culture offers potential benefits over fed-batch cultures, including higher productivity and a reduced production footprint. However, maintaining a stable profile of product quality attributes (PQAs) over the entirety of a perfusion culture has proven to be a challenge across the biopharmaceutical industry",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42448261/",
     "category": "Glycosylation"
+  },
+  {
+    "title": "Cleaning Considerations for Antibody Drug Conjugate (ADC) Products: Poster Presented at PDA Week 2026.",
+    "authors": "Lopolito P, Bosso B, Hadziselimovic D, et al.",
+    "journal": "PDA J Pharm Sci Technol",
+    "date": "2026-08-07",
+    "abstract": "Novel drug products such as antibody drug conjugates (ADC) can present unique cleaning challenges based on the toxicity of the drug and degradation profile of the drug product. Equipment cleaning concerns are often overlooked during design, startup, and commissioning of biopharmaceutical facilities. Failures to understand cleaning agent selection, ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42567650/",
+    "category": "Novel Modalities"
+  },
+  {
+    "title": "Ocular Tissue Distribution of Ocular Surface Immunoglobulin Following Topical and Subconjunctival Administration: A Novel Strategy for Mitigation of Antibody-Drug Conjugate-Associated Ocular Toxicity.",
+    "authors": "Dabre Z, Krupa EG, Pasupuleti B, et al.",
+    "journal": "J Ocul Pharmacol Ther",
+    "date": "2026-08-06",
+    "abstract": "Antibody-drug conjugate (ADC)-associated ocular toxicity is an emerging, sometimes dose-limiting complication. Macropinocytosis has been implicated in off-target ADC uptake by corneal epithelial cells. This study evaluated whether ocular surface immunoglobulin (OSIG) inhibit macropinocytosis in human corneal epithelial cells (HCE-T) and characteriz",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42563409/",
+    "category": "Novel Modalities"
+  },
+  {
+    "title": "Comprehensive evaluation of chloroquine-resin complexes: functional, biopharmaceutical and antimalarial performance.",
+    "authors": "Pádua TA, Passos MXV, Mascarenhas ED, et al.",
+    "journal": "Int J Pharm",
+    "date": "2026-08-05",
+    "abstract": "Malaria remains a major global health burden, especially in children under the age of five. Pediatric treatment often requires tablet fragmentation for its dose adjustment according to body weight, which intensifies bitterness and may reduce treatment adherence. Complexation of bitter-tasting drugs with ion-exchange resins for taste masking is a pr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42556438/",
+    "category": "Stability"
+  },
+  {
+    "title": "Engineering High-Performance Inhalable Monoclonal Antibody Powders via Spray Freeze Drying.",
+    "authors": "Pasero L, Sulpizi A, Pinetti E, et al.",
+    "journal": "Eur J Pharm Biopharm",
+    "date": "2026-08-03",
+    "abstract": "Spray freeze-drying (SFD) is a cutting-edge technique for producing dry powders, ideal for pulmonary drug delivery, owing to its ability to generate porous microparticles with low density and excellent aerodynamic properties. The SFD process, involving atomisation, freezing, and drying, is particularly suited for formulating biologics, e.g., monocl",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42546983/",
+    "category": "Chromatography"
   },
   {
     "title": "Evaluation of a prototype bioreactor based on slowly rotating drum.",
@@ -198,24 +243,6 @@
     "category": "Mass Spectrometry"
   },
   {
-    "title": "Antibody-drug conjugates and the need for third-modality regulatory science.",
-    "authors": "Jiang N, Mao JJ, Zhou XY, et al.",
-    "journal": "Med",
-    "date": "2026-07-10",
-    "abstract": "ADCs challenge conventional biologic and small-molecule framework regulation because their performance emerges from integrated antibody, linker, payload, and manufacturing attributes. This commentary proposes a risk-based third-modality science combining product-level assessment, component-specific scrutiny, platform evidence, and life cycle compar",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42431184/",
-    "category": "Novel Modalities"
-  },
-  {
-    "title": "Targeting Warburg effect in Chinese hamster ovary cell culture with pyruvate dehydrogenase kinase inhibitors.",
-    "authors": "Hubli GB, Katiyar R, Kapoor V, et al.",
-    "journal": "Biotechnol Prog",
-    "date": "2026-07-08",
-    "abstract": "Production of monoclonal antibodies (mAbs) in Chinese hamster ovary (CHO) cells is affected by the \"Warburg effect\" which is characterized by high lactate accumulation. Therefore, the present study explores the use of pyruvate dehydrogenase kinase (PDK) inhibitors dichloroacetate (DCA), metformin (M), (S)-3,3,3-trifluoro-2-hydroxy-2-methyl propioni",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42420770/",
-    "category": "Glycosylation"
-  },
-  {
     "title": "Deep dive into drug substance HCP patterns for comprehensive safety assessment in recombinant mAb formats.",
     "authors": "Waldera-Lupa DM, Gehrke-Oltmanns A, Dehghani A, et al.",
     "journal": "Biotechnol Prog",
@@ -279,15 +306,6 @@
     "category": "Mass Spectrometry"
   },
   {
-    "title": "Automated Ultradilute Measurements of Self-Association for the Identification of Antibodies with Favorable High-Concentration Solution Properties.",
-    "authors": "Viola-LaBreck MG, Ossana A, Starr CG, et al.",
-    "journal": "J Vis Exp",
-    "date": "2026-06-26",
-    "abstract": "One of the key challenges in antibody engineering is the development of analytical screening methods to assess colloidal stability, ensuring that biologics are suitable for high-concentration formulation and administration. Charge-stabilized self-interaction nanoparticle spectroscopy (CS-SINS), a modified version of the conventional affinity-captur",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42441490/",
-    "category": "Stability"
-  },
-  {
     "title": "Deciphering super-heterogeneous glycosylated biotherapeutics by combining hydrophilic interaction chromatography-based separation and scan-by-scan deconvolution strategy.",
     "authors": "Zhang Z, Liu AP, Li X, et al.",
     "journal": "J Pharm Biomed Anal",
@@ -312,15 +330,6 @@
     "date": "2026-06-11",
     "abstract": "Spray drying is an emerging continuous manufacturing approach with significant potential for producing stable solid formulations of biologic drug products such as peptides, proteins and oligonucleotides. However, these sensitive molecules on exposure to thermal, shear, and interfacial stresses during spray drying may experience structural perturbat",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42276211/",
-    "category": "Chromatography"
-  },
-  {
-    "title": "Investigation of Fill-Finish Tubing Compatibility in the Absence of Protein Stabilizers.",
-    "authors": "Vargas SK, Moshashaee S, Siahaan T",
-    "journal": "PDA J Pharm Sci Technol",
-    "date": "2026-06-01",
-    "abstract": "Optimization of the fill-finish process for a biotherapeutic is imperative for the highest quality drug product. Fill-finish is the last step in manufacturing and the last opportunity for intervention prior to entry into the supply chain. Typically, stabilizing excipients are utilized to mitigate chemical or structural weaknesses of a protein thera",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42225406/",
     "category": "Chromatography"
   },
   {
