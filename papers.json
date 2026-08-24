@@ -54,13 +54,22 @@
     "category": "Chromatography"
   },
   {
-    "title": "13C metabolic flux analysis and gene expression analysis of perfusion culture reveal metabolic bottlenecks for stable glycosylation profiles of biologics.",
-    "authors": "Sacco SA, Tang T, Engels S, et al.",
-    "journal": "Metab Eng",
-    "date": "2026-09-01",
-    "abstract": "Perfusion Chinese hamster ovary (CHO) cell culture offers potential benefits over fed-batch cultures, including higher productivity and a reduced production footprint. However, maintaining a stable profile of product quality attributes (PQAs) over the entirety of a perfusion culture has proven to be a challenge across the biopharmaceutical industry",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42448261/",
-    "category": "Glycosylation"
+    "title": "Adsorption-desorption dynamics at the solid-liquid interface govern monoclonal antibody aggregation under mechanical stress: Roles of Hofmeister anions and vial surface hydrophobicity.",
+    "authors": "Jiang X, Qin Z, Li J, et al.",
+    "journal": "Colloids Surf B Biointerfaces",
+    "date": "2026-08-16",
+    "abstract": "Antibody formulations are routinely exposed to air-liquid and solid-liquid interfaces during manufacturing, transportation, and drug administration, yet formulation design still relies mainly on bulk-phase stability parameters, which poorly predict aggregation under interfacial stress. Here we combined interfacial experiments and dissipative partic",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42617427/",
+    "category": "Stability"
+  },
+  {
+    "title": "Synergistic viral inactivation platform: Rapid enveloped virus inactivation at mildly acidic pH using low non-ionic detergent in Protein A eluates.",
+    "authors": "Zou JX, Lee JH, Liu SS, et al.",
+    "journal": "Biotechnol Prog",
+    "date": "2026-08-16",
+    "abstract": "Low-pH viral inactivation (LPVI) is a widely used, validated unit operation for enveloped virus clearance in antibody manufacturing. However, acid exposure during Protein A (ProA) elution and subsequent low-pH holds can destabilize some antibodies and Fc-containing modalities, increasing aggregation risk and product loss-a challenge that is particu",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42604985/",
+    "category": "Stability"
   },
   {
     "title": "The impact of silicone oil on the formation of free fatty acids particles.",
@@ -106,6 +115,15 @@
     "abstract": "Biomass separation represents a critical bottleneck in Komagataella phaffii-based biopharmaceutical processes, as typically high cell densities of 40 - 50 % create significant operational, technical and economic challenges for harvest operations. Yeast cell aggregation (flocculation) provides a solution to accelerate cell sedimentation by increasin",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42586255/",
     "category": "Stability"
+  },
+  {
+    "title": "Immobilized enzyme reactors as enabling technologies for automated multidimensional analytical workflows in the era of complex therapeutics.",
+    "authors": "Mensah WA, Nabergoj M, Peljhan S, et al.",
+    "journal": "Talanta",
+    "date": "2026-08-10",
+    "abstract": "Immobilized enzyme reactors (IMERs) are emerging as important components of advanced analytical workflows, in which selective enzymatic transformations are directly combined with continuous-flow operation and high-resolution separation techniques. By converting traditionally offline biochemical reactions into automated, residence-time-controlled mo",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42612254/",
+    "category": "Mass Spectrometry"
   },
   {
     "title": "High-throughput microscale chromatography for process characterization and control strategy development in biologics manufacturing.",
@@ -285,7 +303,7 @@
     "date": "2026-07-06",
     "abstract": "Glycosylation of monoclonal antibodies is a key determinant of their efficacy, stability, and safety, requiring analytical methods capable of resolving site-specific heterogeneity with high sensitivity. In this work, we present a Protein A-assisted, domain-resolved glycan profiling approach for the mass spectrometry-based structural elucidation and",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42406533/",
-    "category": "Mass Spectrometry"
+    "category": "Biosimilars"
   },
   {
     "title": "Rapid assessment of target-binding fractions in molecular imaging agents using size-exclusion HPLC.",
@@ -403,6 +421,15 @@
     "abstract": "Thymic stromal lymphopoietin (TSLP) promotes Th2-mediated inflammation via dendritic cell activation and STAT5 signaling and plays critical roles in inflammatory disorders and allergic diseases. While tezepelumab stands as the first and only approved anti-TSLP monoclonal antibody (mAb) with over 10 anti-TSLP mAbs in clinical development, no validat",
     "url": "https://pubmed.ncbi.nlm.nih.gov/40886557/",
     "category": "Bioassays"
+  },
+  {
+    "title": "Advancing recombinant protein production in CHO cells through metabolic engineering.",
+    "authors": "Hou L, Li W, Li Z, et al.",
+    "journal": "Front Bioeng Biotechnol",
+    "date": "2026-01-01",
+    "abstract": "Chinese hamster ovary (CHO) cells serve as the predominant platform for producing recombinant therapeutic proteins in biopharmaceutical manufacturing, the production capacity of which relies heavily on efficient protein synthesis, folding, and secretion pathways. However, during high-density and prolonged cultivation, these cells frequently encount",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42609441/",
+    "category": "Glycosylation"
   },
   {
     "title": "The biologics manufacturing patent notice challenge: a comparative examination.",
