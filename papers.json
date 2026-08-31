@@ -6,16 +6,7 @@
     "date": "2026-12-15",
     "abstract": "The structural heterogeneity of glycosylated biotherapeutics, driven by diverse glycan modifications, poses significant challenges for comprehensive characterization and quality assessment of these molecules. Conventional mass spectrometry (MS) approaches often struggle with the complexity of intact glycoprotein analysis due to overlapping glycofor",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42486710/",
-    "category": "Mass Spectrometry"
-  },
-  {
-    "title": "Decoding thermal instability in peptide therapeutics links microheterogeneity to bioactivity loss.",
-    "authors": "Zhu S, Ge Y, Huang H, et al.",
-    "journal": "J Pharm Biomed Anal",
-    "date": "2026-12-15",
-    "abstract": "Peptide therapeutics occupy an intermediate position on the molecular continuum between small-molecule drugs and large biologics. A defining characteristic of these agents is their propensity to form topological isomers during synthesis and processing, which are often overlooked and give rise to cryptic microheterogeneity. Such topological variants",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42475801/",
-    "category": "Mass Spectrometry"
+    "category": "Glycosylation"
   },
   {
     "title": "Experimental and computational analysis of glycan processing at increased monoclonal antibody productivities.",
@@ -27,22 +18,22 @@
     "category": "Glycosylation"
   },
   {
-    "title": "Local electrostatics governs tryptophan oxidation and enables rational stability engineering in antibodies.",
-    "authors": "Lenka S, Mehta S, Stephens N, et al.",
-    "journal": "MAbs",
-    "date": "2026-12-01",
-    "abstract": "Oxidation of tryptophan (Trp) residues in therapeutic antibody complementarity-determining regions (CDRs) can impair binding affinity, stability, and developability, yet the molecular determinants of site-specific susceptibility remain incompletely understood. Here, we present a structure-informed machine learning framework trained on Trp oxidation",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42590841/",
-    "category": "Stability"
+    "title": "Automated Multienzyme Digestion Workflows for Confident Characterization of Challenging Posttranslational Modifications in Therapeutic Antibodies by LC-MS/MS.",
+    "authors": "Eskesen NS, Leblanc Y, Lempereur J, et al.",
+    "journal": "Rapid Commun Mass Spectrom",
+    "date": "2026-11-15",
+    "abstract": "Non-reduced trypsin digestion of therapeutic antibodies can generate large disulfide-linked peptide complexes that exhibit poor chromatographic and mass spectrometric performance. This limits the confident characterization of posttranslational modifications (PTMs) in specific antibody regions, such as the heavy-chain constant region 1 (CH1) domain,",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42635074/",
+    "category": "mAb Characterization"
   },
   {
-    "title": "In-depth glycosylation and aspartic acid isomerization characterization of therapeutic fusion protein using electron transfer/higher-energy collision dissociation on the new hybrid high-resolution mass spectrometer.",
-    "authors": "Wu G, Zhang X, Du J, et al.",
-    "journal": "J Pharm Biomed Anal",
-    "date": "2026-11-15",
-    "abstract": "Glycosylation is a critical post-translational modification (PTM) in biotherapeutics that influences protein structure, stability, pharmacokinetics, biological activity, and immunogenicity. Comprehensive characterization of glycosylation and other PTMs is therefore important for biopharmaceutical development and quality assessment. Aflibercept is a",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42250337/",
-    "category": "Biosimilars"
+    "title": "Bridging the Gap Between Chemiluminescence Immunoassay and Liquid Chromatography-Tandem Mass Spectrometry for Infliximab Monitoring: Method Validation and Clinical Comparability Study.",
+    "authors": "Xia Y, Zhu MM, Xiao MQ, et al.",
+    "journal": "J Sep Sci",
+    "date": "2026-09-01",
+    "abstract": "Infliximab (IFX) is a cornerstone biologic for pediatric inflammatory bowel disease, where therapeutic drug monitoring (TDM) is essential but complicated by inter-platform variability. Systematic comparison of automated immunoassays with reference methods is therefore warranted. This study aimed to validate an in-house chemiluminescence immunoassay",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42667246/",
+    "category": "Mass Spectrometry"
   },
   {
     "title": "Comparative analysis of charge heterogeneity in anti-sclerostin monoclonal antibodies produced via continuous perfusion and fed-batch processes.",
@@ -52,6 +43,51 @@
     "abstract": "As critical quality attributes, post-translational modifications (PTMs) of therapeutic monoclonal antibodies in production impact their structural stability, charge heterogeneity, and clinical efficacy. This study elucidated PTM-driven charge isomer disparities in anti-sclerostin monoclonal antibodies from continuous perfusion versus fed-batch bior",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42276533/",
     "category": "Chromatography"
+  },
+  {
+    "title": "Protein aggregation in self-lubricating piston pumps: The impact of sustained shear stress.",
+    "authors": "Rebollo R, Winckelmann B, Carnerup A, et al.",
+    "journal": "Int J Pharm",
+    "date": "2026-08-28",
+    "abstract": "Inherent protein particles (IPP) in injectable biopharmaceutical products can compromise product stability and safety. Hydrodynamic forces during low‑volume aseptic filling have been suggested as a contributor to IPP formation, but the mechanisms, particularly in self‑lubricating piston pumps, are not well defined. We have systematically analyzed t",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42665195/",
+    "category": "Stability"
+  },
+  {
+    "title": "Development and Validation of a Mechanism-Based Ba/F3-hGHR Bioassay for the Potency Assessment of Recombinant Human Growth Hormone.",
+    "authors": "Feng J, Luo T, Guo C, et al.",
+    "journal": "Anal Biochem",
+    "date": "2026-08-27",
+    "abstract": "The biological potency of recombinant human growth hormone (rhGH) is a critical quality attribute (CQA) for ensuring clinical efficacy. However, current pharmacopoeial methods, such as the USP in vitro Nb2-11 cell proliferation assay, lack specificity as they measure lactogenic activity via prolactin receptors rather than the growth hormone recepto",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42660265/",
+    "category": "mAb Characterization"
+  },
+  {
+    "title": "Monoclonal Antibody Adsorption at Fluid-Fluid Interfaces: Experimental and Computational Approaches for Interfacial Characterization.",
+    "authors": "Nuhu H, Mohammadigoushki H",
+    "journal": "J Pharm Sci",
+    "date": "2026-08-26",
+    "abstract": "Monoclonal antibodies (mAbs) frequently encounter fluid-fluid interfaces, such as air-water and oil-water boundaries, during manufacturing, storage, and administration, where adsorp-tion can trigger structural perturbations, aggregation, and loss of efficacy. Despite extensive experimental and computational efforts, a unified understanding that con",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42648489/",
+    "category": "Stability"
+  },
+  {
+    "title": "Effect of berahyaluronidase alfa on subcutaneous absorption and local tolerability of ALT-P7, an antibody-drug conjugate in preclinical studies.",
+    "authors": "Jung W, Kim W, Lee EM, et al.",
+    "journal": "J Control Release",
+    "date": "2026-08-25",
+    "abstract": "Subcutaneous (SC) delivery of antibody-drug conjugates (ADCs) poses distinct challenges including the potential for local toxicity associated with cytotoxic payloads. The present study evaluated the effect of berahyaluronidase alfa (BHα) on the pharmacokinetics and local tolerability of ALT-P7, a HER2-targeting ADC, following SC injection in Yucata",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42641930/",
+    "category": "Mass Spectrometry"
+  },
+  {
+    "title": "DTT-Induced Transcriptome Profiling Reveals Divergent ER Proteostasis and Stress-Adaptation Programs in CHO-S/HB8 and CHO-4BGD/DUL Producer Clones.",
+    "authors": "Orlova NA, Potapova NA, Shaifutdinov RR, et al.",
+    "journal": "Int J Mol Sci",
+    "date": "2026-08-19",
+    "abstract": "Chinese hamster ovary (CHO) producer cells differ in their capacity to accommodate secretory and endoplasmic reticulum (ER) stress, but how producer and host-cell backgrounds are associated with ER-proteostasis responses remains poorly understood. We compared 24 h dithiothreitol (DTT)-induced reductive ER stress responses in two clonal producers: C",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42653428/",
+    "category": "Novel Modalities"
   },
   {
     "title": "Adsorption-desorption dynamics at the solid-liquid interface govern monoclonal antibody aggregation under mechanical stress: Roles of Hofmeister anions and vial surface hydrophobicity.",
@@ -69,16 +105,7 @@
     "date": "2026-08-16",
     "abstract": "Low-pH viral inactivation (LPVI) is a widely used, validated unit operation for enveloped virus clearance in antibody manufacturing. However, acid exposure during Protein A (ProA) elution and subsequent low-pH holds can destabilize some antibodies and Fc-containing modalities, increasing aggregation risk and product loss-a challenge that is particu",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42604985/",
-    "category": "Stability"
-  },
-  {
-    "title": "The impact of silicone oil on the formation of free fatty acids particles.",
-    "authors": "Chen W, Dimitrakopoulos C, Oltra NS, et al.",
-    "journal": "J Pharm Sci",
-    "date": "2026-08-15",
-    "abstract": "Silicone oil is a ubiquitous presence throughout the life cycle of biopharmaceutical products, originating from manufacturing processes and primary packaging like pre-filled syringes. While its role in protein aggregation is well-studied, its impact on degradants like free fatty acids (FFAs) remains poorly understood. The only prior study on this t",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42603689/",
-    "category": "Stability"
+    "category": "Novel Modalities"
   },
   {
     "title": "Structural insights into antibody-antibody interactions in sandwich ELISA: implications for assay development and performance.",
@@ -96,16 +123,7 @@
     "date": "2026-08-13",
     "abstract": "Monoclonal antibodies (mAbs) are a major class of biopharmaceuticals widely used to treat cancers and inflammatory, infectious, and autoimmune diseases. The manufacturing of these therapeutics involves multiple complex and time-consuming steps that may introduce product- and process-related impurities and cause alterations in critical quality attri",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42429162/",
-    "category": "Mass Spectrometry"
-  },
-  {
-    "title": "Biophysical investigations into the impact of crystallization conditions on monoclonal antibody properties and purification.",
-    "authors": "Chandra D, Agarwal S, Patel S, et al.",
-    "journal": "J Pharm Sci",
-    "date": "2026-08-12",
-    "abstract": "Crystallization of monoclonal antibodies (mAbs) is a challenging problem given their large size and inherent structural complexity. Thousands of conditions need to be screened to arrive at a promising crystallization hit. Historically, crystallization has been successfully applied for preparative-scale purification and manufacturing of small molecu",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42586433/",
-    "category": "Stability"
+    "category": "Chromatography"
   },
   {
     "title": "Inducible flocculation in Komagataella phaffii enables enhanced biomass separation for biopharmaceutical production.",
@@ -114,7 +132,7 @@
     "date": "2026-08-12",
     "abstract": "Biomass separation represents a critical bottleneck in Komagataella phaffii-based biopharmaceutical processes, as typically high cell densities of 40 - 50 % create significant operational, technical and economic challenges for harvest operations. Yeast cell aggregation (flocculation) provides a solution to accelerate cell sedimentation by increasin",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42586255/",
-    "category": "Stability"
+    "category": "Novel Modalities"
   },
   {
     "title": "Immobilized enzyme reactors as enabling technologies for automated multidimensional analytical workflows in the era of complex therapeutics.",
@@ -135,22 +153,22 @@
     "category": "Novel Modalities"
   },
   {
-    "title": "Ocular Tissue Distribution of Ocular Surface Immunoglobulin Following Topical and Subconjunctival Administration: A Novel Strategy for Mitigation of Antibody-Drug Conjugate-Associated Ocular Toxicity.",
-    "authors": "Dabre Z, Krupa EG, Pasupuleti B, et al.",
-    "journal": "J Ocul Pharmacol Ther",
+    "title": "System Performance Check (SPC): A Readiness Companion to Multi-Attribute Method (MAM) Analysis in Biopharmaceutical Quality Control.",
+    "authors": "Chase J, Sato M, Slysz G, et al.",
+    "journal": "Pharmaceuticals (Basel)",
     "date": "2026-08-06",
-    "abstract": "Antibody-drug conjugate (ADC)-associated ocular toxicity is an emerging, sometimes dose-limiting complication. Macropinocytosis has been implicated in off-target ADC uptake by corneal epithelial cells. This study evaluated whether ocular surface immunoglobulin (OSIG) inhibit macropinocytosis in human corneal epithelial cells (HCE-T) and characteriz",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42563409/",
-    "category": "Novel Modalities"
+    "abstract": "Background/Objectives: The multi-attribute method (MAM) is a powerful LC-MS workflow for site-specific monitoring of critical quality attributes (CQAs) in biopharmaceutical products, but its sensitivity to LC drift, ionization variability, and mass-calibration shifts has slowed adoption in routine quality control. A blank injection confirms that th",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42653737/",
+    "category": "mAb Characterization"
   },
   {
-    "title": "Comprehensive evaluation of chloroquine-resin complexes: functional, biopharmaceutical and antimalarial performance.",
-    "authors": "Pádua TA, Passos MXV, Mascarenhas ED, et al.",
-    "journal": "Int J Pharm",
-    "date": "2026-08-05",
-    "abstract": "Malaria remains a major global health burden, especially in children under the age of five. Pediatric treatment often requires tablet fragmentation for its dose adjustment according to body weight, which intensifies bitterness and may reduce treatment adherence. Complexation of bitter-tasting drugs with ion-exchange resins for taste masking is a pr",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42556438/",
-    "category": "Stability"
+    "title": "Structural Characterisation of Monoclonal Antibody Based on LC-MS: A General Method.",
+    "authors": "Tian H, Zhang C, Li Q, et al.",
+    "journal": "Curr Pharm Biotechnol",
+    "date": "2026-08-03",
+    "abstract": "To establish a universal method based on LC-MS for the structural characterization of mAbs. This method includes determining the intact molecular weight, deglycosylated intact molecular weight, reduced molecular weight, and deglycosylated-reduced molecular weight of mAbs, along with peptide mapping (amino acid sequence coverage) and glycan profilin",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42634526/",
+    "category": "Mass Spectrometry"
   },
   {
     "title": "Engineering High-Performance Inhalable Monoclonal Antibody Powders via Spray Freeze Drying.",
@@ -162,22 +180,13 @@
     "category": "Chromatography"
   },
   {
-    "title": "Evaluation of a prototype bioreactor based on slowly rotating drum.",
-    "authors": "Ambrico A, Trupo M, Magarelli RA, et al.",
-    "journal": "Cytotechnology",
+    "title": "Integrating Artificial Intelligence into Biopharmaceutical Formulation and Development: A Critical Review.",
+    "authors": "Chaudhary S, Chauhan SB, Swami R, et al.",
+    "journal": "Curr Pharm Des",
     "date": "2026-08-01",
-    "abstract": "In this study, an innovative rotating-drum bioreactor was evaluated and compared with a conventional stirred-tank system for CHO cell fed-batch culture, with particular focus on oxygen transfer, hydrodynamic conditions, and overall bioprocess performance. The novel configuration, based on a slowly rotating perforated drum, enabled efficient oxygena",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42471956/",
-    "category": "Glycosylation"
-  },
-  {
-    "title": "Operationalizing digital twins in biomanufacturing through interoperable process analytical technology.",
-    "authors": "Satwekar A, Gracieux-Singleton MC, Cummings C, et al.",
-    "journal": "Bioprocess Biosyst Eng",
-    "date": "2026-08-01",
-    "abstract": "The integration of Process Analytical Technologies (PAT) within digital twin architecture represents an important advancement in biopharmaceutical manufacturing. While existing literature has separately addressed digital twin dimensions, interoperability levels, and manufacturing standards, their systematic integration for real-time bioprocess cont",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42461386/",
-    "category": "Glycosylation"
+    "abstract": "This review critically examines the integration of artificial intelligence (AI) methods into biopharmaceutical formulation science, with emphasis on core formulation challenges including solubility, stability, aggregation, viscosity, excipient compatibility, nanocarrier optimization, release behaviour, and manufacturability. A structured literature",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42634515/",
+    "category": "Stability"
   },
   {
     "title": "Humanization of N-glycan-dependent protein quality-control system in Kluyveromyces marxianus promotes glycoprotein secretion.",
@@ -187,15 +196,6 @@
     "abstract": "Human N-glycoproteins represent a market worth hundreds of billions of dollars, yet their production in yeast is often limited by misfolding and degradation. However, few strategies have addressed this limitation by targeting differences between human and yeast N-glycan-dependent protein quality control (QC), including the absence of the UGGT-media",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42537838/",
     "category": "Glycosylation"
-  },
-  {
-    "title": "Transdermal delivery of biologics.",
-    "authors": "Vora LK, Gowda BHJ, Strauss J, et al.",
-    "journal": "J Control Release",
-    "date": "2026-07-28",
-    "abstract": "Biologics, including peptides, proteins, antibodies, vaccines and nucleic acid-based therapeutics, have transformed the management of chronic, metabolic, inflammatory, oncological and infectious diseases. Despite their clinical success, their wider use remains constrained by invasive administration routes, poor patient acceptability and formulation",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42521025/",
-    "category": "Stability"
   },
   {
     "title": "A rapid and high-throughput biotechnology quantifies major glycoforms of human IgG1 mAb drugs.",
@@ -216,6 +216,15 @@
     "category": "mAb Characterization"
   },
   {
+    "title": "Qualification and Implementation of a Robust Multi-Attribute Method Platform Across Multiple Laboratories for High-Resolution Process Characterization of Biopharmaceutical Products.",
+    "authors": "Griaud F, Merkle PS, Ritter J, et al.",
+    "journal": "Pharmaceuticals (Basel)",
+    "date": "2026-07-24",
+    "abstract": "Background/Objectives: Process characterization (PC) of biopharmaceutical products is intended to identify critical process parameters (CPPs) based on their impact on critical quality attributes (CQAs), as well as to define acceptable process parameter ranges to ensure consistent product quality and process performance. However, conventional analyt",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42653647/",
+    "category": "mAb Characterization"
+  },
+  {
     "title": "AI-enabled lyophilization of advanced biologics: process intelligence, quality assessment, and formulation opportunities.",
     "authors": "Liu X, Caprio GD, Du Y",
     "journal": "Int J Pharm",
@@ -223,6 +232,15 @@
     "abstract": "Lyophilization is a key stabilization strategy for advanced biologics, including protein therapeutics, nucleic-acid-based products, extracellular vesicles, and other highly labile biopharmaceutical systems. However, the development of lyophilized biologic products remains constrained by the intrinsic complexity of coupled heat and mass transfer, li",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42497936/",
     "category": "mAb Characterization"
+  },
+  {
+    "title": "Molecular Dynamics Simulation and Characterization of GelMA/HA Composite Microneedles for Potential Growth Hormone Transdermal Delivery.",
+    "authors": "Gu J, Zhang H, Liu H, et al.",
+    "journal": "Gels",
+    "date": "2026-07-24",
+    "abstract": "To overcome the limitations of repeated GH injection therapy, gelatin methacryloyl (GelMA)/hyaluronic acid (HA) composite hydrogel microneedles were fabricated for potential non-invasive transdermal delivery of recombinant human growth hormone (rhGH) and long-acting human growth hormone Fc fusion protein (hGH-Fc). All-atom molecular dynamics simula",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42644912/",
+    "category": "Novel Modalities"
   },
   {
     "title": "Expanding Patient Access to Advanced Therapies.",
@@ -234,40 +252,13 @@
     "category": "Biosimilars"
   },
   {
-    "title": "From Unmet Medical Need to Drug Candidate: A Translational Therapeutic Development Roadmap Illustrated by Dual-Payload Antibody-Drug Conjugates.",
-    "authors": "Honda T, Zhu GD",
-    "journal": "Biomolecules",
-    "date": "2026-07-18",
-    "abstract": "Transformative therapeutic innovation should not begin with a molecule-or even a molecular target. It should begin with a clearly defined unmet clinical need. Here, we present a seven-step Translational Therapeutic Development Roadmap that systematically connects an unmet medical need to a developable drug candidate through the disciplined sequence",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42509843/",
-    "category": "Novel Modalities"
-  },
-  {
-    "title": "Mitigating pH-induced instability in deruxtecan-based ADCs: an onboard-mixing icIEF approach for robust charge heterogeneity characterization.",
-    "authors": "Wu G, Cui C, Bo A, et al.",
-    "journal": "J Chromatogr B Analyt Technol Biomed Life Sci",
-    "date": "2026-07-17",
-    "abstract": "Accurate charge variant analysis of antibody-drug conjugates (ADCs) is essential for understanding product heterogeneity and ensuring quality control. However, Deruxtecan (DXd)-based ADCs present a unique analytical challenge due to the intrinsic instability of the payload, where the lactone ring readily undergoes hydrolysis under alkaline conditio",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42475784/",
-    "category": "mAb Characterization"
-  },
-  {
-    "title": "Quality by Design to Mitigate Aggregation: Mechanistic Insights and Analytical Strategies for Biopharmaceutical Manufacturing.",
-    "authors": "Fedorko A, Grynyuk I, Afonso Urich JA",
-    "journal": "Ther Innov Regul Sci",
-    "date": "2026-07-17",
-    "abstract": "This review highlights the problem of protein molecule aggregation, which represents a significant challenge in the field of biopharmaceuticals. Protein aggregation is critical because it can affect the efficacy and safety of biopharmaceuticals, including those used to treat autoimmune diseases and various cancers. From a regulatory perspective, pr",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42467318/",
-    "category": "mAb Characterization"
-  },
-  {
     "title": "Enhancing lyophilized cake morphology in biopharmaceutical products through stepped annealing at freezing phase.",
     "authors": "Birangal P, Lodagekar A, Pulipeta M, et al.",
     "journal": "J Pharm Sci",
     "date": "2026-07-15",
     "abstract": "Lyophilization is widely used to stabilise biopharmaceuticals, yet split‑cake formation remains a challenge. Cake elegance, a critical quality attribute (CQA), is influenced by both formulation and process parameters. As biosimilar manufacturers are constrained from altering formulation composition, optimisation of process parameters becomes the pr",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42448178/",
-    "category": "mAb Characterization"
+    "category": "Chromatography"
   },
   {
     "title": "Raman Spectroscopy for Characterizing Monoclonal Antibody Reduction: A Process Analytical Technology Approach for Antibody-Drug Conjugation Process Development.",
@@ -276,25 +267,7 @@
     "date": "2026-07-14",
     "abstract": "Controlled disulfide bond reduction is critical in antibody-drug conjugate (ADC) manufacturing, enabling site-specific conjugation and desired drug-to-antibody ratios. Current characterization relies on time-consuming offline capillary electrophoresis, creating bottlenecks in process development where multiple conditions must be rapidly screened. T",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42449032/",
-    "category": "mAb Characterization"
-  },
-  {
-    "title": "Host cell protein profiling and immunogenicity assessment in E. coli-produced interferon beta.",
-    "authors": "Rivarosa F, Peña LC, Etcheverrigaray M, et al.",
-    "journal": "J Pharm Sci",
-    "date": "2026-07-14",
-    "abstract": "Host cell proteins (HCPs) are critical process-related impurities in biotherapeutic products and may impact product safety and efficacy. Although Escherichia coli expression systems are widely used for recombinant protein production, systematic assessments of bacterial HCP immunogenicity risk remain limited compared with CHO-derived platforms. Here",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42448180/",
-    "category": "Mass Spectrometry"
-  },
-  {
-    "title": "Deep dive into drug substance HCP patterns for comprehensive safety assessment in recombinant mAb formats.",
-    "authors": "Waldera-Lupa DM, Gehrke-Oltmanns A, Dehghani A, et al.",
-    "journal": "Biotechnol Prog",
-    "date": "2026-07-07",
-    "abstract": "The presence of host cell proteins (HCPs) as process-related impurities in monoclonal antibody (mAb) therapeutics presents risks, including immunogenicity, product instability, and reduced therapeutic efficacy. Therefore, HCP levels are seen as a critical quality attribute which requires monitoring. Characterization of residual HCPs is essential du",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42415423/",
-    "category": "Mass Spectrometry"
+    "category": "Chromatography"
   },
   {
     "title": "Structural Elucidation of Fc- and Fab-Associated N-Glycans in Cetuximab Using Protein A-Assisted Domain-Resolved Glycan Profiling Using Mass Spectrometry.",
@@ -313,6 +286,15 @@
     "abstract": "The clinical translation of molecularly targeted therapeutics and imaging agents represents a cornerstone of precision oncology, with the global theranostics market projected to exceed $25 billion by 2030. However, the development of theragnostic agents or diagnostic companions remains constrained by analytical bottlenecks in quality control, such ",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42401754/",
     "category": "Chromatography"
+  },
+  {
+    "title": "From anti-drug antibody incidence to clinical relevance: interpreting highly sensitive immunogenicity assays in biosimilars.",
+    "authors": "Krishnan A, Bp S, Mehta G, et al.",
+    "journal": "Bioanalysis",
+    "date": "2026-07-01",
+    "abstract": "Highly sensitive anti-drug antibody (ADA) assays in biosimilar comparative trials can generate high apparent positivity clustered near decision thresholds without corresponding clinical impact. Using approved biosimilars of ustekinumab and denosumab, this work retrospectively examines alternate analytical strategies to improve the biological interp",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42643157/",
+    "category": "Biosimilars"
   },
   {
     "title": "Review of Quality Attributes and Analytical Methods Used for Comparative Analytical Assessment of Monoclonal Antibodies as Part of Successful Biosimilar Approvals in the United States and European Union.",
@@ -340,15 +322,6 @@
     "abstract": "Antibody-drug conjugates (ADCs) are a rapidly growing class of targeted therapeutics designed to deliver potent payloads while minimizing systemic toxicity. Despite significant progress, all approved ADCs are administered intravenously (IV). In contrast, subcutaneous (SC) delivery is well established for antibodies, offering shorter administration ",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42592116/",
     "category": "Novel Modalities"
-  },
-  {
-    "title": "Tritosomes-Digestion for LC-MS Conjugated Payloads Quantitation: A Universal Approach for Dual-Payloads ADCs.",
-    "authors": "Molinaro F, Colangelo GS, Cocco P, et al.",
-    "journal": "Int J Mol Sci",
-    "date": "2026-06-29",
-    "abstract": "Bioanalytical methods to quantitate conjugated payloads are essential for assessing antibody-drug conjugate (ADC) stability and pharmacokinetics (PK). Dual-payload ADCs present analytical challenges; different linker chemistries can require complex digestion conditions to perform the cleavage. Developing separate methods for each linker combination",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42450144/",
-    "category": "Mass Spectrometry"
   },
   {
     "title": "Stabilization of spray-dried monoclonal antibody formulations with polymeric excipients.",
@@ -411,15 +384,6 @@
     "date": "2026-01-01",
     "abstract": "The efficiency of ligand binding assay (LBA)-based immunogenicity assessment can be compromised by the presence of high concentrations of soluble pharmacological target. This is particularly challenging for therapies targeting highly abundant multimeric plasma proteins, such as Von Willebrand Factor (VWF). We developed and validated a hybrid LBA-LC",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42206838/",
-    "category": "Bioassays"
-  },
-  {
-    "title": "Development and validation of a reporter gene assay for the bioactivity determination of anti-TSLP monoclonal antibodies.",
-    "authors": "Hou S, Yang B, Wang L, et al.",
-    "journal": "J Pharm Biomed Anal",
-    "date": "2026-01-01",
-    "abstract": "Thymic stromal lymphopoietin (TSLP) promotes Th2-mediated inflammation via dendritic cell activation and STAT5 signaling and plays critical roles in inflammatory disorders and allergic diseases. While tezepelumab stands as the first and only approved anti-TSLP monoclonal antibody (mAb) with over 10 anti-TSLP mAbs in clinical development, no validat",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/40886557/",
     "category": "Bioassays"
   },
   {
