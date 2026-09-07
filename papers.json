@@ -1,14 +1,5 @@
 [
   {
-    "title": "Deciphering super-heterogeneous glycosylated biotherapeutics by combining hydrophilic interaction chromatography-based separation and scan-by-scan deconvolution strategy.",
-    "authors": "Zhang Z, Liu AP, Li X, et al.",
-    "journal": "J Pharm Biomed Anal",
-    "date": "2026-12-15",
-    "abstract": "The structural heterogeneity of glycosylated biotherapeutics, driven by diverse glycan modifications, poses significant challenges for comprehensive characterization and quality assessment of these molecules. Conventional mass spectrometry (MS) approaches often struggle with the complexity of intact glycoprotein analysis due to overlapping glycofor",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42486710/",
-    "category": "Glycosylation"
-  },
-  {
     "title": "Experimental and computational analysis of glycan processing at increased monoclonal antibody productivities.",
     "authors": "Pranomphon R, Gialamoidou S, Yamabhai M, et al.",
     "journal": "Metab Eng Commun",
@@ -25,6 +16,60 @@
     "abstract": "Non-reduced trypsin digestion of therapeutic antibodies can generate large disulfide-linked peptide complexes that exhibit poor chromatographic and mass spectrometric performance. This limits the confident characterization of posttranslational modifications (PTMs) in specific antibody regions, such as the heavy-chain constant region 1 (CH1) domain,",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42635074/",
     "category": "mAb Characterization"
+  },
+  {
+    "title": "Humanization of N-glycan-dependent protein quality-control system in Kluyveromyces marxianus promotes glycoprotein secretion.",
+    "authors": "Ai Y, He Y, Zhao L, et al.",
+    "journal": "Metab Eng",
+    "date": "2026-11-01",
+    "abstract": "Human N-glycoproteins represent a market worth hundreds of billions of dollars, yet their production in yeast is often limited by misfolding and degradation. However, few strategies have addressed this limitation by targeting differences between human and yeast N-glycan-dependent protein quality control (QC), including the absence of the UGGT-media",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42537838/",
+    "category": "Glycosylation"
+  },
+  {
+    "title": "Engineering High-Performance Inhalable Monoclonal Antibody Powders via Spray Freeze Drying.",
+    "authors": "Pasero L, Sulpizi A, Pinetti E, et al.",
+    "journal": "Eur J Pharm Biopharm",
+    "date": "2026-10-01",
+    "abstract": "Spray freeze-drying (SFD) is a cutting-edge technique for producing dry powders, ideal for pulmonary drug delivery, owing to its ability to generate porous microparticles with low density and excellent aerodynamic properties. The SFD process, involving atomisation, freezing, and drying, is particularly suited for formulating biologics, e.g., monocl",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42546983/",
+    "category": "Chromatography"
+  },
+  {
+    "title": "Regulatory and Quality Considerations of Antibody-drug Conjugates.",
+    "authors": "Cha KJ, Rosenberg M",
+    "journal": "AAPS PharmSciTech",
+    "date": "2026-09-04",
+    "abstract": "Antibody-Drug Conjugates (ADCs) have become well-established as an important class of oncology therapeutics with 15 FDA-approved ADCs for various cancer types and hundreds more ADCs in clinical development. This chapter highlights the unique regulatory considerations for the development of ADCs in oncology given their dual nature as biologics and s",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42698054/",
+    "category": "Novel Modalities"
+  },
+  {
+    "title": "Protein aggregation in self-lubricating piston pumps: The impact of sustained shear stress.",
+    "authors": "Rebollo R, Winckelmann B, Carnerup A, et al.",
+    "journal": "Int J Pharm",
+    "date": "2026-09-03",
+    "abstract": "Inherent protein particles (IPP) in injectable biopharmaceutical products can compromise product stability and safety. Hydrodynamic forces during low‑volume aseptic filling have been suggested as a contributor to IPP formation, but the mechanisms, particularly in self‑lubricating piston pumps, are not well defined. We have systematically analyzed t",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42665195/",
+    "category": "Stability"
+  },
+  {
+    "title": "Impact of surfactants on the stability of therapeutic peptides under interfacial stress.",
+    "authors": "Hamada N, Wuelfing WP, Su Y, et al.",
+    "journal": "J Pharm Sci",
+    "date": "2026-09-02",
+    "abstract": "Peptide therapeutics are prone to aggregation, denaturation, and interfacial adsorption, which can compromise product quality, reduce potency, increase immunogenicity, and shorten shelf life. Although surfactants are widely used to stabilize protein biologics, their use in commercial parenteral peptide formulations appears to be more selective. Spe",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42679928/",
+    "category": "Stability"
+  },
+  {
+    "title": "Structural Elucidation of Fc- and Fab-Associated N-Glycans in Cetuximab Using Protein A-Assisted Domain-Resolved Glycan Profiling Using Mass Spectrometry.",
+    "authors": "Chauhan D, Shivach T, Rathore AS",
+    "journal": "J Am Soc Mass Spectrom",
+    "date": "2026-09-02",
+    "abstract": "Glycosylation of monoclonal antibodies is a key determinant of their efficacy, stability, and safety, requiring analytical methods capable of resolving site-specific heterogeneity with high sensitivity. In this work, we present a Protein A-assisted, domain-resolved glycan profiling approach for the mass spectrometry-based structural elucidation and",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42406533/",
+    "category": "Biosimilars"
   },
   {
     "title": "Bridging the Gap Between Chemiluminescence Immunoassay and Liquid Chromatography-Tandem Mass Spectrometry for Infliximab Monitoring: Method Validation and Clinical Comparability Study.",
@@ -45,16 +90,25 @@
     "category": "Chromatography"
   },
   {
-    "title": "Protein aggregation in self-lubricating piston pumps: The impact of sustained shear stress.",
-    "authors": "Rebollo R, Winckelmann B, Carnerup A, et al.",
-    "journal": "Int J Pharm",
-    "date": "2026-08-28",
-    "abstract": "Inherent protein particles (IPP) in injectable biopharmaceutical products can compromise product stability and safety. Hydrodynamic forces during low‑volume aseptic filling have been suggested as a contributor to IPP formation, but the mechanisms, particularly in self‑lubricating piston pumps, are not well defined. We have systematically analyzed t",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42665195/",
-    "category": "Stability"
+    "title": "Unmasking Glycoforms: Lectin-Based Profiling and Functional Implications of Targeted Glycosylation Knockouts in Chinese Hamster Ovary Cells.",
+    "authors": "Abascal Ruiz C, Lim SLY, Brink J, et al.",
+    "journal": "Biotechnol Bioeng",
+    "date": "2026-08-31",
+    "abstract": "Monoclonal antibody (mAb) glycosylation is a critical quality attribute that is difficult to rationally engineer and rapidly assess during cell line development. Here, we investigate whether cell-surface glycosylation can serve as a surrogate readout of mAb product glycosylation following targeted glycogene engineering in CHO cells. Five key glycog",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42670636/",
+    "category": "mAb Characterization"
   },
   {
-    "title": "Development and Validation of a Mechanism-Based Ba/F3-hGHR Bioassay for the Potency Assessment of Recombinant Human Growth Hormone.",
+    "title": "Development and optimization of a mobile affinity selection chromatography method for analysis of therapeutic monoclonal antibody aggregates in the presence of human serum albumin.",
+    "authors": "Stoa YB, Wang P",
+    "journal": "J Chromatogr B Analyt Technol Biomed Life Sci",
+    "date": "2026-08-29",
+    "abstract": "Demonstration of biological drug product quality prior to first-in-human dosing is a regulatory requirement to ensure patient safety and product performance. Protein aggregates, including dimers and higher-order species, are classified as product-related impurities and must be adequately controlled. However, conventional Size-Exclusion High-Perform",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42679766/",
+    "category": "Chromatography"
+  },
+  {
+    "title": "Development and validation of a mechanism-based Ba/F3-hGHR bioassay for the potency assessment of recombinant human growth hormone.",
     "authors": "Feng J, Luo T, Guo C, et al.",
     "journal": "Anal Biochem",
     "date": "2026-08-27",
@@ -81,6 +135,15 @@
     "category": "Mass Spectrometry"
   },
   {
+    "title": "Engineering Lipid Nanoparticles through Integrated Compositional and Ligand Targeting Enhances β Cell-Directed RNA Delivery.",
+    "authors": "Yu D, Zhu Y, Roca-Rivada A, et al.",
+    "journal": "ACS Nano",
+    "date": "2026-08-25",
+    "abstract": "Beyond their deployment as COVID-19 vaccines, lipid nanoparticles (LNPs) have emerged as versatile vehicles for therapeutic nucleic acid delivery. However, achieving efficient and cell-targeted transfection in extrahepatic tissues, particularly pancreatic β cells, remains a major challenge. Here, we develop a dual-targeting LNP engineering strategy",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42674453/",
+    "category": "Novel Modalities"
+  },
+  {
     "title": "DTT-Induced Transcriptome Profiling Reveals Divergent ER Proteostasis and Stress-Adaptation Programs in CHO-S/HB8 and CHO-4BGD/DUL Producer Clones.",
     "authors": "Orlova NA, Potapova NA, Shaifutdinov RR, et al.",
     "journal": "Int J Mol Sci",
@@ -88,15 +151,6 @@
     "abstract": "Chinese hamster ovary (CHO) producer cells differ in their capacity to accommodate secretory and endoplasmic reticulum (ER) stress, but how producer and host-cell backgrounds are associated with ER-proteostasis responses remains poorly understood. We compared 24 h dithiothreitol (DTT)-induced reductive ER stress responses in two clonal producers: C",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42653428/",
     "category": "Novel Modalities"
-  },
-  {
-    "title": "Adsorption-desorption dynamics at the solid-liquid interface govern monoclonal antibody aggregation under mechanical stress: Roles of Hofmeister anions and vial surface hydrophobicity.",
-    "authors": "Jiang X, Qin Z, Li J, et al.",
-    "journal": "Colloids Surf B Biointerfaces",
-    "date": "2026-08-16",
-    "abstract": "Antibody formulations are routinely exposed to air-liquid and solid-liquid interfaces during manufacturing, transportation, and drug administration, yet formulation design still relies mainly on bulk-phase stability parameters, which poorly predict aggregation under interfacial stress. Here we combined interfacial experiments and dissipative partic",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42617427/",
-    "category": "Stability"
   },
   {
     "title": "Synergistic viral inactivation platform: Rapid enveloped virus inactivation at mildly acidic pH using low non-ionic detergent in Protein A eluates.",
@@ -114,7 +168,7 @@
     "date": "2026-08-13",
     "abstract": "The enzyme-linked immunosorbent assay (ELISA) is a widely utilized immunoassay technique in biopharmaceutical drug development due to its high sensitivity and specificity. Optimizing assay performance necessitates addressing challenges that arise during method development, particularly the selection of compatible monoclonal antibody (mAb) pairs for",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42595901/",
-    "category": "Mass Spectrometry"
+    "category": "Chromatography"
   },
   {
     "title": "Application of FT-IR spectroscopy as a non-invasive multi-attribute monitoring platform for critical quality attributes in monoclonal antibodies.",
@@ -124,15 +178,6 @@
     "abstract": "Monoclonal antibodies (mAbs) are a major class of biopharmaceuticals widely used to treat cancers and inflammatory, infectious, and autoimmune diseases. The manufacturing of these therapeutics involves multiple complex and time-consuming steps that may introduce product- and process-related impurities and cause alterations in critical quality attri",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42429162/",
     "category": "Chromatography"
-  },
-  {
-    "title": "Inducible flocculation in Komagataella phaffii enables enhanced biomass separation for biopharmaceutical production.",
-    "authors": "Ivanova E, Ramp P, Zimmer N, et al.",
-    "journal": "Metab Eng",
-    "date": "2026-08-12",
-    "abstract": "Biomass separation represents a critical bottleneck in Komagataella phaffii-based biopharmaceutical processes, as typically high cell densities of 40 - 50 % create significant operational, technical and economic challenges for harvest operations. Yeast cell aggregation (flocculation) provides a solution to accelerate cell sedimentation by increasin",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42586255/",
-    "category": "Novel Modalities"
   },
   {
     "title": "Immobilized enzyme reactors as enabling technologies for automated multidimensional analytical workflows in the era of complex therapeutics.",
@@ -171,15 +216,6 @@
     "category": "Mass Spectrometry"
   },
   {
-    "title": "Engineering High-Performance Inhalable Monoclonal Antibody Powders via Spray Freeze Drying.",
-    "authors": "Pasero L, Sulpizi A, Pinetti E, et al.",
-    "journal": "Eur J Pharm Biopharm",
-    "date": "2026-08-03",
-    "abstract": "Spray freeze-drying (SFD) is a cutting-edge technique for producing dry powders, ideal for pulmonary drug delivery, owing to its ability to generate porous microparticles with low density and excellent aerodynamic properties. The SFD process, involving atomisation, freezing, and drying, is particularly suited for formulating biologics, e.g., monocl",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42546983/",
-    "category": "Chromatography"
-  },
-  {
     "title": "Integrating Artificial Intelligence into Biopharmaceutical Formulation and Development: A Critical Review.",
     "authors": "Chaudhary S, Chauhan SB, Swami R, et al.",
     "journal": "Curr Pharm Des",
@@ -187,15 +223,6 @@
     "abstract": "This review critically examines the integration of artificial intelligence (AI) methods into biopharmaceutical formulation science, with emphasis on core formulation challenges including solubility, stability, aggregation, viscosity, excipient compatibility, nanocarrier optimization, release behaviour, and manufacturability. A structured literature",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42634515/",
     "category": "Stability"
-  },
-  {
-    "title": "Humanization of N-glycan-dependent protein quality-control system in Kluyveromyces marxianus promotes glycoprotein secretion.",
-    "authors": "Ai Y, He Y, Zhao L, et al.",
-    "journal": "Metab Eng",
-    "date": "2026-07-31",
-    "abstract": "Human N-glycoproteins represent a market worth hundreds of billions of dollars, yet their production in yeast is often limited by misfolding and degradation. However, few strategies have addressed this limitation by targeting differences between human and yeast N-glycan-dependent protein quality control (QC), including the absence of the UGGT-media",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42537838/",
-    "category": "Glycosylation"
   },
   {
     "title": "A rapid and high-throughput biotechnology quantifies major glycoforms of human IgG1 mAb drugs.",
@@ -222,15 +249,6 @@
     "date": "2026-07-24",
     "abstract": "Background/Objectives: Process characterization (PC) of biopharmaceutical products is intended to identify critical process parameters (CPPs) based on their impact on critical quality attributes (CQAs), as well as to define acceptable process parameter ranges to ensure consistent product quality and process performance. However, conventional analyt",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42653647/",
-    "category": "mAb Characterization"
-  },
-  {
-    "title": "AI-enabled lyophilization of advanced biologics: process intelligence, quality assessment, and formulation opportunities.",
-    "authors": "Liu X, Caprio GD, Du Y",
-    "journal": "Int J Pharm",
-    "date": "2026-07-24",
-    "abstract": "Lyophilization is a key stabilization strategy for advanced biologics, including protein therapeutics, nucleic-acid-based products, extracellular vesicles, and other highly labile biopharmaceutical systems. However, the development of lyophilized biologic products remains constrained by the intrinsic complexity of coupled heat and mass transfer, li",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42497936/",
     "category": "mAb Characterization"
   },
   {
@@ -270,15 +288,6 @@
     "category": "Chromatography"
   },
   {
-    "title": "Structural Elucidation of Fc- and Fab-Associated N-Glycans in Cetuximab Using Protein A-Assisted Domain-Resolved Glycan Profiling Using Mass Spectrometry.",
-    "authors": "Chauhan D, Shivach T, Rathore AS",
-    "journal": "J Am Soc Mass Spectrom",
-    "date": "2026-07-06",
-    "abstract": "Glycosylation of monoclonal antibodies is a key determinant of their efficacy, stability, and safety, requiring analytical methods capable of resolving site-specific heterogeneity with high sensitivity. In this work, we present a Protein A-assisted, domain-resolved glycan profiling approach for the mass spectrometry-based structural elucidation and",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42406533/",
-    "category": "Biosimilars"
-  },
-  {
     "title": "Rapid assessment of target-binding fractions in molecular imaging agents using size-exclusion HPLC.",
     "authors": "McAdoo A, Jouad K, Rosenthal EL, et al.",
     "journal": "EJNMMI Radiopharm Chem",
@@ -313,24 +322,6 @@
     "abstract": "Biosimilars are a critical strategy for improving access to high-cost biologics and ensuring the sustainability of healthcare systems worldwide. Over the past decade, China has transformed from a nascent market into one of the world's most active regions for biosimilar development. This review evaluates this transformation with a focus on regulator",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42307859/",
     "category": "Biosimilars"
-  },
-  {
-    "title": "Subcutaneous administration of antibody-drug conjugates: current challenges, emerging opportunities, and future perspectives.",
-    "authors": "Ren S, Wang SS, Li FY",
-    "journal": "Antib Ther",
-    "date": "2026-07-01",
-    "abstract": "Antibody-drug conjugates (ADCs) are a rapidly growing class of targeted therapeutics designed to deliver potent payloads while minimizing systemic toxicity. Despite significant progress, all approved ADCs are administered intravenously (IV). In contrast, subcutaneous (SC) delivery is well established for antibodies, offering shorter administration ",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42592116/",
-    "category": "Novel Modalities"
-  },
-  {
-    "title": "Stabilization of spray-dried monoclonal antibody formulations with polymeric excipients.",
-    "authors": "Patil CD, Arte KS, Sapkota R, et al.",
-    "journal": "J Pharm Sci",
-    "date": "2026-06-11",
-    "abstract": "Spray drying is an emerging continuous manufacturing approach with significant potential for producing stable solid formulations of biologic drug products such as peptides, proteins and oligonucleotides. However, these sensitive molecules on exposure to thermal, shear, and interfacial stresses during spray drying may experience structural perturbat",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42276211/",
-    "category": "Chromatography"
   },
   {
     "title": "Importance in optimization of sample volume in the IgG-immunoaffinity UPLC-MS/MS assay for quantification of a therapeutic antibody in monkey serum.",
@@ -376,6 +367,15 @@
     "abstract": "Glycosylation is an important post-translational modification that can alter the biological activities of antibodies. In monoclonal antibody biotherapeutic products, glycosylation of the Fc-domain, which is often sensitive to manufacturing conditions, can alter product potency by affecting its interactions with host immune cells. Improving control ",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42542537/",
     "category": "mAb Characterization"
+  },
+  {
+    "title": "Absolute and Relative Quantification of Glycation on Biotherapeutic IgGs Using Heavy Isotope-Labeled Proteins.",
+    "authors": "Priya S, Popov M, Orlando R",
+    "journal": "J Biomol Tech",
+    "date": "2026-01-01",
+    "abstract": "Post-translational modifications (PTMs), such as glycation, can be introduced during the manufacturing and storage of therapeutic proteins, including monoclonal antibodies (mAbs). Glycation modification may alter the safety and efficacy of therapeutic drugs, thus necessitating their accurate quantification. Relative quantitation is typically perfor",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42694860/",
+    "category": "Mass Spectrometry"
   },
   {
     "title": "Validation approach of an LC-MS/MS assay for ADA detection, applied to a Von Willebrand factor-targeted biotherapeutic.",
