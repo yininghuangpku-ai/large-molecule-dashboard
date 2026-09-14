@@ -36,6 +36,15 @@
     "category": "Chromatography"
   },
   {
+    "title": "Computationally inspired glycoengineering to maximise mAb β4-galactosylation.",
+    "authors": "Gomez Aquino I, Ghahremanzamaneh M, Tsopanoglou A, et al.",
+    "journal": "Metab Eng",
+    "date": "2026-09-07",
+    "abstract": "β4-galactosylation is a critical quality attribute of therapeutic monoclonal antibodies (mAbs), enhancing complement-dependent cytotoxicity, antibody-dependent cytotoxicity, and antibody-dependent cellular phagocytosis. Despite its therapeutic importance, galactosylation remains the most variable glycosylation motif due to its sensitivity to cell c",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42705496/",
+    "category": "mAb Characterization"
+  },
+  {
     "title": "Regulatory and Quality Considerations of Antibody-drug Conjugates.",
     "authors": "Cha KJ, Rosenberg M",
     "journal": "AAPS PharmSciTech",
@@ -88,6 +97,15 @@
     "abstract": "As critical quality attributes, post-translational modifications (PTMs) of therapeutic monoclonal antibodies in production impact their structural stability, charge heterogeneity, and clinical efficacy. This study elucidated PTM-driven charge isomer disparities in anti-sclerostin monoclonal antibodies from continuous perfusion versus fed-batch bior",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42276533/",
     "category": "Chromatography"
+  },
+  {
+    "title": "Expanding Patient Access to Advanced Therapies.",
+    "authors": "Guillen E, Hidalgo-Simon A",
+    "journal": "BioDrugs",
+    "date": "2026-09-01",
+    "abstract": "Advanced therapy medicinal products (ATMPs) promise transformative clinical potential, but their use remains limited by complex manufacturing, high prices, and fragmented market access. To explore the existing and potential regulatory pathways to increase access to ATMPs, we conducted a product-level analysis of ATMPs and biologic medicines submitt",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42481849/",
+    "category": "Biosimilars"
   },
   {
     "title": "Unmasking Glycoforms: Lectin-Based Profiling and Functional Implications of Targeted Glycosylation Knockouts in Chinese Hamster Ovary Cells.",
@@ -189,15 +207,6 @@
     "category": "Mass Spectrometry"
   },
   {
-    "title": "High-throughput microscale chromatography for process characterization and control strategy development in biologics manufacturing.",
-    "authors": "Rezvani K, Hoff C, Torrico D, et al.",
-    "journal": "J Chromatogr A",
-    "date": "2026-08-10",
-    "abstract": "Biopharmaceutical manufacturers rely on high throughput, microscale models to accelerate bioprocess development and deepen process understanding. These tools enable more efficient process development in an increasingly demanding biopharmaceutical landscape that includes various modalities such as monoclonal antibodies, bispecific antibodies, antibo",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42594632/",
-    "category": "Novel Modalities"
-  },
-  {
     "title": "System Performance Check (SPC): A Readiness Companion to Multi-Attribute Method (MAM) Analysis in Biopharmaceutical Quality Control.",
     "authors": "Chase J, Sato M, Slysz G, et al.",
     "journal": "Pharmaceuticals (Basel)",
@@ -234,15 +243,6 @@
     "category": "mAb Characterization"
   },
   {
-    "title": "Primary Packaging Hydrophilicity/Hydrophobicity: A Critical Factor Governing Visible-Bubbles during Reconstitution Process of Lyophilized High-Concentration Monoclonal Antibody Formulations.",
-    "authors": "Gao H, Ding ZL, Ouyang J, et al.",
-    "journal": "Mol Pharm",
-    "date": "2026-07-27",
-    "abstract": "Driven by the evolving demands of modern pharmaceutical industry, high-concentration monoclonal antibody formulations (HCMFs) have emerged as a central research hotspot in biopharmaceutical development, attributable to their merits such as low administration volume and reduced medical expenditure. For lyophilized HCMFs, reconstitution performance s",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42504728/",
-    "category": "mAb Characterization"
-  },
-  {
     "title": "Qualification and Implementation of a Robust Multi-Attribute Method Platform Across Multiple Laboratories for High-Resolution Process Characterization of Biopharmaceutical Products.",
     "authors": "Griaud F, Merkle PS, Ritter J, et al.",
     "journal": "Pharmaceuticals (Basel)",
@@ -259,15 +259,6 @@
     "abstract": "To overcome the limitations of repeated GH injection therapy, gelatin methacryloyl (GelMA)/hyaluronic acid (HA) composite hydrogel microneedles were fabricated for potential non-invasive transdermal delivery of recombinant human growth hormone (rhGH) and long-acting human growth hormone Fc fusion protein (hGH-Fc). All-atom molecular dynamics simula",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42644912/",
     "category": "Novel Modalities"
-  },
-  {
-    "title": "Expanding Patient Access to Advanced Therapies.",
-    "authors": "Guillen E, Hidalgo-Simon A",
-    "journal": "BioDrugs",
-    "date": "2026-07-21",
-    "abstract": "Advanced therapy medicinal products (ATMPs) promise transformative clinical potential, but their use remains limited by complex manufacturing, high prices, and fragmented market access. To explore the existing and potential regulatory pathways to increase access to ATMPs, we conducted a product-level analysis of ATMPs and biologic medicines submitt",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42481849/",
-    "category": "Biosimilars"
   },
   {
     "title": "Enhancing lyophilized cake morphology in biopharmaceutical products through stepped annealing at freezing phase.",
@@ -403,6 +394,15 @@
     "abstract": "In a recent study, we created and analyzed a novel dataset of US biologics manufacturing patents held by nine leading firms that produce originator therapeutic proteins. Here, we expand our data and analysis to encompass not simply US patents but also their family members, with the total set constituting a substantially broader group of patents hel",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42602591/",
     "category": "Biosimilars"
+  },
+  {
+    "title": "Development of Freeze-Dried Formulations for Biopharmaceutical Drug Products Using a Design of Experiments Approach: A Case Study on Antibody-Drug Conjugates.",
+    "authors": "Harguindeguy M, Hawe A, Menzen T",
+    "journal": "Methods Mol Biol",
+    "date": "2026-01-01",
+    "abstract": "The successful development of a lyophilized biopharmaceutical formulation relies on a systematic, science- and risk-based approach. By using a mock antibody-drug conjugate (ADC) as an example, this chapter outlines a structured pathway beginning with the definition of the quality target product profile (QTPP) and a thorough understanding of the act",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42732526/",
+    "category": "Novel Modalities"
   },
   {
     "title": "Real-time and label-free monitoring of monoclonal antibody secretion rates using a PC-TIR biosensor.",
