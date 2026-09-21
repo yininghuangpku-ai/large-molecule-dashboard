@@ -18,13 +18,13 @@
     "category": "mAb Characterization"
   },
   {
-    "title": "Humanization of N-glycan-dependent protein quality-control system in Kluyveromyces marxianus promotes glycoprotein secretion.",
-    "authors": "Ai Y, He Y, Zhao L, et al.",
-    "journal": "Metab Eng",
-    "date": "2026-11-01",
-    "abstract": "Human N-glycoproteins represent a market worth hundreds of billions of dollars, yet their production in yeast is often limited by misfolding and degradation. However, few strategies have addressed this limitation by targeting differences between human and yeast N-glycan-dependent protein quality control (QC), including the absence of the UGGT-media",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42537838/",
-    "category": "Glycosylation"
+    "title": "Protein aggregation in self-lubricating piston pumps: The impact of sustained shear stress.",
+    "authors": "Rebollo R, Winckelmann B, Carnerup A, et al.",
+    "journal": "Int J Pharm",
+    "date": "2026-10-05",
+    "abstract": "Inherent protein particles (IPP) in injectable biopharmaceutical products can compromise product stability and safety. Hydrodynamic forces during low‑volume aseptic filling have been suggested as a contributor to IPP formation, but the mechanisms, particularly in self‑lubricating piston pumps, are not well defined. We have systematically analyzed t",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42665195/",
+    "category": "Stability"
   },
   {
     "title": "Engineering High-Performance Inhalable Monoclonal Antibody Powders via Spray Freeze Drying.",
@@ -34,6 +34,51 @@
     "abstract": "Spray freeze-drying (SFD) is a cutting-edge technique for producing dry powders, ideal for pulmonary drug delivery, owing to its ability to generate porous microparticles with low density and excellent aerodynamic properties. The SFD process, involving atomisation, freezing, and drying, is particularly suited for formulating biologics, e.g., monocl",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42546983/",
     "category": "Chromatography"
+  },
+  {
+    "title": "Mapping the membrane-enriched proteome of recombinant Chinese hamster ovary cells following induction of endoplasmic reticulum stress.",
+    "authors": "Sideri CK, Henry M, Ryan D, et al.",
+    "journal": "Biotechnol Lett",
+    "date": "2026-09-19",
+    "abstract": "Chinese hamster ovary (CHO) cells are the dominant platform for monoclonal antibody (mAb) production. Despite their widespread use, an understanding of endoplasmic reticulum (ER) stress during recombinant protein production remains limited, often creating bottlenecks that hinder improvements in production titres and product quality. Because many cr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42762339/",
+    "category": "Mass Spectrometry"
+  },
+  {
+    "title": "Differential effects of N-acetylmannosamine on O-glycan sialylation of therapeutic Fc-fusion glycoproteins in CHO and HEK293 cells.",
+    "authors": "Kim TH, Kim HS, You J, et al.",
+    "journal": "J Biotechnol",
+    "date": "2026-09-17",
+    "abstract": "Sialylation is a critical quality attribute of therapeutic glycoproteins, yet strategies to specifically modulate O-glycan sialylation remain underdeveloped compared to N-glycosylation. While N-acetylmannosamine (ManNAc) is widely utilized as an established enhancer of N-glycan sialylation, its efficacy in modulating O-glycan structures has remaine",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42753818/",
+    "category": "mAb Characterization"
+  },
+  {
+    "title": "Effects of Siliconization Techniques, Headspace, Mechanical and Thermal Stress on Particle Generation in an Antibody Formulation.",
+    "authors": "Lucas A, Tripathi DK, Bespalova A, et al.",
+    "journal": "Pharm Res",
+    "date": "2026-09-17",
+    "abstract": "Pre-filled syringes (PFSs) have become a preferred delivery system for biotherapeutics due to their convenience, accuracy, and cost-effectiveness. Silicone oil (SO) is commonly used as a lubricant in PFSs; however, its leaching can trigger immunogenicity and raise clinical and regulatory concerns. This study evaluates the impact of syringe design a",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42754776/",
+    "category": "Chromatography"
+  },
+  {
+    "title": "Electrostatic and hydrophobic contributions to monoclonal antibody adsorption on prefilled syringes: a screening approach using zeta potential and dynamic streaming potential analysis.",
+    "authors": "Bonaventura F, Zuern A, Meinel L, et al.",
+    "journal": "Int J Pharm",
+    "date": "2026-09-17",
+    "abstract": "Protein adsorption to primary packaging surfaces, especially prefilled syringes (PFS), is a critical issue in biopharmaceutical development because it can lower drug concentration and promote aggregation and particle formation. In this study, we examined the adsorption of a monoclonal antibody (mAb) on relevant barrel materials, including borosilic",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42754062/",
+    "category": "Stability"
+  },
+  {
+    "title": "SEC-seq reveals translation-focused metabolic strategies for high IgG productivity in clonal CHO cells.",
+    "authors": "Tat J, Lay FD, Stevens J, et al.",
+    "journal": "Metab Eng",
+    "date": "2026-09-16",
+    "abstract": "Chinese hamster ovary (CHO) cells are the dominant host for therapeutic protein production, yet intra- and inter-clonal heterogeneity in manufacturing phenotypes, and the underlying metabolic and secretory circuitry, remain poorly defined at single-cell resolution. Using secretion encoded single-cell sequencing (SEC-seq), we simultaneously measure ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42749212/",
+    "category": "Stability"
   },
   {
     "title": "Computationally inspired glycoengineering to maximise mAb β4-galactosylation.",
@@ -52,15 +97,6 @@
     "abstract": "Antibody-Drug Conjugates (ADCs) have become well-established as an important class of oncology therapeutics with 15 FDA-approved ADCs for various cancer types and hundreds more ADCs in clinical development. This chapter highlights the unique regulatory considerations for the development of ADCs in oncology given their dual nature as biologics and s",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42698054/",
     "category": "Novel Modalities"
-  },
-  {
-    "title": "Protein aggregation in self-lubricating piston pumps: The impact of sustained shear stress.",
-    "authors": "Rebollo R, Winckelmann B, Carnerup A, et al.",
-    "journal": "Int J Pharm",
-    "date": "2026-09-03",
-    "abstract": "Inherent protein particles (IPP) in injectable biopharmaceutical products can compromise product stability and safety. Hydrodynamic forces during low‑volume aseptic filling have been suggested as a contributor to IPP formation, but the mechanisms, particularly in self‑lubricating piston pumps, are not well defined. We have systematically analyzed t",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42665195/",
-    "category": "Stability"
   },
   {
     "title": "Impact of surfactants on the stability of therapeutic peptides under interfacial stress.",
@@ -88,15 +124,6 @@
     "abstract": "Infliximab (IFX) is a cornerstone biologic for pediatric inflammatory bowel disease, where therapeutic drug monitoring (TDM) is essential but complicated by inter-platform variability. Systematic comparison of automated immunoassays with reference methods is therefore warranted. This study aimed to validate an in-house chemiluminescence immunoassay",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42667246/",
     "category": "Mass Spectrometry"
-  },
-  {
-    "title": "Comparative analysis of charge heterogeneity in anti-sclerostin monoclonal antibodies produced via continuous perfusion and fed-batch processes.",
-    "authors": "Yi Y, Xie D, Zhang X, et al.",
-    "journal": "Protein Expr Purif",
-    "date": "2026-09-01",
-    "abstract": "As critical quality attributes, post-translational modifications (PTMs) of therapeutic monoclonal antibodies in production impact their structural stability, charge heterogeneity, and clinical efficacy. This study elucidated PTM-driven charge isomer disparities in anti-sclerostin monoclonal antibodies from continuous perfusion versus fed-batch bior",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42276533/",
-    "category": "Chromatography"
   },
   {
     "title": "Expanding Patient Access to Advanced Therapies.",
@@ -135,15 +162,6 @@
     "category": "mAb Characterization"
   },
   {
-    "title": "Monoclonal Antibody Adsorption at Fluid-Fluid Interfaces: Experimental and Computational Approaches for Interfacial Characterization.",
-    "authors": "Nuhu H, Mohammadigoushki H",
-    "journal": "J Pharm Sci",
-    "date": "2026-08-26",
-    "abstract": "Monoclonal antibodies (mAbs) frequently encounter fluid-fluid interfaces, such as air-water and oil-water boundaries, during manufacturing, storage, and administration, where adsorp-tion can trigger structural perturbations, aggregation, and loss of efficacy. Despite extensive experimental and computational efforts, a unified understanding that con",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42648489/",
-    "category": "Stability"
-  },
-  {
     "title": "Effect of berahyaluronidase alfa on subcutaneous absorption and local tolerability of ALT-P7, an antibody-drug conjugate in preclinical studies.",
     "authors": "Jung W, Kim W, Lee EM, et al.",
     "journal": "J Control Release",
@@ -171,15 +189,6 @@
     "category": "Novel Modalities"
   },
   {
-    "title": "Synergistic viral inactivation platform: Rapid enveloped virus inactivation at mildly acidic pH using low non-ionic detergent in Protein A eluates.",
-    "authors": "Zou JX, Lee JH, Liu SS, et al.",
-    "journal": "Biotechnol Prog",
-    "date": "2026-08-16",
-    "abstract": "Low-pH viral inactivation (LPVI) is a widely used, validated unit operation for enveloped virus clearance in antibody manufacturing. However, acid exposure during Protein A (ProA) elution and subsequent low-pH holds can destabilize some antibodies and Fc-containing modalities, increasing aggregation risk and product loss-a challenge that is particu",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42604985/",
-    "category": "Novel Modalities"
-  },
-  {
     "title": "Structural insights into antibody-antibody interactions in sandwich ELISA: implications for assay development and performance.",
     "authors": "Su Y, Zhao B, Moon Y, et al.",
     "journal": "Anal Bioanal Chem",
@@ -196,15 +205,6 @@
     "abstract": "Monoclonal antibodies (mAbs) are a major class of biopharmaceuticals widely used to treat cancers and inflammatory, infectious, and autoimmune diseases. The manufacturing of these therapeutics involves multiple complex and time-consuming steps that may introduce product- and process-related impurities and cause alterations in critical quality attri",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42429162/",
     "category": "Chromatography"
-  },
-  {
-    "title": "Immobilized enzyme reactors as enabling technologies for automated multidimensional analytical workflows in the era of complex therapeutics.",
-    "authors": "Mensah WA, Nabergoj M, Peljhan S, et al.",
-    "journal": "Talanta",
-    "date": "2026-08-10",
-    "abstract": "Immobilized enzyme reactors (IMERs) are emerging as important components of advanced analytical workflows, in which selective enzymatic transformations are directly combined with continuous-flow operation and high-resolution separation techniques. By converting traditionally offline biochemical reactions into automated, residence-time-controlled mo",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42612254/",
-    "category": "Mass Spectrometry"
   },
   {
     "title": "System Performance Check (SPC): A Readiness Companion to Multi-Attribute Method (MAM) Analysis in Biopharmaceutical Quality Control.",
@@ -225,22 +225,13 @@
     "category": "Mass Spectrometry"
   },
   {
-    "title": "Integrating Artificial Intelligence into Biopharmaceutical Formulation and Development: A Critical Review.",
-    "authors": "Chaudhary S, Chauhan SB, Swami R, et al.",
-    "journal": "Curr Pharm Des",
-    "date": "2026-08-01",
-    "abstract": "This review critically examines the integration of artificial intelligence (AI) methods into biopharmaceutical formulation science, with emphasis on core formulation challenges including solubility, stability, aggregation, viscosity, excipient compatibility, nanocarrier optimization, release behaviour, and manufacturability. A structured literature",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42634515/",
-    "category": "Stability"
-  },
-  {
     "title": "A rapid and high-throughput biotechnology quantifies major glycoforms of human IgG1 mAb drugs.",
     "authors": "Matsumoto Y, Zhou L, Ohno S, et al.",
     "journal": "Trends Biotechnol",
     "date": "2026-07-27",
     "abstract": "Human IgG1 monoclonal antibody (mAb) drugs are widely manufactured using mammalian cells and contain three major glycoforms on asparagine residue at position 297 (Asn297) in their Fc region: fucosylated, afucosylated, and high-mannose glycans. The N-glycans at Asn297 directly impact IgG1 mAb efficacy through effector functions and half-life. Thus, ",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42509127/",
-    "category": "mAb Characterization"
+    "category": "Biosimilars"
   },
   {
     "title": "Qualification and Implementation of a Robust Multi-Attribute Method Platform Across Multiple Laboratories for High-Resolution Process Characterization of Biopharmaceutical Products.",
@@ -303,15 +294,6 @@
     "date": "2026-07-01",
     "abstract": "Monoclonal antibodies (mAbs) have revolutionized therapeutic treatments by their ability to target specific antigens, leading to enhanced clinical outcomes over other drugs. They are one of the largest modalities within the growing biotherapeutics space and are indicated for a range of diseases. Though transformative, mAbs are still not readily acc",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42310272/",
-    "category": "Biosimilars"
-  },
-  {
-    "title": "An Overview and Trend Analysis of Biosimilar Approvals in China.",
-    "authors": "Yang M, Zhang N, Wang H",
-    "journal": "BioDrugs",
-    "date": "2026-07-01",
-    "abstract": "Biosimilars are a critical strategy for improving access to high-cost biologics and ensuring the sustainability of healthcare systems worldwide. Over the past decade, China has transformed from a nascent market into one of the world's most active regions for biosimilar development. This review evaluates this transformation with a focus on regulator",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42307859/",
     "category": "Biosimilars"
   },
   {
