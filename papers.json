@@ -1,5 +1,41 @@
 [
   {
+    "title": "Deciphering complex charge heterogeneity in a glycosylated monoclonal antibody by integrated icIEF-MS and enzymatic digestion system.",
+    "authors": "Geng H, Tang L, Zeng Y, et al.",
+    "journal": "J Chromatogr A",
+    "date": "2026-11-08",
+    "abstract": "Charge heterogeneity is a critical quality attribute of therapeutic monoclonal antibodies. However, structurally characterizing charge variants resolved by imaged capillary isoelectric focusing (icIEF) remains challenging for antibodies with complex charge profiles. Here, we established an integrated enzymatic digestion and direct icIEF-MS workflow",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42822191/",
+    "category": "mAb Characterization"
+  },
+  {
+    "title": "Immunogenicity of biologics delivered in the subcutaneous space: Delineating the contributing factors.",
+    "authors": "Jawa V, Tourdot S, Shivaraju M, et al.",
+    "journal": "J Pharm Sci",
+    "date": "2026-10-07",
+    "abstract": "The subcutaneous (SC) route of administration for therapeutic proteins (TPs) offers advantages such as patient convenience, reduced delivery complexity, and self-administration leading to enhanced adherence. Although SC delivery may be perceived to have higher immunogenicity risk than intravenous (IV) administration due to longer antigen exposure a",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42843559/",
+    "category": "Stability"
+  },
+  {
+    "title": "Bubble-cell native fluorescence imaging for high-sensitivity label-free protein quantification.",
+    "authors": "Xu H, Nguyen U, Yang T",
+    "journal": "Talanta",
+    "date": "2026-10-06",
+    "abstract": "Quantification of low-abundance proteins is critical for biopharmaceutical development, proteomics, and biochemical research; however, existing methods often require trade-offs among sensitivity, sample consumption, and workflow simplicity. Ultraviolet (UV) absorbance at 280 nm remains the most widely used method for routine protein quantification ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42849313/",
+    "category": "mAb Characterization"
+  },
+  {
+    "title": "Next-Generation Glutamine Synthetase Expression Vector for Therapeutic Protein Manufacturing Using CHO Cells.",
+    "authors": "Johari YB, Wensley SJ, Ammar MA, et al.",
+    "journal": "Biotechnol Bioeng",
+    "date": "2026-10-06",
+    "abstract": "The glutamine synthetase expression system is widely used for therapeutic protein biomanufacturing in Chinese hamster ovary (CHO) cells. Here, we present the design of an enhanced glutamine synthetase vector for generating CHOK1SV GS-KO stable pools that produce recombinant proteins at multigram-per-liter levels. We first developed a synthetic prom",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42834783/",
+    "category": "Novel Modalities"
+  },
+  {
     "title": "GlycoMAC: A Multiscale Metabolic-Glycosylation Framework for Predicting Glycosylation Across Conditions in Mammalian Cell Cultures.",
     "authors": "Zeng Y, Harcum SW, Pei J, et al.",
     "journal": "Biotechnol Bioeng",
@@ -7,6 +43,15 @@
     "abstract": "Antibody productivity and glycosylation quality in CHO cell cultures emerge from a dynamically evolving metabolic environment, yet existing models often work in isolation or at a single scale. Here, we present a multiscale mechanistic framework linking molecular, cellular, and macroscopic scales to predict how inputs shape bioprocess trajectories. ",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42831456/",
     "category": "Glycosylation"
+  },
+  {
+    "title": "Development and application of a mechanistic model for protein A resolution of a bispecific antibody for process characterization and optimization.",
+    "authors": "Wadsworth S, Reilly J, Mattila J, et al.",
+    "journal": "Biotechnol Prog",
+    "date": "2026-10-05",
+    "abstract": "Regeneron's bispecific technology, based on a fully human IgG antibody construct, consists of two distinct heavy chains and a common light chain co-expressed in a single cell. The co-expression of the two distinct heavy chains, one of which contains a dipeptide substitution that ablates Protein A binding, leads to the formation of three species wit",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42834531/",
+    "category": "Novel Modalities"
   },
   {
     "title": "Differentiation of protein aggregates and silicone oil droplets by fluctuation in scattering amplitude using three-dimensional homodyne light detection.",
@@ -43,15 +88,6 @@
     "abstract": "The end-to-end characterization of a fed-batch bioprocess for expressing a non-originator version of the NISTmAb IgG1 (cNISTmAb) using NISTCHO, a high-performance CHO production cell line available as a NIST reference material (RM 8675), is described. NISTCHO was developed to support bioprocess reproducibility, cross-laboratory standardization, tec",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42822555/",
     "category": "Glycosylation"
-  },
-  {
-    "title": "Deciphering complex charge heterogeneity in a glycosylated monoclonal antibody by integrated icIEF-MS and enzymatic digestion system.",
-    "authors": "Geng H, Tang L, Zeng Y, et al.",
-    "journal": "J Chromatogr A",
-    "date": "2026-09-26",
-    "abstract": "Charge heterogeneity is a critical quality attribute of therapeutic monoclonal antibodies. However, structurally characterizing charge variants resolved by imaged capillary isoelectric focusing (icIEF) remains challenging for antibodies with complex charge profiles. Here, we established an integrated enzymatic digestion and direct icIEF-MS workflow",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42822191/",
-    "category": "mAb Characterization"
   },
   {
     "title": "High-fidelity genotyping and therapeutic oligonucleotides analysis by liquid-phase ion trap coupled with mass spectrometry.",
@@ -126,15 +162,6 @@
     "category": "Chromatography"
   },
   {
-    "title": "Electrostatic and hydrophobic contributions to monoclonal antibody adsorption on prefilled syringes: a screening approach using zeta potential and dynamic streaming potential analysis.",
-    "authors": "Bonaventura F, Zuern A, Meinel L, et al.",
-    "journal": "Int J Pharm",
-    "date": "2026-09-17",
-    "abstract": "Protein adsorption to primary packaging surfaces, especially prefilled syringes (PFS), is a critical issue in biopharmaceutical development because it can lower drug concentration and promote aggregation and particle formation. In this study, we examined the adsorption of a monoclonal antibody (mAb) on relevant barrel materials, including borosilic",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42754062/",
-    "category": "Stability"
-  },
-  {
     "title": "Comparative Characterisation of Five Plasma-Derived Human Serum Albumin Preparations: Structural Integrity, Functional Properties, and Quality Attributes.",
     "authors": "Farhane Z, Bilong M, Le Boedec M, et al.",
     "journal": "Pharmaceuticals (Basel)",
@@ -207,6 +234,15 @@
     "category": "Mass Spectrometry"
   },
   {
+    "title": "Raman Spectroscopy for Characterizing Monoclonal Antibody Reduction: A Process Analytical Technology Approach for Antibody-Drug Conjugation Process Development.",
+    "authors": "Pople D, Wang Z, Kozyryev A, et al.",
+    "journal": "Pharm Res",
+    "date": "2026-09-01",
+    "abstract": "Controlled disulfide bond reduction is critical in antibody-drug conjugate (ADC) manufacturing, enabling site-specific conjugation and desired drug-to-antibody ratios. Current characterization relies on time-consuming offline capillary electrophoresis, creating bottlenecks in process development where multiple conditions must be rapidly screened. T",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42449032/",
+    "category": "Chromatography"
+  },
+  {
     "title": "Enhancing lyophilized cake morphology in biopharmaceutical products through stepped annealing at freezing phase.",
     "authors": "Birangal P, Lodagekar A, Pulipeta M, et al.",
     "journal": "J Pharm Sci",
@@ -231,7 +267,7 @@
     "date": "2026-08-31",
     "abstract": "Monoclonal antibody (mAb) glycosylation is a critical quality attribute that is difficult to rationally engineer and rapidly assess during cell line development. Here, we investigate whether cell-surface glycosylation can serve as a surrogate readout of mAb product glycosylation following targeted glycogene engineering in CHO cells. Five key glycog",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42670636/",
-    "category": "mAb Characterization"
+    "category": "Glycosylation"
   },
   {
     "title": "Development and optimization of a mobile affinity selection chromatography method for analysis of therapeutic monoclonal antibody aggregates in the presence of human serum albumin.",
@@ -261,24 +297,6 @@
     "category": "Bioassays"
   },
   {
-    "title": "Engineering Lipid Nanoparticles through Integrated Compositional and Ligand Targeting Enhances β Cell-Directed RNA Delivery.",
-    "authors": "Yu D, Zhu Y, Roca-Rivada A, et al.",
-    "journal": "ACS Nano",
-    "date": "2026-08-25",
-    "abstract": "Beyond their deployment as COVID-19 vaccines, lipid nanoparticles (LNPs) have emerged as versatile vehicles for therapeutic nucleic acid delivery. However, achieving efficient and cell-targeted transfection in extrahepatic tissues, particularly pancreatic β cells, remains a major challenge. Here, we develop a dual-targeting LNP engineering strategy",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42674453/",
-    "category": "Novel Modalities"
-  },
-  {
-    "title": "DTT-Induced Transcriptome Profiling Reveals Divergent ER Proteostasis and Stress-Adaptation Programs in CHO-S/HB8 and CHO-4BGD/DUL Producer Clones.",
-    "authors": "Orlova NA, Potapova NA, Shaifutdinov RR, et al.",
-    "journal": "Int J Mol Sci",
-    "date": "2026-08-19",
-    "abstract": "Chinese hamster ovary (CHO) producer cells differ in their capacity to accommodate secretory and endoplasmic reticulum (ER) stress, but how producer and host-cell backgrounds are associated with ER-proteostasis responses remains poorly understood. We compared 24 h dithiothreitol (DTT)-induced reductive ER stress responses in two clonal producers: C",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42653428/",
-    "category": "Novel Modalities"
-  },
-  {
     "title": "Structural insights into antibody-antibody interactions in sandwich ELISA: implications for assay development and performance.",
     "authors": "Su Y, Zhao B, Moon Y, et al.",
     "journal": "Anal Bioanal Chem",
@@ -304,15 +322,6 @@
     "abstract": "Background/Objectives: Process characterization (PC) of biopharmaceutical products is intended to identify critical process parameters (CPPs) based on their impact on critical quality attributes (CQAs), as well as to define acceptable process parameter ranges to ensure consistent product quality and process performance. However, conventional analyt",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42653647/",
     "category": "Glycosylation"
-  },
-  {
-    "title": "Raman Spectroscopy for Characterizing Monoclonal Antibody Reduction: A Process Analytical Technology Approach for Antibody-Drug Conjugation Process Development.",
-    "authors": "Pople D, Wang Z, Kozyryev A, et al.",
-    "journal": "Pharm Res",
-    "date": "2026-07-14",
-    "abstract": "Controlled disulfide bond reduction is critical in antibody-drug conjugate (ADC) manufacturing, enabling site-specific conjugation and desired drug-to-antibody ratios. Current characterization relies on time-consuming offline capillary electrophoresis, creating bottlenecks in process development where multiple conditions must be rapidly screened. T",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42449032/",
-    "category": "Chromatography"
   },
   {
     "title": "From anti-drug antibody incidence to clinical relevance: interpreting highly sensitive immunogenicity assays in biosimilars.",
