@@ -1,5 +1,14 @@
 [
   {
+    "title": "Development and optimization of a mobile affinity selection chromatography method for analysis of therapeutic monoclonal antibody aggregates in the presence of human serum albumin.",
+    "authors": "Stoa YB, Wang P",
+    "journal": "J Chromatogr B Analyt Technol Biomed Life Sci",
+    "date": "2026-12-01",
+    "abstract": "Demonstration of biological drug product quality prior to first-in-human dosing is a regulatory requirement to ensure patient safety and product performance. Protein aggregates, including dimers and higher-order species, are classified as product-related impurities and must be adequately controlled. However, conventional Size-Exclusion High-Perform",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42679766/",
+    "category": "Chromatography"
+  },
+  {
     "title": "Deciphering complex charge heterogeneity in a glycosylated monoclonal antibody by integrated icIEF-MS and enzymatic digestion system.",
     "authors": "Geng H, Tang L, Zeng Y, et al.",
     "journal": "J Chromatogr A",
@@ -7,6 +16,78 @@
     "abstract": "Charge heterogeneity is a critical quality attribute of therapeutic monoclonal antibodies. However, structurally characterizing charge variants resolved by imaged capillary isoelectric focusing (icIEF) remains challenging for antibodies with complex charge profiles. Here, we established an integrated enzymatic digestion and direct icIEF-MS workflow",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42822191/",
     "category": "mAb Characterization"
+  },
+  {
+    "title": "Structural insights into antibody-antibody interactions in sandwich ELISA: implications for assay development and performance.",
+    "authors": "Su Y, Zhao B, Moon Y, et al.",
+    "journal": "Anal Bioanal Chem",
+    "date": "2026-11-01",
+    "abstract": "The enzyme-linked immunosorbent assay (ELISA) is a widely utilized immunoassay technique in biopharmaceutical drug development due to its high sensitivity and specificity. Optimizing assay performance necessitates addressing challenges that arise during method development, particularly the selection of compatible monoclonal antibody (mAb) pairs for",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42595901/",
+    "category": "Chromatography"
+  },
+  {
+    "title": "Bioanalytical assays for clinical similarity assessment of biotherapeutics: evolving platforms and regulatory considerations.",
+    "authors": "Chandnani V, Tiwari S, Bob M, et al.",
+    "journal": "Bioanalysis",
+    "date": "2026-10-18",
+    "abstract": "The rapid expansion of biosimilars following the patent expiry of biologic therapies has increased the need for robust bioanalytical strategies capable of supporting biosimilarity assessment and regulatory decision-making. Within the totality-of-evidence framework, bioanalytical assays play a pivotal role in generating comparative pharmacokinetic (",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42894407/",
+    "category": "Mass Spectrometry"
+  },
+  {
+    "title": "Engineering Chlamydomonas reinhardtii as a microalgal cell factory for recombinant human serum albumin production.",
+    "authors": "Shi Y, Lu S, Zhang K, et al.",
+    "journal": "Bioresour Technol",
+    "date": "2026-10-17",
+    "abstract": "Human serum albumin (HSA) is an important biopharmaceutical protein, but its recombinant production is still limited by low productivity and high manufacturing cost in conventional expression systems. Here, we engineered Chlamydomonas as a microalgal cell factory for recombinant HSA (rHSA) production. Expression cassette optimization and sequential",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42892369/",
+    "category": "Mass Spectrometry"
+  },
+  {
+    "title": "Integrated dual carbon source and TCA intermediate supplementation in fed-batch fermentation of CHO cells for reduced lactate and ammonia accumulation and improved IgG1 monoclonal antibody titre.",
+    "authors": "Naidu A, Padhye K, Dandekar P, et al.",
+    "journal": "Bioprocess Biosyst Eng",
+    "date": "2026-10-16",
+    "abstract": "Chinese hamster ovary (CHO) cells are the workhorse of biopharmaceutical manufacturing, yet lactate and ammonia accumulation remain persistent bottlenecks that compromise cell viability, productivity, and product quality. To address this, we present an integrated feeding strategy systematically combining Ala-Gln, TCA intermediates, and glucose-gala",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42886232/",
+    "category": "Glycosylation"
+  },
+  {
+    "title": "Functional evaluation of loratadine-cyclodextrin complexes: comprehensive solid-state characterisation, biopharmaceutical assessment and stability profiling.",
+    "authors": "Pocrnić M, Potrzebowski MJ, Jug M, et al.",
+    "journal": "RSC Adv",
+    "date": "2026-10-15",
+    "abstract": "Loratadine (LOR) is a poorly water-soluble antihistaminic drug whose solubility can be significantly enhanced in water and biorelevant media through inclusion complexation with β-cyclodextrins (β-CDs), as we have shown previously. In this work, we investigated the biopharmaceutical properties and chemical stability of LOR : β-CDs 1 : 1 and 1 : 2 co",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42889714/",
+    "category": "Chromatography"
+  },
+  {
+    "title": "Antibody-Drug Conjugate Manufacturing: Facility Design, Process Safety, and Regulatory Considerations.",
+    "authors": "Harp A",
+    "journal": "AAPS PharmSciTech",
+    "date": "2026-10-13",
+    "abstract": "This paper presents an in-depth examination of the manufacturing, formulation, and fill/finish processes for traditional antibody-drug conjugates (ADCs), with particular emphasis on cytotoxic ADCs and the unique risks associated with their production. ADCs inherent toxicity demands rigorous facility and equipment design, proactive risk assessment, ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42867729/",
+    "category": "Novel Modalities"
+  },
+  {
+    "title": "Impact of basal media and feeds on CHO cell cultures: a full factorial experiment implicating tryptophan in medium-feed antagonism.",
+    "authors": "Kalkova D, Maximova P, Kolokhina A, et al.",
+    "journal": "Bioprocess Biosyst Eng",
+    "date": "2026-10-12",
+    "abstract": "Chinese Hamster Ovary (CHO) cells are the top choice for recombinant protein production in modern biomanufacturing. Selecting the optimal basal media and feeds during the upstream process development is vital for the target product yield and quality, an irrational screening strategy might often result in inefficiencies and development delays. Here ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42862297/",
+    "category": "Mass Spectrometry"
+  },
+  {
+    "title": "Screening of Unexplored FDA-approved Inactive Ingredients as Stabilizers for Monoclonal Antibody Products.",
+    "authors": "Agrawal D, Mittal C, Mishra A, et al.",
+    "journal": "Pharm Res",
+    "date": "2026-10-12",
+    "abstract": "Monoclonal antibodies (mAbs) are susceptible to physical and chemical degradation, which can compromise product quality, efficacy, safety, and shelf life. Although excipients play a critical role in stabilizing mAb formulations, only a limited number are routinely used in marketed products. Therefore, this study aimed to identify underexplored FDA-",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42864475/",
+    "category": "Chromatography"
   },
   {
     "title": "Immunogenicity of biologics delivered in the subcutaneous space: Delineating the contributing factors.",
@@ -63,6 +144,15 @@
     "category": "Stability"
   },
   {
+    "title": "Bench-to-Bedside Perspectives on the Development of Soluble TCR-Based Protein Biologics: Current Landscape, Control Strategy and Future Direction.",
+    "authors": "Zhang J, An H, Yu C, et al.",
+    "journal": "Int J Mol Sci",
+    "date": "2026-10-04",
+    "abstract": "Soluble T-cell receptor (TCR)-based biologics (protein-based) are an emerging class of immunotherapeutic agents that recognize antigenic peptides presented by the human leukocyte antigen (HLA) on the surface of target cells. Furthermore, they simultaneously bind to cluster of differentiation 3 (CD3) subunits on T cells, recruit T cells to target ce",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42884102/",
+    "category": "Novel Modalities"
+  },
+  {
     "title": "A landscape of sequence variants in 51 commercial antibody therapeutics.",
     "authors": "Xu G, Wu G, Cui C, et al.",
     "journal": "Antib Ther",
@@ -88,15 +178,6 @@
     "abstract": "The end-to-end characterization of a fed-batch bioprocess for expressing a non-originator version of the NISTmAb IgG1 (cNISTmAb) using NISTCHO, a high-performance CHO production cell line available as a NIST reference material (RM 8675), is described. NISTCHO was developed to support bioprocess reproducibility, cross-laboratory standardization, tec",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42822555/",
     "category": "Glycosylation"
-  },
-  {
-    "title": "High-fidelity genotyping and therapeutic oligonucleotides analysis by liquid-phase ion trap coupled with mass spectrometry.",
-    "authors": "Fu X, Hong J, Lu S, et al.",
-    "journal": "Sci Adv",
-    "date": "2026-09-25",
-    "abstract": "Rapid and accurate nucleic acid analysis is essential for disease diagnostics and drug development, yet persistent metal cation interference severely limits mass spectrometry's effectiveness. We developed a liquid-phase ion trap (LPIT) system that utilizes strong electric fields to simultaneously dissociate metal contaminants and enrich purified nu",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42777021/",
-    "category": "Mass Spectrometry"
   },
   {
     "title": "Compliance-ready workflow for antisense oligonucleotide impurity analysis without ion pairing agents.",
@@ -141,7 +222,7 @@
     "date": "2026-09-19",
     "abstract": "Chinese hamster ovary (CHO) cells are the dominant platform for monoclonal antibody (mAb) production. Despite their widespread use, an understanding of endoplasmic reticulum (ER) stress during recombinant protein production remains limited, often creating bottlenecks that hinder improvements in production titres and product quality. Because many cr",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42762339/",
-    "category": "Mass Spectrometry"
+    "category": "Glycosylation"
   },
   {
     "title": "Differential effects of N-acetylmannosamine on O-glycan sialylation of therapeutic Fc-fusion glycoproteins in CHO and HEK293 cells.",
@@ -186,7 +267,7 @@
     "date": "2026-09-07",
     "abstract": "β4-galactosylation is a critical quality attribute of therapeutic monoclonal antibodies (mAbs), enhancing complement-dependent cytotoxicity, antibody-dependent cytotoxicity, and antibody-dependent cellular phagocytosis. Despite its therapeutic importance, galactosylation remains the most variable glycosylation motif due to its sensitivity to cell c",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42705496/",
-    "category": "mAb Characterization"
+    "category": "Glycosylation"
   },
   {
     "title": "Pharmaceutical Strategies for Translating Klotho-Based Therapeutics: From Biologic Developability to Advanced Delivery Systems.",
@@ -198,15 +279,6 @@
     "category": "Stability"
   },
   {
-    "title": "Regulatory and Quality Considerations of Antibody-drug Conjugates.",
-    "authors": "Cha KJ, Rosenberg M",
-    "journal": "AAPS PharmSciTech",
-    "date": "2026-09-04",
-    "abstract": "Antibody-Drug Conjugates (ADCs) have become well-established as an important class of oncology therapeutics with 15 FDA-approved ADCs for various cancer types and hundreds more ADCs in clinical development. This chapter highlights the unique regulatory considerations for the development of ADCs in oncology given their dual nature as biologics and s",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42698054/",
-    "category": "Novel Modalities"
-  },
-  {
     "title": "Scalable Production of a De Novo SARS-CoV-2 Antiviral Miniprotein in Escherichia coli.",
     "authors": "Shin J, Kim EM, Jang JH, et al.",
     "journal": "Pharmaceutics",
@@ -216,42 +288,6 @@
     "category": "mAb Characterization"
   },
   {
-    "title": "Structural Elucidation of Fc- and Fab-Associated N-Glycans in Cetuximab Using Protein A-Assisted Domain-Resolved Glycan Profiling Using Mass Spectrometry.",
-    "authors": "Chauhan D, Shivach T, Rathore AS",
-    "journal": "J Am Soc Mass Spectrom",
-    "date": "2026-09-02",
-    "abstract": "Glycosylation of monoclonal antibodies is a key determinant of their efficacy, stability, and safety, requiring analytical methods capable of resolving site-specific heterogeneity with high sensitivity. In this work, we present a Protein A-assisted, domain-resolved glycan profiling approach for the mass spectrometry-based structural elucidation and",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42406533/",
-    "category": "Biosimilars"
-  },
-  {
-    "title": "Bridging the Gap Between Chemiluminescence Immunoassay and Liquid Chromatography-Tandem Mass Spectrometry for Infliximab Monitoring: Method Validation and Clinical Comparability Study.",
-    "authors": "Xia Y, Zhu MM, Xiao MQ, et al.",
-    "journal": "J Sep Sci",
-    "date": "2026-09-01",
-    "abstract": "Infliximab (IFX) is a cornerstone biologic for pediatric inflammatory bowel disease, where therapeutic drug monitoring (TDM) is essential but complicated by inter-platform variability. Systematic comparison of automated immunoassays with reference methods is therefore warranted. This study aimed to validate an in-house chemiluminescence immunoassay",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42667246/",
-    "category": "Mass Spectrometry"
-  },
-  {
-    "title": "Raman Spectroscopy for Characterizing Monoclonal Antibody Reduction: A Process Analytical Technology Approach for Antibody-Drug Conjugation Process Development.",
-    "authors": "Pople D, Wang Z, Kozyryev A, et al.",
-    "journal": "Pharm Res",
-    "date": "2026-09-01",
-    "abstract": "Controlled disulfide bond reduction is critical in antibody-drug conjugate (ADC) manufacturing, enabling site-specific conjugation and desired drug-to-antibody ratios. Current characterization relies on time-consuming offline capillary electrophoresis, creating bottlenecks in process development where multiple conditions must be rapidly screened. T",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42449032/",
-    "category": "Chromatography"
-  },
-  {
-    "title": "Enhancing lyophilized cake morphology in biopharmaceutical products through stepped annealing at freezing phase.",
-    "authors": "Birangal P, Lodagekar A, Pulipeta M, et al.",
-    "journal": "J Pharm Sci",
-    "date": "2026-09-01",
-    "abstract": "Lyophilization is widely used to stabilise biopharmaceuticals, yet split‑cake formation remains a challenge. Cake elegance, a critical quality attribute (CQA), is influenced by both formulation and process parameters. As biosimilar manufacturers are constrained from altering formulation composition, optimisation of process parameters becomes the pr",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42448178/",
-    "category": "Chromatography"
-  },
-  {
     "title": "Expanding Patient Access to Advanced Therapies.",
     "authors": "Guillen E, Hidalgo-Simon A",
     "journal": "BioDrugs",
@@ -259,24 +295,6 @@
     "abstract": "Advanced therapy medicinal products (ATMPs) promise transformative clinical potential, but their use remains limited by complex manufacturing, high prices, and fragmented market access. To explore the existing and potential regulatory pathways to increase access to ATMPs, we conducted a product-level analysis of ATMPs and biologic medicines submitt",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42481849/",
     "category": "Biosimilars"
-  },
-  {
-    "title": "Unmasking Glycoforms: Lectin-Based Profiling and Functional Implications of Targeted Glycosylation Knockouts in Chinese Hamster Ovary Cells.",
-    "authors": "Abascal Ruiz C, Lim SLY, Brink J, et al.",
-    "journal": "Biotechnol Bioeng",
-    "date": "2026-08-31",
-    "abstract": "Monoclonal antibody (mAb) glycosylation is a critical quality attribute that is difficult to rationally engineer and rapidly assess during cell line development. Here, we investigate whether cell-surface glycosylation can serve as a surrogate readout of mAb product glycosylation following targeted glycogene engineering in CHO cells. Five key glycog",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42670636/",
-    "category": "Glycosylation"
-  },
-  {
-    "title": "Development and optimization of a mobile affinity selection chromatography method for analysis of therapeutic monoclonal antibody aggregates in the presence of human serum albumin.",
-    "authors": "Stoa YB, Wang P",
-    "journal": "J Chromatogr B Analyt Technol Biomed Life Sci",
-    "date": "2026-08-29",
-    "abstract": "Demonstration of biological drug product quality prior to first-in-human dosing is a regulatory requirement to ensure patient safety and product performance. Protein aggregates, including dimers and higher-order species, are classified as product-related impurities and must be adequately controlled. However, conventional Size-Exclusion High-Perform",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42679766/",
-    "category": "Chromatography"
   },
   {
     "title": "Stable Constitutive BiP Expression Prolongs Late-Stage GLP-1-Fc Accumulation in CHO Cells.",
@@ -297,15 +315,6 @@
     "category": "Bioassays"
   },
   {
-    "title": "Structural insights into antibody-antibody interactions in sandwich ELISA: implications for assay development and performance.",
-    "authors": "Su Y, Zhao B, Moon Y, et al.",
-    "journal": "Anal Bioanal Chem",
-    "date": "2026-08-13",
-    "abstract": "The enzyme-linked immunosorbent assay (ELISA) is a widely utilized immunoassay technique in biopharmaceutical drug development due to its high sensitivity and specificity. Optimizing assay performance necessitates addressing challenges that arise during method development, particularly the selection of compatible monoclonal antibody (mAb) pairs for",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42595901/",
-    "category": "Chromatography"
-  },
-  {
     "title": "A rapid and high-throughput biotechnology quantifies major glycoforms of human IgG1 mAb drugs.",
     "authors": "Matsumoto Y, Zhou L, Ohno S, et al.",
     "journal": "Trends Biotechnol",
@@ -315,15 +324,6 @@
     "category": "Biosimilars"
   },
   {
-    "title": "Qualification and Implementation of a Robust Multi-Attribute Method Platform Across Multiple Laboratories for High-Resolution Process Characterization of Biopharmaceutical Products.",
-    "authors": "Griaud F, Merkle PS, Ritter J, et al.",
-    "journal": "Pharmaceuticals (Basel)",
-    "date": "2026-07-24",
-    "abstract": "Background/Objectives: Process characterization (PC) of biopharmaceutical products is intended to identify critical process parameters (CPPs) based on their impact on critical quality attributes (CQAs), as well as to define acceptable process parameter ranges to ensure consistent product quality and process performance. However, conventional analyt",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42653647/",
-    "category": "Glycosylation"
-  },
-  {
     "title": "From anti-drug antibody incidence to clinical relevance: interpreting highly sensitive immunogenicity assays in biosimilars.",
     "authors": "Krishnan A, Bp S, Mehta G, et al.",
     "journal": "Bioanalysis",
@@ -331,6 +331,15 @@
     "abstract": "Highly sensitive anti-drug antibody (ADA) assays in biosimilar comparative trials can generate high apparent positivity clustered near decision thresholds without corresponding clinical impact. Using approved biosimilars of ustekinumab and denosumab, this work retrospectively examines alternate analytical strategies to improve the biological interp",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42643157/",
     "category": "Biosimilars"
+  },
+  {
+    "title": "Second-generation lectin microarray for high throughput glycan profiling of therapeutic antibodies.",
+    "authors": "Hess K, Yun H, Luo S, et al.",
+    "journal": "AAPS Open",
+    "date": "2026-06-08",
+    "abstract": "N-linked glycosylation is a critical quality attribute of therapeutic monoclonal antibodies (mAbs), influencing efficacy, safety, and pharmacokinetics. Accurate and high-throughput glycan profiling is therefore critical for product quality and manufacturing consistency. Here, we evaluated a novel lectin microarray platform for the detection of glyc",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42890387/",
+    "category": "mAb Characterization"
   },
   {
     "title": "Importance in optimization of sample volume in the IgG-immunoaffinity UPLC-MS/MS assay for quantification of a therapeutic antibody in monkey serum.",
@@ -369,15 +378,6 @@
     "category": "Bioassays"
   },
   {
-    "title": "Absolute and Relative Quantification of Glycation on Biotherapeutic IgGs Using Heavy Isotope-Labeled Proteins.",
-    "authors": "Priya S, Popov M, Orlando R",
-    "journal": "J Biomol Tech",
-    "date": "2026-01-01",
-    "abstract": "Post-translational modifications (PTMs), such as glycation, can be introduced during the manufacturing and storage of therapeutic proteins, including monoclonal antibodies (mAbs). Glycation modification may alter the safety and efficacy of therapeutic drugs, thus necessitating their accurate quantification. Relative quantitation is typically perfor",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42694860/",
-    "category": "Mass Spectrometry"
-  },
-  {
     "title": "Glycoengineering of Monoclonal Antibodies with Homogeneous Glycan Isomers with Asymmetric Antennae.",
     "authors": "Tam RY, Hatfield G, Tepliakova L",
     "journal": "Methods Mol Biol",
@@ -412,23 +412,5 @@
     "abstract": "Constructing expression cell lines using site-specific integration (SSI) technology has become a prominent focus in cell line development (CLD) because of its potential to minimize clonal variation. However, this technology has not yet been widely adopted in commercial biopharmaceutical manufacturing. A major reason is the low yield of SSI-derived ",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42781470/",
     "category": "Novel Modalities"
-  },
-  {
-    "title": "Development of Freeze-Dried Formulations for Biopharmaceutical Drug Products Using a Design of Experiments Approach: A Case Study on Antibody-Drug Conjugates.",
-    "authors": "Harguindeguy M, Hawe A, Menzen T",
-    "journal": "Methods Mol Biol",
-    "date": "2026-01-01",
-    "abstract": "The successful development of a lyophilized biopharmaceutical formulation relies on a systematic, science- and risk-based approach. By using a mock antibody-drug conjugate (ADC) as an example, this chapter outlines a structured pathway beginning with the definition of the quality target product profile (QTPP) and a thorough understanding of the act",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42732526/",
-    "category": "Novel Modalities"
-  },
-  {
-    "title": "Real-time and label-free monitoring of monoclonal antibody secretion rates using a PC-TIR biosensor.",
-    "authors": "Khorsandi D, Yang JW, Trabucco L, et al.",
-    "journal": "Biosens Bioelectron",
-    "date": "2025-12-15",
-    "abstract": "The growing demand for monoclonal antibodies (mAbs) in biomedical applications requires efficient biomanufacturing processes with real-time monitoring capabilities to maximize production outputs cost-effectively. Currently, mAb production monitoring relies on end-point assays that fail to capture the real-time dynamics of mAb secretion. This study ",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/40966889/",
-    "category": "Bioassays"
   }
 ]
