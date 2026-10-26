@@ -1,12 +1,21 @@
 [
   {
-    "title": "Development and optimization of a mobile affinity selection chromatography method for analysis of therapeutic monoclonal antibody aggregates in the presence of human serum albumin.",
-    "authors": "Stoa YB, Wang P",
-    "journal": "J Chromatogr B Analyt Technol Biomed Life Sci",
+    "title": "Development and validation of a mechanism-based Ba/F3-hGHR bioassay for the potency assessment of recombinant human growth hormone.",
+    "authors": "Luo T, Guo C, Feng X, et al.",
+    "journal": "Anal Biochem",
+    "date": "2027-01-01",
+    "abstract": "The biological potency of recombinant human growth hormone (rhGH) is a critical quality attribute (CQA) for ensuring clinical efficacy. However, current pharmacopoeial methods, such as the USP in vitro Nb2-11 cell proliferation assay, lack specificity as they measure lactogenic activity via prolactin receptors rather than the growth hormone recepto",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42660265/",
+    "category": "Bioassays"
+  },
+  {
+    "title": "Differential effects of N-acetylmannosamine on O-glycan sialylation of therapeutic Fc-fusion glycoproteins in CHO and HEK293 cells.",
+    "authors": "Kim TH, Kim HS, You J, et al.",
+    "journal": "J Biotechnol",
     "date": "2026-12-01",
-    "abstract": "Demonstration of biological drug product quality prior to first-in-human dosing is a regulatory requirement to ensure patient safety and product performance. Protein aggregates, including dimers and higher-order species, are classified as product-related impurities and must be adequately controlled. However, conventional Size-Exclusion High-Perform",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42679766/",
-    "category": "Chromatography"
+    "abstract": "Sialylation is a critical quality attribute of therapeutic glycoproteins, yet strategies to specifically modulate O-glycan sialylation remain underdeveloped compared to N-glycosylation. While N-acetylmannosamine (ManNAc) is widely utilized as an established enhancer of N-glycan sialylation, its efficacy in modulating O-glycan structures has remaine",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42753818/",
+    "category": "Glycosylation"
   },
   {
     "title": "Deciphering complex charge heterogeneity in a glycosylated monoclonal antibody by integrated icIEF-MS and enzymatic digestion system.",
@@ -18,13 +27,31 @@
     "category": "mAb Characterization"
   },
   {
-    "title": "Structural insights into antibody-antibody interactions in sandwich ELISA: implications for assay development and performance.",
-    "authors": "Su Y, Zhao B, Moon Y, et al.",
-    "journal": "Anal Bioanal Chem",
-    "date": "2026-11-01",
-    "abstract": "The enzyme-linked immunosorbent assay (ELISA) is a widely utilized immunoassay technique in biopharmaceutical drug development due to its high sensitivity and specificity. Optimizing assay performance necessitates addressing challenges that arise during method development, particularly the selection of compatible monoclonal antibody (mAb) pairs for",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42595901/",
+    "title": "Size exclusion chromatography as a characterization tool for quality control of marine biopharmaceutical keyhole limpet hemocyanin.",
+    "authors": "Cermakova P, Majerova P, Kovac A, et al.",
+    "journal": "Acta Pharm",
+    "date": "2026-10-23",
+    "abstract": "Keyhole limpet hemocyanin is a large metalloprotein present in hemolymph of the mollusk Megathura crenulata. This protein is highly immunogenic, making it very attractive to the biopharmaceutical industry, where it is used as a carrier protein for haptens, an adjuvant, or as a stand-alone biologic for the treatment of various cancer diseases. The s",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42925052/",
     "category": "Chromatography"
+  },
+  {
+    "title": "In-Use Stability of Oncology Antibody Therapeutics: Risks, Analytical Strategies, and Regulatory Perspectives.",
+    "authors": "Montefusco-Pereira CV",
+    "journal": "PDA J Pharm Sci Technol",
+    "date": "2026-10-23",
+    "abstract": "Oncology antibody therapeutics, including monoclonal antibodies (mAbs), antibody-drug conjugates (ADCs), and multispecific antibodies, are therapeutically important yet physicochemically complex drug products. Their clinical performance depends on preserving structural and functional integrity throughout preparation and administration. Transfer fro",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42919676/",
+    "category": "Novel Modalities"
+  },
+  {
+    "title": "Organic Cosolvent-Free Antibody-Drug Conjugation Enabled by Hydrophilic Linker-Payloads.",
+    "authors": "Matsuda Y, Cheng H, Hartung J, et al.",
+    "journal": "ACS Omega",
+    "date": "2026-10-20",
+    "abstract": "Bioconjugation of linker-payloads (LPs) to antibodies has historically relied on organic cosolvents or surfactants to overcome the poor aqueous solubility of cytotoxic payloadsan assumption that has remained largely unquestioned in antibody-drug conjugate (ADC) manufacturing. Here, we systematically re-evaluate this paradigm by characterizing the ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42924133/",
+    "category": "Stability"
   },
   {
     "title": "Bioanalytical assays for clinical similarity assessment of biotherapeutics: evolving platforms and regulatory considerations.",
@@ -34,6 +61,15 @@
     "abstract": "The rapid expansion of biosimilars following the patent expiry of biologic therapies has increased the need for robust bioanalytical strategies capable of supporting biosimilarity assessment and regulatory decision-making. Within the totality-of-evidence framework, bioanalytical assays play a pivotal role in generating comparative pharmacokinetic (",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42894407/",
     "category": "Mass Spectrometry"
+  },
+  {
+    "title": "Electrostatic inversion in pH-gradient antigen affinity chromatography: The selectivity bias for deamidated trastuzumab proteoforms.",
+    "authors": "Lippold S, Sastry S, Whang K, et al.",
+    "journal": "J Chromatogr A",
+    "date": "2026-10-17",
+    "abstract": "Affinity chromatography hyphenated to mass spectrometry (AC-MS) has emerged as a powerful technology for the simultaneous structural and functional characterization of therapeutic antibodies. However, the reliance on pH gradients in AC raises fundamental questions regarding the accurate ranking of proteoforms, in particular for target interactions ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42925825/",
+    "category": "mAb Characterization"
   },
   {
     "title": "Engineering Chlamydomonas reinhardtii as a microalgal cell factory for recombinant human serum albumin production.",
@@ -61,6 +97,15 @@
     "abstract": "Loratadine (LOR) is a poorly water-soluble antihistaminic drug whose solubility can be significantly enhanced in water and biorelevant media through inclusion complexation with β-cyclodextrins (β-CDs), as we have shown previously. In this work, we investigated the biopharmaceutical properties and chemical stability of LOR : β-CDs 1 : 1 and 1 : 2 co",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42889714/",
     "category": "Chromatography"
+  },
+  {
+    "title": "Middle-Down Mass Spectrometry Characterization of Monoclonal Antibody Enabled by Electron-Activated Dissociation on a Time-of-Flight Platform: A Case Study of Methionine Oxidation PTM Identification and Quantification.",
+    "authors": "Akinloye A, Donnellan L, Mittal P, et al.",
+    "journal": "Anal Chem",
+    "date": "2026-10-13",
+    "abstract": "Characterizing post-translational modifications (PTMs) in monoclonal antibody products is critical for ensuring product quality attributes understanding and monitoring. While the bottom-up approach is widely adopted, it suffers from the loss of molecular connectivity and is susceptible to artifact generation. Conversely, top-down approaches face li",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42916135/",
+    "category": "Mass Spectrometry"
   },
   {
     "title": "Antibody-Drug Conjugate Manufacturing: Facility Design, Process Safety, and Regulatory Considerations.",
@@ -117,6 +162,15 @@
     "category": "Novel Modalities"
   },
   {
+    "title": "Identification of the Root Cause of Visible Particle Formation in a Therapeutic Monoclonal Antibody by LC-MS-Based Approaches.",
+    "authors": "Lim A, Werner AG, Doyle BL, et al.",
+    "journal": "Mol Pharm",
+    "date": "2026-10-05",
+    "abstract": "Visible particles were observed for a therapeutic monoclonal antibody at pH 5.5. This pH was considered optimal for this antibody during preclinical development. To minimize the particle formation, the pH of the final drug substance was increased to 6.5. There were no visible particles at pH 6.5 initially, but visible particles started to form afte",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42906176/",
+    "category": "Mass Spectrometry"
+  },
+  {
     "title": "GlycoMAC: A Multiscale Metabolic-Glycosylation Framework for Predicting Glycosylation Across Conditions in Mammalian Cell Cultures.",
     "authors": "Zeng Y, Harcum SW, Pei J, et al.",
     "journal": "Biotechnol Bioeng",
@@ -153,22 +207,13 @@
     "category": "Novel Modalities"
   },
   {
-    "title": "A landscape of sequence variants in 51 commercial antibody therapeutics.",
-    "authors": "Xu G, Wu G, Cui C, et al.",
-    "journal": "Antib Ther",
-    "date": "2026-10-01",
-    "abstract": "Sequence variants (SVs), unintended amino acid substitutions, represent a quality attribute of antibody therapeutics with potential safety and efficacy implications. Although control strategies are evolving, a comprehensive landscape of SVs in commercial antibody products, including biosimilars, innovators, and those from different expression syste",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42824786/",
+    "title": "Integrated Effects of Digestion Strategy and LC Gradient Architecture Define Host Cell Protein Detectability in CHO Null Harvests.",
+    "authors": "Tank P, D'Souza F, Nagarajan K, et al.",
+    "journal": "J Proteome Res",
+    "date": "2026-10-02",
+    "abstract": "Accurate characterization of host cell proteins (HCPs) is critical for biologics development, yet analytical outcomes are strongly influenced by the digestion strategy and chromatographic design. Here, we systematically evaluated digestion parameters, including digestion mode, enzyme ratio, and incubation time, together with LC-MS gradient architec",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42918119/",
     "category": "Mass Spectrometry"
-  },
-  {
-    "title": "Engineering High-Performance Inhalable Monoclonal Antibody Powders via Spray Freeze Drying.",
-    "authors": "Pasero L, Sulpizi A, Pinetti E, et al.",
-    "journal": "Eur J Pharm Biopharm",
-    "date": "2026-10-01",
-    "abstract": "Spray freeze-drying (SFD) is a cutting-edge technique for producing dry powders, ideal for pulmonary drug delivery, owing to its ability to generate porous microparticles with low density and excellent aerodynamic properties. The SFD process, involving atomisation, freezing, and drying, is particularly suited for formulating biologics, e.g., monocl",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42546983/",
-    "category": "Chromatography"
   },
   {
     "title": "A benchmark fed-batch bioprocess for production of cNISTmAb using NISTCHO.",
@@ -180,6 +225,15 @@
     "category": "Glycosylation"
   },
   {
+    "title": "A landscape of sequence variants in 51 commercial antibody therapeutics.",
+    "authors": "Xu G, Wu G, Cui C, et al.",
+    "journal": "Antib Ther",
+    "date": "2026-10-01",
+    "abstract": "Sequence variants (SVs), unintended amino acid substitutions, represent a quality attribute of antibody therapeutics with potential safety and efficacy implications. Although control strategies are evolving, a comprehensive landscape of SVs in commercial antibody products, including biosimilars, innovators, and those from different expression syste",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42824786/",
+    "category": "Biosimilars"
+  },
+  {
     "title": "Compliance-ready workflow for antisense oligonucleotide impurity analysis without ion pairing agents.",
     "authors": "Millán-Martín S, Mistarz UH, Guapo F, et al.",
     "journal": "J Pharm Biomed Anal",
@@ -187,15 +241,6 @@
     "abstract": "In recent years, ion pair-free analytical approaches have gained increasing attention with the aim of mitigating the limitations and drawbacks of ion pair reversed phase chromatography for the characterization of therapeutic oligonucleotides and adherence to green chemistry principles. There is a growing interest in developing ion pair-free strateg",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42815115/",
     "category": "Chromatography"
-  },
-  {
-    "title": "Verification of novel CFD-based scale-down devices against 5 L bottles for freezing and thawing of protein drug substance: Thermal histories, concentration shifts, ice-liquid interfacial area, and stability prediction.",
-    "authors": "Nagel R, Hauptmann A, Tober R, et al.",
-    "journal": "J Pharm Sci",
-    "date": "2026-09-23",
-    "abstract": "Large-scale freezing and thawing of biopharmaceutical drug substance creates spatially heterogeneous stresses that are challenging to replicate and predict during process- and formulation development using traditional scale-down methods. In this study, we assessed the ability of two novel computational fluid dynamics-based scale-down devices (SDDs)",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42772678/",
-    "category": "Stability"
   },
   {
     "title": "Lipid-based formulations enhance the apparent intestinal permeability of BGP-15: physicochemical characterization and Caco-2 transport studies.",
@@ -225,15 +270,6 @@
     "category": "Glycosylation"
   },
   {
-    "title": "Differential effects of N-acetylmannosamine on O-glycan sialylation of therapeutic Fc-fusion glycoproteins in CHO and HEK293 cells.",
-    "authors": "Kim TH, Kim HS, You J, et al.",
-    "journal": "J Biotechnol",
-    "date": "2026-09-17",
-    "abstract": "Sialylation is a critical quality attribute of therapeutic glycoproteins, yet strategies to specifically modulate O-glycan sialylation remain underdeveloped compared to N-glycosylation. While N-acetylmannosamine (ManNAc) is widely utilized as an established enhancer of N-glycan sialylation, its efficacy in modulating O-glycan structures has remaine",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42753818/",
-    "category": "mAb Characterization"
-  },
-  {
     "title": "Effects of Siliconization Techniques, Headspace, Mechanical and Thermal Stress on Particle Generation in an Antibody Formulation.",
     "authors": "Lucas A, Tripathi DK, Bespalova A, et al.",
     "journal": "Pharm Res",
@@ -249,7 +285,16 @@
     "date": "2026-09-16",
     "abstract": "Background: Human serum albumin (HSA) is a critical therapeutic protein with widespread clinical applications. Despite standardised manufacturing protocols, quality variations between HSA preparations are poorly characterised. Objective: To comprehensively characterise five commercial plasma-derived albumin preparations (VIALEBEX®, ALBUNORM®, ALBUR",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42797515/",
-    "category": "Mass Spectrometry"
+    "category": "Chromatography"
+  },
+  {
+    "title": "Sensitive and Robust Capillary Electrophoretic Analysis of Host Cell Residual DNA in Biopharmaceutical Samples.",
+    "authors": "Taylor LN, Gillespie PF, Rustandi RR, et al.",
+    "journal": "Anal Chem",
+    "date": "2026-09-15",
+    "abstract": "Host cell residual DNA (rDNA) is a critical process-related impurity in biopharmaceutical production, involving trace amounts of DNA fragments originating from yeast, bacteria, CHO (Chinese hamster ovary), and other host cells. Monitoring both the size and quantity of rDNA is essential because of potential safety risks, including oncogenicity and i",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42915239/",
+    "category": "Chromatography"
   },
   {
     "title": "Protein Therapeutic Quality Control Using Multi-Attribute Method (MAM): Challenges and Current Practice in cGMP Environments.",
@@ -304,15 +349,6 @@
     "abstract": "Chinese hamster ovary (CHO) cells are the principal platform for manufacturing recombinant biopharmaceuticals, but sustained production can exceed the protein-folding capacity of the endoplasmic reticulum (ER). Binding immunoglobulin protein (BiP/GRP78), encoded by Hspa5, is a major ER chaperone that supports folding and modulates unfolded protein ",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42791873/",
     "category": "Novel Modalities"
-  },
-  {
-    "title": "Development and validation of a mechanism-based Ba/F3-hGHR bioassay for the potency assessment of recombinant human growth hormone.",
-    "authors": "Feng J, Luo T, Guo C, et al.",
-    "journal": "Anal Biochem",
-    "date": "2026-08-27",
-    "abstract": "The biological potency of recombinant human growth hormone (rhGH) is a critical quality attribute (CQA) for ensuring clinical efficacy. However, current pharmacopoeial methods, such as the USP in vitro Nb2-11 cell proliferation assay, lack specificity as they measure lactogenic activity via prolactin receptors rather than the growth hormone recepto",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42660265/",
-    "category": "Bioassays"
   },
   {
     "title": "A rapid and high-throughput biotechnology quantifies major glycoforms of human IgG1 mAb drugs.",
@@ -403,14 +439,5 @@
     "abstract": "In a recent study, we created and analyzed a novel dataset of US biologics manufacturing patents held by nine leading firms that produce originator therapeutic proteins. Here, we expand our data and analysis to encompass not simply US patents but also their family members, with the total set constituting a substantially broader group of patents hel",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42602591/",
     "category": "Biosimilars"
-  },
-  {
-    "title": "Synthetic promoters developed through a site-specific integration system enhance antibody expression in fed-batch culture.",
-    "authors": "Yue L, Li H, Zhou S",
-    "journal": "Eng Life Sci",
-    "date": "2026-01-01",
-    "abstract": "Constructing expression cell lines using site-specific integration (SSI) technology has become a prominent focus in cell line development (CLD) because of its potential to minimize clonal variation. However, this technology has not yet been widely adopted in commercial biopharmaceutical manufacturing. A major reason is the low yield of SSI-derived ",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42781470/",
-    "category": "Novel Modalities"
   }
 ]
