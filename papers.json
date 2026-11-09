@@ -18,6 +18,15 @@
     "category": "mAb Characterization"
   },
   {
+    "title": "Direct infusion intact mass spectrometry for rapid and sensitive characterization of antibody therapeutics in complex matrices.",
+    "authors": "Kristensen DB, Beck A, Coll-Satue C, et al.",
+    "journal": "MAbs",
+    "date": "2026-12-01",
+    "abstract": "Native intact mass spectrometry (MS) is essential for resolving the structural heterogeneity of complex biotherapeutics. Traditionally, intact MS combines online chromatography (e.g. ion-exchange chromatography or size-exclusion chromatography). Here, we report an MS-centric, column-free direct infusion MS workflow that combines high-throughput off",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42993286/",
+    "category": "Mass Spectrometry"
+  },
+  {
     "title": "Differential effects of N-acetylmannosamine on O-glycan sialylation of therapeutic Fc-fusion glycoproteins in CHO and HEK293 cells.",
     "authors": "Kim TH, Kim HS, You J, et al.",
     "journal": "J Biotechnol",
@@ -25,6 +34,60 @@
     "abstract": "Sialylation is a critical quality attribute of therapeutic glycoproteins, yet strategies to specifically modulate O-glycan sialylation remain underdeveloped compared to N-glycosylation. While N-acetylmannosamine (ManNAc) is widely utilized as an established enhancer of N-glycan sialylation, its efficacy in modulating O-glycan structures has remaine",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42753818/",
     "category": "Biosimilars"
+  },
+  {
+    "title": "Advancing Host Cell Protein Characterization in Monoclonal Antibody Therapeutics: A Nanoparticle-Enriched and High-Sensitivity Mass Spectrometry Approach.",
+    "authors": "Akinloye A, Ramarathinam S, Mittal P, et al.",
+    "journal": "J Proteome Res",
+    "date": "2026-11-06",
+    "abstract": "Host cell protein (HCP) characterization in monoclonal antibody (mAb) products is challenged by a large concentration gap between low-abundance HCPs and high-abundance mAb proteins. Advances in sample preparation, chromatography, and mass spectrometry techniques have aimed at either reducing this concentration imbalance or the peptide coelution eff",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42992892/",
+    "category": "Mass Spectrometry"
+  },
+  {
+    "title": "Regulatory landscape for inhaled biologics: Considerations and guidelines.",
+    "authors": "Duggal I, Warnken Z, Nair V, et al.",
+    "journal": "Adv Drug Deliv Rev",
+    "date": "2026-11-05",
+    "abstract": "Despite significant scientific interest, only a small number of inhaled biologics have reached regulatory approval, reflecting the complex interplay between the inherent structural fragility of biologics during the aerosolization steps intrinsic to inhaled administration and the absence of inhalation-specific regulatory guidance. This review examin",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42987978/",
+    "category": "Stability"
+  },
+  {
+    "title": "Evaluating Immunogenicity Potential of Host Cell Proteins: Unveiling Novel Insights and Risks by LC-MS/MS MHC-Associated Peptide Profiling.",
+    "authors": "E SY, Hu Y, Qiu H, et al.",
+    "journal": "AAPS J",
+    "date": "2026-11-04",
+    "abstract": "Host cell proteins (HCPs) are process-related impurities that may persist in therapeutic protein products and can impact product quality or trigger unwanted immunogenicity responses. The immunogenicity potential of individual HCPs can be assessed using in silico approaches or T cell-based assays. Recently, LC-MS/MS-based major histocompatibility co",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42983130/",
+    "category": "Mass Spectrometry"
+  },
+  {
+    "title": "From laboratory to scalable manufacturing: Comparative analysis of thin film hydration, microfluidics, and impingement jets mixing.",
+    "authors": "Saudelli A, Carnaroli M, Demirtas V, et al.",
+    "journal": "Int J Pharm",
+    "date": "2026-11-04",
+    "abstract": "Lipid-based nanocarriers have established themselves as a cornerstone of modern drug delivery, offering a versatile platform for the encapsulation of diverse therapeutic payloads. Their utility spans from small hydrophobic and hydrophilic molecules to complex, high-molecular-weight biologics, such as proteins and nucleic acids. Although many manufa",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42977179/",
+    "category": "Stability"
+  },
+  {
+    "title": "Roles of Bioassay Subject Matter Experts in Developing Potency Methods and Managing Chemistry, Manufacturing, and Controls Deliverables.",
+    "authors": "Beyrouthy MJ",
+    "journal": "Mol Pharm",
+    "date": "2026-11-02",
+    "abstract": "Bioassay subject matter experts (SMEs) play an increasingly important role in chemistry, manufacturing, and controls (CM&C) organizations as biologic therapeutics become more complex. This review describes how bioassay SMEs support potency method development and CM&C deliverables from early discovery through commercialization. As therapeutic modali",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42969701/",
+    "category": "Bioassays"
+  },
+  {
+    "title": "Poloxamer 188 Promotes Severe Aggregation of Insulin under Shaking Conditions.",
+    "authors": "Ding ZL, Gao H, Xu ZT, et al.",
+    "journal": "Mol Pharm",
+    "date": "2026-11-02",
+    "abstract": "Insulin is an indispensable cornerstone in the management of diabetes mellitus, yet its extreme susceptibility to aggregation under mechanical stress remains a formidable challenge for long-term formulation stability. This study investigates the potential of Poloxamer 188 (P188) as a chemically stable alternative to the industry-standard Polysorbat",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42969745/",
+    "category": "Stability"
   },
   {
     "title": "Advancing biophysics: semi-automated monitoring of protein aggregation kinetics to complement development of biopharmaceutics.",
@@ -60,15 +123,6 @@
     "date": "2026-10-29",
     "abstract": "This study establishes a gel electrophoresis-based intrinsic fluorescence imaging (GE-IFI) method for dye-free detection of protein samples in complex buffer systems. The method utilizes the intrinsic fluorescence of proteins, primarily from tryptophan residues, as the signal source, avoiding the system dependence of extrinsic colorimetric reaction",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42956898/",
-    "category": "Chromatography"
-  },
-  {
-    "title": "Functional evaluation of loratadine-cyclodextrin complexes: comprehensive solid-state characterisation, biopharmaceutical assessment and stability profiling.",
-    "authors": "Pocrnić M, Potrzebowski MJ, Jug M, et al.",
-    "journal": "RSC Adv",
-    "date": "2026-10-29",
-    "abstract": "Loratadine (LOR) is a poorly water-soluble antihistaminic drug whose solubility can be significantly enhanced in water and biorelevant media through inclusion complexation with β-cyclodextrins (β-CDs), as we have shown previously. In this work, we investigated the biopharmaceutical properties and chemical stability of LOR : β-CDs 1 : 1 and 1 : 2 co",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42889714/",
     "category": "Chromatography"
   },
   {
@@ -198,57 +252,12 @@
     "category": "Glycosylation"
   },
   {
-    "title": "The Stability-Release Paradox in Long-Acting Peptide and Protein Delivery: A Review of Material-Cargo Compatibility and Therapeutic Integrity.",
-    "authors": "Mumtaz S, Afzal AM",
-    "journal": "Pharmaceutics",
-    "date": "2026-10-15",
-    "abstract": "Long-acting peptide and protein delivery requires more than prolonged release; the therapeutic must remain chemically, physically, structurally, and functionally competent throughout processing, depot residence, and release. This review examines the stability-release paradox, in which material features introduced to extend residence can also alter ",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42942837/",
-    "category": "Stability"
-  },
-  {
-    "title": "Antibody-Drug Conjugate Manufacturing: Facility Design, Process Safety, and Regulatory Considerations.",
-    "authors": "Harp A",
-    "journal": "AAPS PharmSciTech",
-    "date": "2026-10-13",
-    "abstract": "This paper presents an in-depth examination of the manufacturing, formulation, and fill/finish processes for traditional antibody-drug conjugates (ADCs), with particular emphasis on cytotoxic ADCs and the unique risks associated with their production. ADCs inherent toxicity demands rigorous facility and equipment design, proactive risk assessment, ",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42867729/",
-    "category": "Novel Modalities"
-  },
-  {
-    "title": "Screening of Unexplored FDA-approved Inactive Ingredients as Stabilizers for Monoclonal Antibody Products.",
-    "authors": "Agrawal D, Mittal C, Mishra A, et al.",
-    "journal": "Pharm Res",
-    "date": "2026-10-12",
-    "abstract": "Monoclonal antibodies (mAbs) are susceptible to physical and chemical degradation, which can compromise product quality, efficacy, safety, and shelf life. Although excipients play a critical role in stabilizing mAb formulations, only a limited number are routinely used in marketed products. Therefore, this study aimed to identify underexplored FDA-",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42864475/",
-    "category": "Chromatography"
-  },
-  {
     "title": "Qualification of Targeted Attribute Quantitation and New Peak Detection for Automated Multi-Attribute Method Workflows Using Liquid Handling Systems.",
     "authors": "Chang K, Cao Q, Cai C, et al.",
     "journal": "Pharmaceuticals (Basel)",
     "date": "2026-10-09",
     "abstract": "Background/Objectives: The Multi-Attribute Method (MAM) uses LC-MS peptide mapping for targeted attribute quantitation (TAQ) and untargeted New Peak Detection (NPD) in product quality monitoring and quality control of biotherapeutics. As automated liquid handling systems are adopted, data demonstrating similar performance for both TAQ and NPD are e",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42943302/",
-    "category": "mAb Characterization"
-  },
-  {
-    "title": "Impact of Aggregation on the Immunogenicity of Therapeutic Recombinant Biological Products.",
-    "authors": "Chen X, Guo S, Feng X, et al.",
-    "journal": "Pharmaceuticals (Basel)",
-    "date": "2026-10-09",
-    "abstract": "Background: Therapeutic recombinant biological products are essential in modern medicine, but their immunogenicity remains a major concern for both clinical safety and therapeutic efficacy. Protein aggregation may occur during manufacturing, storage, transportation, and administration, potentially increasing immune recognition. Here, we have review",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42943301/",
-    "category": "Stability"
-  },
-  {
-    "title": "Bubble-cell native fluorescence imaging for high-sensitivity label-free protein quantification.",
-    "authors": "Xu H, Nguyen U, Yang T",
-    "journal": "Talanta",
-    "date": "2026-10-06",
-    "abstract": "Quantification of low-abundance proteins is critical for biopharmaceutical development, proteomics, and biochemical research; however, existing methods often require trade-offs among sensitivity, sample consumption, and workflow simplicity. Ultraviolet (UV) absorbance at 280 nm remains the most widely used method for routine protein quantification ",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42849313/",
     "category": "mAb Characterization"
   },
   {
@@ -259,15 +268,6 @@
     "abstract": "Background: Surface-active excipients such as polysorbate 20 (PS20), polysorbate 80 (PS80), poloxamer 188 (Px188), and cyclodextrin (CD) are widely used to stabilize IgG formulations, including aerosols. However, their effects on transepithelial IgG transport and the reliability of associated analytical readouts remain poorly understood. Methods: T",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42942794/",
     "category": "Chromatography"
-  },
-  {
-    "title": "Next-Generation Glutamine Synthetase Expression Vector for Therapeutic Protein Manufacturing Using CHO Cells.",
-    "authors": "Johari YB, Wensley SJ, Ammar MA, et al.",
-    "journal": "Biotechnol Bioeng",
-    "date": "2026-10-06",
-    "abstract": "The glutamine synthetase expression system is widely used for therapeutic protein biomanufacturing in Chinese hamster ovary (CHO) cells. Here, we present the design of an enhanced glutamine synthetase vector for generating CHOK1SV GS-KO stable pools that produce recombinant proteins at multigram-per-liter levels. We first developed a synthetic prom",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42834783/",
-    "category": "Novel Modalities"
   },
   {
     "title": "Identification of the Root Cause of Visible Particle Formation in a Therapeutic Monoclonal Antibody by LC-MS-Based Approaches.",
@@ -304,15 +304,6 @@
     "abstract": "Soluble T-cell receptor (TCR)-based biologics (protein-based) are an emerging class of immunotherapeutic agents that recognize antigenic peptides presented by the human leukocyte antigen (HLA) on the surface of target cells. Furthermore, they simultaneously bind to cluster of differentiation 3 (CD3) subunits on T cells, recruit T cells to target ce",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42884102/",
     "category": "Novel Modalities"
-  },
-  {
-    "title": "Integrated Effects of Digestion Strategy and LC Gradient Architecture Define Host Cell Protein Detectability in CHO Null Harvests.",
-    "authors": "Tank P, D'Souza F, Nagarajan K, et al.",
-    "journal": "J Proteome Res",
-    "date": "2026-10-02",
-    "abstract": "Accurate characterization of host cell proteins (HCPs) is critical for biologics development, yet analytical outcomes are strongly influenced by the digestion strategy and chromatographic design. Here, we systematically evaluated digestion parameters, including digestion mode, enzyme ratio, and incubation time, together with LC-MS gradient architec",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42918119/",
-    "category": "Mass Spectrometry"
   },
   {
     "title": "Hydrophilic Interaction Liquid Chromatography Enables Drug-to-Antibody Ratio Measurement of a Heterogeneous Lysine-Conjugated Antibody Fragment.",
@@ -384,16 +375,7 @@
     "date": "2026-06-08",
     "abstract": "N-linked glycosylation is a critical quality attribute of therapeutic monoclonal antibodies (mAbs), influencing efficacy, safety, and pharmacokinetics. Accurate and high-throughput glycan profiling is therefore critical for product quality and manufacturing consistency. Here, we evaluated a novel lectin microarray platform for the detection of glyc",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42890387/",
-    "category": "mAb Characterization"
-  },
-  {
-    "title": "Importance in optimization of sample volume in the IgG-immunoaffinity UPLC-MS/MS assay for quantification of a therapeutic antibody in monkey serum.",
-    "authors": "Kita K, Mano Y",
-    "journal": "J Pharm Biomed Anal",
-    "date": "2026-04-15",
-    "abstract": "E6011 is a novel monoclonal antibody developed for the treatment of rheumatoid arthritis. Ultra-performance liquid chromatography coupled with tandem mass spectrometry (UPLC-MS/MS) has become increasingly important in the assays of therapeutic antibodies, yet achieving high sensitivity remains a major challenge. For the E6011 assay, an immunoaffini",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41506196/",
-    "category": "Bioassays"
+    "category": "Glycosylation"
   },
   {
     "title": "Analytical Development and Testing Strategy of Antibody-Drug Conjugates.",
@@ -412,6 +394,24 @@
     "abstract": "A microfluidic ligand binding assay platform, Gyrolab, has been employed for the analysis of biotherapeutics due to its high-throughput capabilities and reduced assay development time. In this study, Gyrolab was utilized to quantify E6011, an anti-fractalkine monoclonal antibody, in monkey serum. During method development, the concentrations of cri",
     "url": "https://pubmed.ncbi.nlm.nih.gov/41552560/",
     "category": "Bioassays"
+  },
+  {
+    "title": "Advanced Nanoemulsion Architectures for Precision Theranostics and Next-Generation Biomedical Translation.",
+    "authors": "Chauhan A, Kamal R, Kumar M, et al.",
+    "journal": "Int J Nanomedicine",
+    "date": "2026-01-01",
+    "abstract": "Nanoemulsions (NEs) are kinetically stable, thermodynamically unstable colloidal systems composed of nanoscale oil and aqueous domains stabilized primarily by surfactants and, where required, co-surfactants. Their small droplet size, large interfacial area, and tunable physicochemical properties provide opportunities to improve the solubilization, ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42978913/",
+    "category": "mAb Characterization"
+  },
+  {
+    "title": "Preparation and comprehensive physicochemical characterization of trastuzumab-loaded PEGylated liposomal nanoparticles for systemic delivery.",
+    "authors": "Abbas SS, Hassan BAR, Hadi HA, et al.",
+    "journal": "Sci Prog",
+    "date": "2026-01-01",
+    "abstract": "ObjectiveThe primary objective of this experimental formulation-development study was to prepare and physicochemically characterize a trastuzumab-loaded liposomal formulation containing post-inserted DSPE-PEG2000 for systemic-delivery research. The secondary objective was to determine whether the preparation and recovery process preserved trastuzum",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42969552/",
+    "category": "mAb Characterization"
   },
   {
     "title": "Glycoengineering of Monoclonal Antibodies with Homogeneous Glycan Isomers with Asymmetric Antennae.",
