@@ -27,6 +27,15 @@
     "category": "Mass Spectrometry"
   },
   {
+    "title": "Overcoming barriers for expanding market access to follow-on biologics in lower-middle-income countries.",
+    "authors": "MacDonald K, Okechukwu AO, Phan H, et al.",
+    "journal": "J Med Econ",
+    "date": "2026-12-01",
+    "abstract": "Biologic therapies are highly effective for cancers, autoimmune and inflammatory conditions, diabetes, and other chronic diseases, yet remain largely out of reach in low- and lower-middle-income countries despite the rising non-communicable disease burden in these countries. Only about 1 billion of the world's 8 billion people can access biologics,",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43016302/",
+    "category": "Biosimilars"
+  },
+  {
     "title": "Differential effects of N-acetylmannosamine on O-glycan sialylation of therapeutic Fc-fusion glycoproteins in CHO and HEK293 cells.",
     "authors": "Kim TH, Kim HS, You J, et al.",
     "journal": "J Biotechnol",
@@ -34,6 +43,33 @@
     "abstract": "Sialylation is a critical quality attribute of therapeutic glycoproteins, yet strategies to specifically modulate O-glycan sialylation remain underdeveloped compared to N-glycosylation. While N-acetylmannosamine (ManNAc) is widely utilized as an established enhancer of N-glycan sialylation, its efficacy in modulating O-glycan structures has remaine",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42753818/",
     "category": "Biosimilars"
+  },
+  {
+    "title": "Solubility profiling of therapeutic peptides by Taylor dispersion induced precipitation using nanoliter sample volumes.",
+    "authors": "Larsen JA, Ochoa R, Norrman M, et al.",
+    "journal": "J Pharm Sci",
+    "date": "2026-11-14",
+    "abstract": "Therapeutic peptides are emerging as an important class of pharmaceutical compounds able to bridge the gap between small molecules and large biologics. Although modern peptide synthesis protocols have significantly increased the throughput of drug discovery; physicochemical assessment of the peptides' robustness with respect to developability into ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033981/",
+    "category": "Stability"
+  },
+  {
+    "title": "Antigen-specific IgG glycosylation in cancer: From tertiary lymphoid immunity toward liquid biomarkers of immunotherapy.",
+    "authors": "Lv C, Liu S",
+    "journal": "Clin Chim Acta",
+    "date": "2026-11-13",
+    "abstract": "Altered immunoglobulin G (IgG) glycosylation is increasingly investigated as a circulating cancer biomarker, but most studies profile bulk IgG and cannot determine whether the measured glycans belong to antibodies that recognize the tumor. In parallel, tertiary lymphoid structures (TLS) have emerged as intratumoral sites of B-cell maturation and tu",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43025476/",
+    "category": "Glycosylation"
+  },
+  {
+    "title": "Polysorbate-based mixed micelles for protein stabilization: Development of manufacturing methods for phosphatidylcholine-polysorbate 80 systems and comparison to polysorbate 20 systems.",
+    "authors": "Weber J, Bollenbach L, Diederichs T, et al.",
+    "journal": "J Pharm Sci",
+    "date": "2026-11-10",
+    "abstract": "Surfactants are commonly employed in protein formulations because proteins can undergo denaturation and particle formation. In the domain of pharmaceuticals, polysorbates (PS) such as PS20 and PS80 are extensively used as non-ionic surfactants in pharmaceutical formulations. However, polysorbates themselves may contribute to formulation instabiliti",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43008856/",
+    "category": "Chromatography"
   },
   {
     "title": "Advancing Host Cell Protein Characterization in Monoclonal Antibody Therapeutics: A Nanoparticle-Enriched and High-Sensitivity Mass Spectrometry Approach.",
@@ -45,8 +81,17 @@
     "category": "Mass Spectrometry"
   },
   {
-    "title": "Regulatory landscape for inhaled biologics: Considerations and guidelines.",
-    "authors": "Duggal I, Warnken Z, Nair V, et al.",
+    "title": "Glucocorticoid-based immunology antibody-drug conjugates: linker, warhead, and targeting strategies for anti-inflammatory drug development.",
+    "authors": "Kang B, Park J, Baek S, et al.",
+    "journal": "Bioorg Chem",
+    "date": "2026-11-06",
+    "abstract": "Glucocorticoids (GCs) are effective anti-inflammatory agents, but systemic glucocorticoid receptor (GR) activation limits prolonged treatment. Immunology antibody-drug conjugates (iADCs) seek to concentrate GR agonist activity in selected cell populations while limiting systemic payload exposure. This review examines GC- and glucocorticoid receptor",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43003049/",
+    "category": "Stability"
+  },
+  {
+    "title": "Regulatory landscape for inhaled biologics: Considerations and Guidelines.",
+    "authors": "Duggal I, Warnken Z, Nair VV, et al.",
     "journal": "Adv Drug Deliv Rev",
     "date": "2026-11-05",
     "abstract": "Despite significant scientific interest, only a small number of inhaled biologics have reached regulatory approval, reflecting the complex interplay between the inherent structural fragility of biologics during the aerosolization steps intrinsic to inhaled administration and the absence of inhalation-specific regulatory guidance. This review examin",
@@ -171,6 +216,15 @@
     "category": "Glycosylation"
   },
   {
+    "title": "β-Sitosterol-Naringenin Co-Loaded Nanophytosomes: Encapsulation, Compound-Specific Release Kinetics, Machine Learning-Assisted Release Prediction, and Cell-Dependent Anticancer Activity.",
+    "authors": "Mahmood TH, Al-Samydai A, Al-Mamoori FF, et al.",
+    "journal": "Int J Mol Sci",
+    "date": "2026-10-24",
+    "abstract": "β-Sitosterol and naringenin have anticancer potential but poor biopharmaceutical properties, while their behavior when co-encapsulated remains poorly defined. This study examined whether co-loading alters encapsulation efficiency, compound-specific release behavior, predictability, and cell-dependent activity. Single- and co-loaded nanophytosomes w",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43027760/",
+    "category": "mAb Characterization"
+  },
+  {
     "title": "Size exclusion chromatography as a characterization tool for quality control of marine biopharmaceutical keyhole limpet hemocyanin.",
     "authors": "Cermakova P, Majerova P, Kovac A, et al.",
     "journal": "Acta Pharm",
@@ -187,15 +241,6 @@
     "abstract": "Oncology antibody therapeutics, including monoclonal antibodies (mAbs), antibody-drug conjugates (ADCs), and multispecific antibodies, are therapeutically important yet physicochemically complex drug products. Their clinical performance depends on preserving structural and functional integrity throughout preparation and administration. Transfer fro",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42919676/",
     "category": "Novel Modalities"
-  },
-  {
-    "title": "Capillary gel electrophoresis analysis of the forced degradation study products of a therapeutic monoclonal antibody.",
-    "authors": "Auer F, Guttman A",
-    "journal": "J Pharm Biomed Anal",
-    "date": "2026-10-22",
-    "abstract": "Biotherapeutic proteins, notably monoclonal antibodies (mAbs), have revolutionized the treatment of autoimmune diseases, cancers, and some rare genetic disorders due to their high specificity and efficacy. The stability of protein-based therapeutics is a critical determinant of their safety and effectiveness, as they are susceptible to both physica",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42950500/",
-    "category": "Stability"
   },
   {
     "title": "Cell-Based Assay Development and Standardization for Antibody-Drug Conjugates.",
@@ -225,33 +270,6 @@
     "category": "mAb Characterization"
   },
   {
-    "title": "Bioanalytical assays for clinical similarity assessment of biotherapeutics: evolving platforms and regulatory considerations.",
-    "authors": "Chandnani V, Tiwari S, Bob M, et al.",
-    "journal": "Bioanalysis",
-    "date": "2026-10-18",
-    "abstract": "The rapid expansion of biosimilars following the patent expiry of biologic therapies has increased the need for robust bioanalytical strategies capable of supporting biosimilarity assessment and regulatory decision-making. Within the totality-of-evidence framework, bioanalytical assays play a pivotal role in generating comparative pharmacokinetic (",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42894407/",
-    "category": "Bioassays"
-  },
-  {
-    "title": "Electrostatic inversion in pH-gradient antigen affinity chromatography: The selectivity bias for deamidated trastuzumab proteoforms.",
-    "authors": "Lippold S, Sastry S, Whang K, et al.",
-    "journal": "J Chromatogr A",
-    "date": "2026-10-17",
-    "abstract": "Affinity chromatography hyphenated to mass spectrometry (AC-MS) has emerged as a powerful technology for the simultaneous structural and functional characterization of therapeutic antibodies. However, the reliance on pH gradients in AC raises fundamental questions regarding the accurate ranking of proteoforms, in particular for target interactions ",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42925825/",
-    "category": "mAb Characterization"
-  },
-  {
-    "title": "Integrated dual carbon source and TCA intermediate supplementation in fed-batch fermentation of CHO cells for reduced lactate and ammonia accumulation and improved IgG1 monoclonal antibody titre.",
-    "authors": "Naidu A, Padhye K, Dandekar P, et al.",
-    "journal": "Bioprocess Biosyst Eng",
-    "date": "2026-10-16",
-    "abstract": "Chinese hamster ovary (CHO) cells are the workhorse of biopharmaceutical manufacturing, yet lactate and ammonia accumulation remain persistent bottlenecks that compromise cell viability, productivity, and product quality. To address this, we present an integrated feeding strategy systematically combining Ala-Gln, TCA intermediates, and glucose-gala",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42886232/",
-    "category": "Glycosylation"
-  },
-  {
     "title": "Qualification of Targeted Attribute Quantitation and New Peak Detection for Automated Multi-Attribute Method Workflows Using Liquid Handling Systems.",
     "authors": "Chang K, Cao Q, Cai C, et al.",
     "journal": "Pharmaceuticals (Basel)",
@@ -270,24 +288,6 @@
     "category": "Chromatography"
   },
   {
-    "title": "Identification of the Root Cause of Visible Particle Formation in a Therapeutic Monoclonal Antibody by LC-MS-Based Approaches.",
-    "authors": "Lim A, Werner AG, Doyle BL, et al.",
-    "journal": "Mol Pharm",
-    "date": "2026-10-05",
-    "abstract": "Visible particles were observed for a therapeutic monoclonal antibody at pH 5.5. This pH was considered optimal for this antibody during preclinical development. To minimize the particle formation, the pH of the final drug substance was increased to 6.5. There were no visible particles at pH 6.5 initially, but visible particles started to form afte",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42906176/",
-    "category": "Chromatography"
-  },
-  {
-    "title": "GlycoMAC: A Multiscale Metabolic-Glycosylation Framework for Predicting Glycosylation Across Conditions in Mammalian Cell Cultures.",
-    "authors": "Zeng Y, Harcum SW, Pei J, et al.",
-    "journal": "Biotechnol Bioeng",
-    "date": "2026-10-05",
-    "abstract": "Antibody productivity and glycosylation quality in CHO cell cultures emerge from a dynamically evolving metabolic environment, yet existing models often work in isolation or at a single scale. Here, we present a multiscale mechanistic framework linking molecular, cellular, and macroscopic scales to predict how inputs shape bioprocess trajectories. ",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42831456/",
-    "category": "Glycosylation"
-  },
-  {
     "title": "Plant Molecular Farming for Cancer Immunotherapy: Production, Glycoengineering, and Structural Insights into Therapeutic Monoclonal Antibodies.",
     "authors": "Tamayo-Ordoñez MC, García-Castillo MJ, Tamayo-Ordoñez FA, et al.",
     "journal": "Curr Issues Mol Biol",
@@ -295,15 +295,6 @@
     "abstract": "Cancer is one of the leading causes of mortality worldwide, creating an urgent need for innovative, scalable, and cost-effective therapeutic strategies. Monoclonal antibodies have transformed modern oncology by enabling highly specific targeting of tumor-associated antigens and immune checkpoint pathways. However, their production in conventional m",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42939566/",
     "category": "Glycosylation"
-  },
-  {
-    "title": "Bench-to-Bedside Perspectives on the Development of Soluble TCR-Based Protein Biologics: Current Landscape, Control Strategy and Future Direction.",
-    "authors": "Zhang J, An H, Yu C, et al.",
-    "journal": "Int J Mol Sci",
-    "date": "2026-10-04",
-    "abstract": "Soluble T-cell receptor (TCR)-based biologics (protein-based) are an emerging class of immunotherapeutic agents that recognize antigenic peptides presented by the human leukocyte antigen (HLA) on the surface of target cells. Furthermore, they simultaneously bind to cluster of differentiation 3 (CD3) subunits on T cells, recruit T cells to target ce",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42884102/",
-    "category": "Novel Modalities"
   },
   {
     "title": "Hydrophilic Interaction Liquid Chromatography Enables Drug-to-Antibody Ratio Measurement of a Heterogeneous Lysine-Conjugated Antibody Fragment.",
@@ -331,15 +322,6 @@
     "abstract": "Host cell residual DNA (rDNA) is a critical process-related impurity in biopharmaceutical production, involving trace amounts of DNA fragments originating from yeast, bacteria, CHO (Chinese hamster ovary), and other host cells. Monitoring both the size and quantity of rDNA is essential because of potential safety risks, including oncogenicity and i",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42915239/",
     "category": "Chromatography"
-  },
-  {
-    "title": "Expanding Patient Access to Advanced Therapies.",
-    "authors": "Guillen E, Hidalgo-Simon A",
-    "journal": "BioDrugs",
-    "date": "2026-09-01",
-    "abstract": "Advanced therapy medicinal products (ATMPs) promise transformative clinical potential, but their use remains limited by complex manufacturing, high prices, and fragmented market access. To explore the existing and potential regulatory pathways to increase access to ATMPs, we conducted a product-level analysis of ATMPs and biologic medicines submitt",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42481849/",
-    "category": "Biosimilars"
   },
   {
     "title": "HER2-low and HER2-ultralow breast cancer in the antibody-drug conjugate era: diagnostic challenges and reporting workflow.",
@@ -414,6 +396,15 @@
     "category": "mAb Characterization"
   },
   {
+    "title": "Bioanalytical assays for clinical similarity assessment of biotherapeutics: evolving platforms and regulatory considerations.",
+    "authors": "Chandnani V, Tiwari S, Bob M, et al.",
+    "journal": "Bioanalysis",
+    "date": "2026-01-01",
+    "abstract": "The rapid expansion of biosimilars following the patent expiry of biologic therapies has increased the need for robust bioanalytical strategies capable of supporting biosimilarity assessment and regulatory decision-making. Within the totality-of-evidence framework, bioanalytical assays play a pivotal role in generating comparative pharmacokinetic (",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42894407/",
+    "category": "Bioassays"
+  },
+  {
     "title": "Glycoengineering of Monoclonal Antibodies with Homogeneous Glycan Isomers with Asymmetric Antennae.",
     "authors": "Tam RY, Hatfield G, Tepliakova L",
     "journal": "Methods Mol Biol",
@@ -430,6 +421,15 @@
     "abstract": "The efficiency of ligand binding assay (LBA)-based immunogenicity assessment can be compromised by the presence of high concentrations of soluble pharmacological target. This is particularly challenging for therapies targeting highly abundant multimeric plasma proteins, such as Von Willebrand Factor (VWF). We developed and validated a hybrid LBA-LC",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42206838/",
     "category": "Bioassays"
+  },
+  {
+    "title": "From Mucin to Smart Medicine: Engineering Mucin-Based Biomaterials for Advanced and Responsive Drug Delivery.",
+    "authors": "Abudayah AA",
+    "journal": "Adv Pharmacol Pharm Sci",
+    "date": "2026-01-01",
+    "abstract": "Mucin, a highly glycosylated macromolecular component of mucus, has traditionally been regarded as a biological barrier that restricts drug transport across mucosal surfaces. Growing evidence, however, has repositioned mucin as a functional and engineerable biomaterial with distinctive potential for advanced drug delivery. This review examines the ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43011189/",
+    "category": "Glycosylation"
   },
   {
     "title": "The biologics manufacturing patent notice challenge: a comparative examination.",
